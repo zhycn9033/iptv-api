@@ -3,8 +3,8 @@
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 BiliBili,#genre#
-https://github.com/lalifeier/IPTV/raw/refs/heads/main/m3u/bilibili.m3u
+https://cdn.jsdelivr.net/gh/lalifeier/IPTV/refs/heads/main/m3u/bilibili.m3u
 斗鱼,#genre#
-https://github.com/lalifeier/IPTV/raw/refs/heads/main/m3u/douyu.m3u
+https://cdn.jsdelivr.net/gh/lalifeier/IPTV/refs/heads/main/m3u/douyu.m3u
 虎牙,#genre#
-https://github.com/lalifeier/IPTV/raw/refs/heads/main/m3u/huya.m3u
+https://cdn.jsdelivr.net/gh/lalifeier/IPTV/refs/heads/main/m3u/huya.m3u

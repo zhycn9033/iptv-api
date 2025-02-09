@@ -2,27 +2,27 @@
 # 填写频道名称会直接保留该记录至最终结果，如：CCTV-1,接口地址，只填写接口地址则对所有频道生效，多条记录换行输入。
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
-象棋-象棋官方账号,https://www.goodiptv.club/huya/29041501
-象棋-八卦象棋大师,https://www.goodiptv.club/huya/30255695
-象棋-九妹笑笑象棋,https://www.goodiptv.club/huya/29710634
-象棋-象棋戴少帅,https://www.goodiptv.club/huya/xqdss
-象棋-背谱王子,https://www.goodiptv.club/huya/610553
-象棋-五月妖刀象棋,https://www.goodiptv.club/huya/549983
-象棋-公园象棋杀手,https://www.goodiptv.club/huya/19559678
-象棋-孙浩宇大师,https://www.goodiptv.club/huya/382310
-象棋-广西棋王陈建昌,https://www.goodiptv.club/huya/21359045
-象棋-虎牙象棋国手,https://www.goodiptv.club/huya/14730819
+象棋-象棋官方账号,http://www.goodiptv.club/huya/29041501
+象棋-八卦象棋大师,http://www.goodiptv.club/huya/30255695
+象棋-九妹笑笑象棋,http://www.goodiptv.club/huya/29710634
+象棋-象棋戴少帅,http://www.goodiptv.club/huya/xqdss
+象棋-背谱王子,http://www.goodiptv.club/huya/610553
+象棋-五月妖刀象棋,http://www.goodiptv.club/huya/549983
+象棋-公园象棋杀手,http://www.goodiptv.club/huya/19559678
+象棋-孙浩宇大师,http://www.goodiptv.club/huya/382310
+象棋-广西棋王陈建昌,http://www.goodiptv.club/huya/21359045
+象棋-虎牙象棋国手,http://www.goodiptv.club/huya/14730819
 
-象棋-象棋官方账号,https://live.metshop.top/huya/29041501
-象棋-八卦象棋大师,https://live.metshop.top/huya/30255695
-象棋-九妹笑笑象棋,https://live.metshop.top/huya/29710634
-象棋-象棋戴少帅,https://live.metshop.top/huya/xqdss
-象棋-背谱王子,https://live.metshop.top/huya/610553
-象棋-五月妖刀象棋,https://live.metshop.top/huya/549983
-象棋-公园象棋杀手,https://live.metshop.top/huya/19559678
-象棋-孙浩宇大师,https://live.metshop.top/huya/382310
-象棋-广西棋王陈建昌,https://live.metshop.top/huya/21359045
-象棋-虎牙象棋国手,https://live.metshop.top/huya/14730819
+象棋-象棋官方账号,http://live.metshop.top/huya/29041501
+象棋-八卦象棋大师,http://live.metshop.top/huya/30255695
+象棋-九妹笑笑象棋,http://live.metshop.top/huya/29710634
+象棋-象棋戴少帅,http://live.metshop.top/huya/xqdss
+象棋-背谱王子,http://live.metshop.top/huya/610553
+象棋-五月妖刀象棋,http://live.metshop.top/huya/549983
+象棋-公园象棋杀手,http://live.metshop.top/huya/19559678
+象棋-孙浩宇大师,http://live.metshop.top/huya/382310
+象棋-广西棋王陈建昌,http://live.metshop.top/huya/21359045
+象棋-虎牙象棋国手,http://live.metshop.top/huya/14730819
 
 象棋-象棋官方账号,http://rihou.cc:555/huyad.php?id=29041501
 象棋-八卦象棋大师,http://rihou.cc:555/huyad.php?id=30255695
@@ -89,15 +89,15 @@
 北京纪实科教,http://110.40.33.162:99/zb/bjws.php?id=js
 北京卡酷少儿,http://110.40.33.162:99/zb/bjws.php?id=kk
 
-北京卫视,https://php.joylian.com/api/brtn.php?id=bjws
-北京体育休闲,https://php.joylian.com/api/brtn.php?id=bjty
-北京新闻,https://php.joylian.com/api/brtn.php?id=bjxw
-北京影视,https://php.joylian.com/api/brtn.php?id=bjys
-北京文艺,https://php.joylian.com/api/brtn.php?id=bjwy
-北京财经,https://php.joylian.com/api/brtn.php?id=bjcj
-北京生活,https://php.joylian.com/api/brtn.php?id=bjsh
-北京纪实科教,https://php.joylian.com/api/brtn.php?id=bjjs
-北京卡酷少儿,https://php.joylian.com/api/brtn.php?id=bjkk
+北京卫视,http://php.joylian.com/api/brtn.php?id=bjws
+北京体育休闲,http://php.joylian.com/api/brtn.php?id=bjty
+北京新闻,http://php.joylian.com/api/brtn.php?id=bjxw
+北京影视,http://php.joylian.com/api/brtn.php?id=bjys
+北京文艺,http://php.joylian.com/api/brtn.php?id=bjwy
+北京财经,http://php.joylian.com/api/brtn.php?id=bjcj
+北京生活,http://php.joylian.com/api/brtn.php?id=bjsh
+北京纪实科教,http://php.joylian.com/api/brtn.php?id=bjjs
+北京卡酷少儿,http://php.joylian.com/api/brtn.php?id=bjkk
 
 # 北京卫视,http://cqshushu.us.kg:2086/bjtv.php?id=bjws
 # 北京体育休闲,http://cqshushu.us.kg:2086/bjtv.php?id=bjty

@@ -2,13 +2,12 @@
 # 填写频道名称会直接保留该记录至最终结果，如：CCTV-1,接口地址，只填写接口地址则对所有频道生效，多条记录换行输入。
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
-象棋-象棋官方账号,29041501
+象棋-象棋官方账号,http://182.40.120.195/hs.flv.huya.com/src/1199632306056-1199632306056-5739925170617843712-2399264735568-10057-A-0-1.flv
 象棋-八卦象棋大师,http://182.40.120.195/hs.flv.huya.com/src/1319533350464-1319533350464-7470698330020125884-2639066824384-10057-A-1739408402-1.flv
 象棋-九妹笑笑象棋,http://182.40.120.195/hs.flv.huya.com/src/1259519035406-1259519035406-4697052161337458688-2519038194268-10057-A-0-1.flv
 象棋-象棋戴少帅,http://182.40.120.195/hs.flv.huya.com/src/2291875087-2291875087-9843528545182154752-4583873630-10057-A-0-1.flv
 象棋-背谱王子,http://182.40.120.195/hs.flv.huya.com/src/1199535077034-1199535077034-5322329700905779200-2399070277524-10057-A-0-1.flv
 象棋-五月妖刀象棋,http://182.40.120.195/hs.flv.huya.com/src/1446617084-1446617084-6213173065614884864-2893357624-10057-A-0-1.flv
-象棋-公园象棋杀手,19559678
 象棋-孙浩宇大师,http://182.40.120.195/hs.flv.huya.com/src/2172663312-2172663312-9331517870259044352-4345450080-10057-A-0-1.flv
 象棋-广西棋王陈建昌,http://182.40.120.195/hs.flv.huya.com/src/1199532487323-1199532487323-5311206976854687744-2399065098102-10057-A-0-1.flv
 象棋-虎牙象棋国手,http://182.40.120.195/hs.flv.huya.com/src/17989609-17989609-77264782322827264-4404057136-10057-A-0-1.flv
@@ -19,7 +18,6 @@
 象棋-象棋戴少帅,http://diyp.zxyxndc.top/huya/xqdss
 象棋-背谱王子,http://diyp.zxyxndc.top/huya/610553
 象棋-五月妖刀象棋,http://diyp.zxyxndc.top/huya/549983
-象棋-公园象棋杀手,http://diyp.zxyxndc.top/huya/19559678
 象棋-孙浩宇大师,http://diyp.zxyxndc.top/huya/382310
 象棋-广西棋王陈建昌,http://diyp.zxyxndc.top/huya/21359045
 象棋-虎牙象棋国手,http://diyp.zxyxndc.top/huya/14730819
@@ -30,7 +28,6 @@
 象棋-象棋戴少帅,https://025365.xyz:8082/huya.php?id=xqdss
 象棋-背谱王子,https://025365.xyz:8082/huya.php?id=610553
 象棋-五月妖刀象棋,https://025365.xyz:8082/huya.php?id=549983
-象棋-公园象棋杀手,https://025365.xyz:8082/huya.php?id=19559678
 象棋-孙浩宇大师,https://025365.xyz:8082/huya.php?id=382310
 象棋-广西棋王陈建昌,https://025365.xyz:8082/huya.php?id=21359045
 象棋-虎牙象棋国手,https://025365.xyz:8082/huya.php?id=14730819
@@ -41,7 +38,6 @@
 象棋-象棋戴少帅,http://www.goodiptv.club/huya/xqdss
 象棋-背谱王子,http://www.goodiptv.club/huya/610553
 象棋-五月妖刀象棋,http://www.goodiptv.club/huya/549983
-象棋-公园象棋杀手,http://www.goodiptv.club/huya/19559678
 象棋-孙浩宇大师,http://www.goodiptv.club/huya/382310
 象棋-广西棋王陈建昌,http://www.goodiptv.club/huya/21359045
 象棋-虎牙象棋国手,http://www.goodiptv.club/huya/14730819
@@ -52,7 +48,6 @@
 象棋-象棋戴少帅,http://live.metshop.top/huya/xqdss
 象棋-背谱王子,http://live.metshop.top/huya/610553
 象棋-五月妖刀象棋,http://live.metshop.top/huya/549983
-象棋-公园象棋杀手,http://live.metshop.top/huya/19559678
 象棋-孙浩宇大师,http://live.metshop.top/huya/382310
 象棋-广西棋王陈建昌,http://live.metshop.top/huya/21359045
 象棋-虎牙象棋国手,http://live.metshop.top/huya/14730819
@@ -63,7 +58,6 @@
 象棋-象棋戴少帅,http://rihou.cc:555/huyad.php?id=xqdss
 象棋-背谱王子,http://rihou.cc:555/huyad.php?id=610553
 象棋-五月妖刀象棋,http://rihou.cc:555/huyad.php?id=549983
-象棋-公园象棋杀手,http://rihou.cc:555/huyad.php?id=19559678
 象棋-孙浩宇大师,http://rihou.cc:555/huyad.php?id=382310
 象棋-广西棋王陈建昌,http://rihou.cc:555/huyad.php?id=21359045
 象棋-虎牙象棋国手,http://rihou.cc:555/huyad.php?id=14730819
@@ -74,7 +68,6 @@
 象棋-象棋戴少帅,http://ygbh666.cn/huya.php?id=xqdss
 象棋-背谱王子,http://ygbh666.cn/huya.php?id=610553
 象棋-五月妖刀象棋,http://ygbh666.cn/huya.php?id=549983
-象棋-公园象棋杀手,http://ygbh666.cn/huya.php?id=19559678
 象棋-孙浩宇大师,http://ygbh666.cn/huya.php?id=382310
 象棋-广西棋王陈建昌,http://ygbh666.cn/huya.php?id=21359045
 象棋-虎牙象棋国手,http://ygbh666.cn/huya.php?id=14730819
@@ -85,7 +78,6 @@
 象棋-象棋戴少帅,http://1.94.31.214:35455/huya/xqdss
 象棋-背谱王子,http://1.94.31.214:35455/huya/610553
 象棋-五月妖刀象棋,http://1.94.31.214:35455/huya/549983
-象棋-公园象棋杀手,http://1.94.31.214:35455/huya/19559678
 象棋-孙浩宇大师,http://1.94.31.214:35455/huya/382310
 象棋-广西棋王陈建昌,http://1.94.31.214:35455/huya/21359045
 象棋-虎牙象棋国手,http://1.94.31.214:35455/huya/14730819
@@ -96,7 +88,6 @@
 象棋-象棋戴少帅,http://dns.yiandrive.com:15907/huya/xqdss
 象棋-背谱王子,http://dns.yiandrive.com:15907/huya/610553
 象棋-五月妖刀象棋,http://dns.yiandrive.com:15907/huya/549983
-象棋-公园象棋杀手,http://dns.yiandrive.com:15907/huya/19559678
 象棋-孙浩宇大师,http://dns.yiandrive.com:15907/huya/382310
 象棋-广西棋王陈建昌,http://dns.yiandrive.com:15907/huya/21359045
 象棋-虎牙象棋国手,http://dns.yiandrive.com:15907/huya/14730819
@@ -107,7 +98,6 @@
 象棋-象棋戴少帅,http://www.52sw.top:678/play/huya.php?id=xqdss
 象棋-背谱王子,http://www.52sw.top:678/play/huya.php?id=610553
 象棋-五月妖刀象棋,http://www.52sw.top:678/play/huya.php?id=549983
-象棋-公园象棋杀手,http://www.52sw.top:678/play/huya.php?id=19559678
 象棋-孙浩宇大师,http://www.52sw.top:678/play/huya.php?id=382310
 象棋-广西棋王陈建昌,http://www.52sw.top:678/play/huya.php?id=21359045
 象棋-虎牙象棋国手,http://www.52sw.top:678/play/huya.php?id=14730819

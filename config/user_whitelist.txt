@@ -3,6 +3,8 @@
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
+
 象棋-象棋官方账号,https://025365.xyz:8082/huya.php?id=29041501
 象棋-八卦象棋大师,https://025365.xyz:8082/huya.php?id=30255695
 象棋-九妹笑笑象棋,https://025365.xyz:8082/huya.php?id=29710634
@@ -322,8 +324,6 @@
 # 北京生活,http://aecbjhadssunrpmr.node.ppio.cloud:8888/rtp/239.3.1.117:8000
 # 北京纪实科教,http://aecbjhadssunrpmr.node.ppio.cloud:8888/rtp/239.3.1.115:8000
 # 北京卡酷少儿,http://aecbjhadssunrpmr.node.ppio.cloud:8888/rtp/239.3.1.189:8000
-
-https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 
 CCTV-1,webview://https://tv.cctv.com/live/cctv1/
 CCTV-2,webview://https://tv.cctv.com/live/cctv2/

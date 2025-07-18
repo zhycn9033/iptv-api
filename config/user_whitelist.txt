@@ -3,6 +3,17 @@
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
+
+象棋-象棋官方账号,http://huya.chinamm.cn/?id=29041501
+象棋-八卦象棋大师,http://huya.chinamm.cn/?id=30255695
+象棋-九妹笑笑象棋,http://huya.chinamm.cn/?id=29710634
+象棋-象棋戴少帅,http://huya.chinamm.cn/?id=487836
+象棋-背谱王子,http://huya.chinamm.cn/?id=610553
+象棋-五月妖刀象棋,http://huya.chinamm.cn/?id=549983
+象棋-孙浩宇大师,http://huya.chinamm.cn/?id=382310
+象棋-广西棋王陈建昌,http://huya.chinamm.cn/?id=21359045
+象棋-虎牙象棋国手,http://huya.chinamm.cn/?id=14730819
+
 象棋-象棋官方账号,https://025365.xyz:8082/huya.php?id=29041501
 象棋-八卦象棋大师,https://025365.xyz:8082/huya.php?id=30255695
 象棋-九妹笑笑象棋,https://025365.xyz:8082/huya.php?id=29710634
@@ -181,6 +192,11 @@ https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BR
 龙门镖局,https://025365.xyz:8082/huya.php?id=11352874
 东北一家人,https://025365.xyz:8082/huya.php?id=21059634
 爱情公寓,https://025365.xyz:8082/huya.php?id=11336726
+
+地下交通站,http://huya.chinamm.cn/?id=11342433
+龙门镖局,http://huya.chinamm.cn/?id=11352874
+东北一家人,http://huya.chinamm.cn/?id=21059634
+爱情公寓,http://huya.chinamm.cn/?id=11336726
 
 CCTV-1,webview://https://tv.cctv.com/live/cctv1/
 CCTV-2,webview://https://tv.cctv.com/live/cctv2/

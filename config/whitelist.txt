@@ -2,3 +2,294 @@
 # 填写频道名称会直接保留该记录至最终结果，如：CCTV-1,接口地址，只填写接口地址则对所有频道生效，多条记录换行输入。
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
+
+
+# 这是接口或订阅源的白名单，白名单内的接口或订阅源获取的接口将不会参与测速，优先排序至结果最前。
+# 填写频道名称会直接保留该记录至最终结果，如：CCTV-1,接口地址，只填写接口地址则对所有频道生效，多条记录换行输入。
+# This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
+# Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/iptv.m3u
+
+象棋-象棋官方账号,https://025365.xyz:8082/huya.php?id=29041501
+象棋-八卦象棋大师,https://025365.xyz:8082/huya.php?id=30255695
+象棋-九妹笑笑象棋,https://025365.xyz:8082/huya.php?id=29710634
+象棋-象棋戴少帅,https://025365.xyz:8082/huya.php?id=487836
+象棋-背谱王子,https://025365.xyz:8082/huya.php?id=610553
+象棋-五月妖刀象棋,https://025365.xyz:8082/huya.php?id=549983
+象棋-孙浩宇大师,https://025365.xyz:8082/huya.php?id=382310
+象棋-广西棋王陈建昌,https://025365.xyz:8082/huya.php?id=21359045
+象棋-虎牙象棋国手,https://025365.xyz:8082/huya.php?id=14730819
+
+象棋-象棋官方账号,http://www.goodiptv.club/huya/29041501
+象棋-八卦象棋大师,http://www.goodiptv.club/huya/30255695
+象棋-九妹笑笑象棋,http://www.goodiptv.club/huya/29710634
+象棋-象棋戴少帅,http://www.goodiptv.club/huya/487836
+象棋-背谱王子,http://www.goodiptv.club/huya/610553
+象棋-五月妖刀象棋,http://www.goodiptv.club/huya/549983
+象棋-孙浩宇大师,http://www.goodiptv.club/huya/382310
+象棋-广西棋王陈建昌,http://www.goodiptv.club/huya/21359045
+象棋-虎牙象棋国手,http://www.goodiptv.club/huya/14730819
+
+象棋-象棋官方账号,http://live.metshop.top/huya/29041501
+象棋-八卦象棋大师,http://live.metshop.top/huya/30255695
+象棋-九妹笑笑象棋,http://live.metshop.top/huya/29710634
+象棋-象棋戴少帅,http://live.metshop.top/huya/487836
+象棋-背谱王子,http://live.metshop.top/huya/610553
+象棋-五月妖刀象棋,http://live.metshop.top/huya/549983
+象棋-孙浩宇大师,http://live.metshop.top/huya/382310
+象棋-广西棋王陈建昌,http://live.metshop.top/huya/21359045
+象棋-虎牙象棋国手,http://live.metshop.top/huya/14730819
+
+象棋-象棋官方账号,http://diyp.zxyxndc.top/huya/29041501
+象棋-八卦象棋大师,http://diyp.zxyxndc.top/huya/30255695
+象棋-九妹笑笑象棋,http://diyp.zxyxndc.top/huya/29710634
+象棋-象棋戴少帅,http://diyp.zxyxndc.top/huya/487836
+象棋-背谱王子,http://diyp.zxyxndc.top/huya/610553
+象棋-五月妖刀象棋,http://diyp.zxyxndc.top/huya/549983
+象棋-孙浩宇大师,http://diyp.zxyxndc.top/huya/382310
+象棋-广西棋王陈建昌,http://diyp.zxyxndc.top/huya/21359045
+象棋-虎牙象棋国手,http://diyp.zxyxndc.top/huya/14730819
+
+象棋-象棋官方账号,http://fmbox.cc/huya.php?id=29041501
+象棋-八卦象棋大师,http://fmbox.cc/huya.php?id=30255695
+象棋-九妹笑笑象棋,http://fmbox.cc/huya.php?id=29710634
+象棋-象棋戴少帅,http://fmbox.cc/huya.php?id=487836
+象棋-背谱王子,http://fmbox.cc/huya.php?id=610553
+象棋-五月妖刀象棋,http://fmbox.cc/huya.php?id=549983
+象棋-孙浩宇大师,http://fmbox.cc/huya.php?id=382310
+象棋-广西棋王陈建昌,http://fmbox.cc/huya.php?id=21359045
+象棋-虎牙象棋国手,http://fmbox.cc/huya.php?id=14730819
+
+象棋-象棋官方账号,http://huya.chinamm.cn/?id=29041501
+象棋-八卦象棋大师,http://huya.chinamm.cn/?id=30255695
+象棋-九妹笑笑象棋,http://huya.chinamm.cn/?id=29710634
+象棋-象棋戴少帅,http://huya.chinamm.cn/?id=487836
+象棋-背谱王子,http://huya.chinamm.cn/?id=610553
+象棋-五月妖刀象棋,http://huya.chinamm.cn/?id=549983
+象棋-孙浩宇大师,http://huya.chinamm.cn/?id=382310
+象棋-广西棋王陈建昌,http://huya.chinamm.cn/?id=21359045
+象棋-虎牙象棋国手,http://huya.chinamm.cn/?id=14730819
+
+北京卫视,http://btv.chinamm.cn/?id=bjws
+北京卫视4K,http://btv.chinamm.cn/?id=bjws4k
+北京体育休闲,http://btv.chinamm.cn/?id=bjty
+北京新闻,http://btv.chinamm.cn/?id=bjxw
+北京影视,http://btv.chinamm.cn/?id=bjys
+北京文艺,http://btv.chinamm.cn/?id=bjwy
+北京财经,http://btv.chinamm.cn/?id=bjcj
+北京生活,http://btv.chinamm.cn/?id=bjsh
+北京纪实科教,http://btv.chinamm.cn/?id=bjjs
+北京卡酷少儿,http://btv.chinamm.cn/?id=bjkk
+
+# 北京卫视,http://110.40.33.162:99/zb/bjws.php?id=ws
+# 北京体育休闲,http://110.40.33.162:99/zb/bjws.php?id=ty
+# 北京新闻,http://110.40.33.162:99/zb/bjws.php?id=xw
+# 北京影视,http://110.40.33.162:99/zb/bjws.php?id=ys
+# 北京文艺,http://110.40.33.162:99/zb/bjws.php?id=wy
+# 北京财经,http://110.40.33.162:99/zb/bjws.php?id=cj
+# 北京生活,http://110.40.33.162:99/zb/bjws.php?id=sh
+# 北京纪实科教,http://110.40.33.162:99/zb/bjws.php?id=js
+# 北京卡酷少儿,http://110.40.33.162:99/zb/bjws.php?id=kk
+
+# 北京卫视,http://php.joylian.com/api/brtn.php?id=bjws
+# 北京体育休闲,http://php.joylian.com/api/brtn.php?id=bjty
+# 北京新闻,http://php.joylian.com/api/brtn.php?id=bjxw
+# 北京影视,http://php.joylian.com/api/brtn.php?id=bjys
+# 北京文艺,http://php.joylian.com/api/brtn.php?id=bjwy
+# 北京财经,http://php.joylian.com/api/brtn.php?id=bjcj
+# 北京生活,http://php.joylian.com/api/brtn.php?id=bjsh
+# 北京纪实科教,http://php.joylian.com/api/brtn.php?id=bjjs
+# 北京卡酷少儿,http://php.joylian.com/api/brtn.php?id=bjkk
+
+# 北京卫视,http://dsk.cc/bjtv/btime.php?id=bjws
+# 北京体育休闲,http://dsk.cc/bjtv/btime.php?id=bjty
+# 北京新闻,http://dsk.cc/bjtv/btime.php?id=bjxw
+# 北京影视,http://dsk.cc/bjtv/btime.php?id=bjys
+# 北京文艺,http://dsk.cc/bjtv/btime.php?id=bjwy
+# 北京财经,http://dsk.cc/bjtv/btime.php?id=bjcj
+# 北京生活,http://dsk.cc/bjtv/btime.php?id=bjsh
+# 北京纪实科教,http://dsk.cc/bjtv/btime.php?id=bjjs
+# 北京卡酷少儿,http://dsk.cc/bjtv/btime.php?id=bjkk
+
+# 北京卫视,http://live.nctv.top/6688/bjtv.php?id=bjws
+# 北京体育休闲,http://live.nctv.top/6688/bjtv.php?id=bjty
+# 北京新闻,http://live.nctv.top/6688/bjtv.php?id=bjxw
+# 北京影视,http://live.nctv.top/6688/bjtv.php?id=bjys
+# 北京文艺,http://live.nctv.top/6688/bjtv.php?id=bjwy
+# 北京财经,http://live.nctv.top/6688/bjtv.php?id=bjcj
+# 北京生活,http://live.nctv.top/6688/bjtv.php?id=bjsh
+# 北京纪实科教,http://live.nctv.top/6688/bjtv.php?id=bjjs
+# 北京卡酷少儿,http://live.nctv.top/6688/bjtv.php?id=bjkk
+
+# 北京卫视,http://nn.7x9d.cn/北京.php?id=bjws
+# 北京体育休闲,http://nn.7x9d.cn/北京.php?id=bjty
+# 北京新闻,http://nn.7x9d.cn/北京.php?id=bjxw
+# 北京影视,http://nn.7x9d.cn/北京.php?id=bjys
+# 北京文艺,http://nn.7x9d.cn/北京.php?id=bjwy
+# 北京财经,http://nn.7x9d.cn/北京.php?id=bjcj
+# 北京生活,http://nn.7x9d.cn/北京.php?id=bjsh
+# 北京纪实科教,http://nn.7x9d.cn/北京.php?id=bjjs
+# 北京卡酷少儿,http://nn.7x9d.cn/北京.php?id=bjkk
+
+# 北京卫视,http://6666666.mghost.site/bjsj.php?id=bjws
+# 北京体育休闲,http://6666666.mghost.site/bjsj.php?id=bjty
+# 北京新闻,http://6666666.mghost.site/bjsj.php?id=bjxw
+# 北京影视,http://6666666.mghost.site/bjsj.php?id=bjys
+# 北京文艺,http://6666666.mghost.site/bjsj.php?id=bjwy
+# 北京财经,http://6666666.mghost.site/bjsj.php?id=bjcj
+# 北京生活,http://6666666.mghost.site/bjsj.php?id=bjsh
+# 北京纪实科教,http://6666666.mghost.site/bjsj.php?id=bjjs
+# 北京卡酷少儿,http://6666666.mghost.site/bjsj.php?id=bjkk
+
+北京卫视,http://124.222.114.206/bjtv.php?id=bjws
+北京体育休闲,http://124.222.114.206/bjtv.php?id=bjty
+北京新闻,http://124.222.114.206/bjtv.php?id=bjxw
+北京影视,http://124.222.114.206/bjtv.php?id=bjys
+北京文艺,http://124.222.114.206/bjtv.php?id=bjwy
+北京财经,http://124.222.114.206/bjtv.php?id=bjcj
+北京生活,http://124.222.114.206/bjtv.php?id=bjsh
+北京纪实科教,http://124.222.114.206/bjtv.php?id=bjjs
+北京卡酷少儿,http://124.222.114.206/bjtv.php?id=bjkk
+
+# 北京卫视,https://tv.bfsu.edu.cn/hls/btv1hd.m3u8
+# 北京体育休闲,https://tv.bfsu.edu.cn/hls/btv11hd.m3u8
+# 北京新闻,https://tv.bfsu.edu.cn/hls/btv9hd.m3u8
+# 北京影视,https://tv.bfsu.edu.cn/hls/btv4hd.m3u8
+# 北京文艺,https://tv.bfsu.edu.cn/hls/btv2hd.m3u8
+# 北京财经,https://tv.bfsu.edu.cn/hls/btv5hd.m3u8
+# 北京生活,https://tv.bfsu.edu.cn/hls/btv7hd.m3u8
+# 北京纪实科教,https://tv.bfsu.edu.cn/hls/btv3hd.m3u8
+# 北京卡酷少儿,https://tv.bfsu.edu.cn/hls/btv10hd.m3u8
+
+北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
+北京体育休闲,http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
+北京新闻,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
+北京影视,http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
+北京文艺,http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
+北京财经,http://iptv.huuc.edu.cn/hls/btv5hd.m3u8
+北京生活,http://iptv.huuc.edu.cn/hls/btv7hd.m3u8
+北京纪实科教,http://iptv.huuc.edu.cn/hls/btv3hd.m3u8
+北京卡酷少儿,http://iptv.huuc.edu.cn/hls/btv10hd.m3u8
+
+孤独的美食家,http://www.goodiptv.club/douyu/260322
+孤独的美食家,http://live.metshop.top/douyu/260322
+孤独的美食家,http://www.goodiptv.club/douyu/953193
+孤独的美食家,http://live.metshop.top/douyu/953193
+地下交通站,http://www.goodiptv.club/huya/11342433
+地下交通站,http://live.metshop.top/huya/11342433
+地下交通站,http://www.goodiptv.club/douyu/9470198
+地下交通站,http://live.metshop.top/douyu/9470198
+地下交通站,http://www.goodiptv.club/douyu/12562123
+地下交通站,http://live.metshop.top/douyu/12562123
+龙门镖局,http://www.goodiptv.club/huya/11352874
+龙门镖局,http://live.metshop.top/huya/11352874
+东北一家人,http://www.goodiptv.club/huya/21059634
+东北一家人,http://live.metshop.top/huya/21059634
+东北一家人,http://www.goodiptv.club/douyu/7642724
+东北一家人,http://live.metshop.top/douyu/7642724
+爱情公寓,http://www.goodiptv.club/huya/11336726
+爱情公寓,http://live.metshop.top/huya/11336726
+爱情公寓,http://www.goodiptv.club/douyu/4105989
+爱情公寓,http://live.metshop.top/douyu/4105989
+爱情公寓,http://www.goodiptv.club/douyu/6863367
+爱情公寓,http://live.metshop.top/douyu/6863367
+
+地下交通站,https://025365.xyz:8082/huya.php?id=11342433
+龙门镖局,https://025365.xyz:8082/huya.php?id=11352874
+东北一家人,https://025365.xyz:8082/huya.php?id=21059634
+爱情公寓,https://025365.xyz:8082/huya.php?id=11336726
+
+地下交通站,http://huya.chinamm.cn/?id=11342433
+龙门镖局,http://huya.chinamm.cn/?id=11352874
+东北一家人,http://huya.chinamm.cn/?id=21059634
+爱情公寓,http://huya.chinamm.cn/?id=11336726
+
+周星驰,http://huya.chinamm.cn/?id=11342412
+柯南,http://huya.chinamm.cn/?id=30080148
+柯南,http://huya.chinamm.cn/?id=30080236
+蜡笔小新,http://huya.chinamm.cn/?id=30362138
+蜡笔小新,http://huya.chinamm.cn/?id=30527430
+
+周星驰,http://www.goodiptv.club/huya/11342412
+柯南,http://www.goodiptv.club/huya/30080148
+柯南,http://www.goodiptv.club/huya/30080236
+蜡笔小新,http://www.goodiptv.club/huya/30362138
+蜡笔小新,http://www.goodiptv.club/huya/30527430
+
+周星驰,http://live.metshop.top/huya/11342412
+柯南,http://live.metshop.top/huya/30080148
+柯南,http://live.metshop.top/huya/30080236
+蜡笔小新,http://live.metshop.top/huya/30362138
+蜡笔小新,http://live.metshop.top/huya/30527430
+
+CCTV-1,webview://https://tv.cctv.com/live/cctv1/
+CCTV-2,webview://https://tv.cctv.com/live/cctv2/
+CCTV-3,webview://https://tv.cctv.com/live/cctv3/
+CCTV-4,webview://https://tv.cctv.com/live/cctv4/
+CCTV-5,webview://https://tv.cctv.com/live/cctv5/
+CCTV-5+,webview://https://tv.cctv.com/live/cctv5plus/
+CCTV-6,webview://https://tv.cctv.com/live/cctv6/
+CCTV-7,webview://https://tv.cctv.com/live/cctv7/
+CCTV-8,webview://https://tv.cctv.com/live/cctv8/
+CCTV-9,webview://https://tv.cctv.com/live/cctvjilu/
+CCTV-10,webview://https://tv.cctv.com/live/cctv10/
+CCTV-11,webview://https://tv.cctv.com/live/cctv11/
+CCTV-12,webview://https://tv.cctv.com/live/cctv12/
+CCTV-13,webview://https://tv.cctv.com/live/cctv13/
+CCTV-14,webview://https://tv.cctv.com/live/cctvchild/
+CCTV-15,webview://https://tv.cctv.com/live/cctv15/
+CCTV-16,webview://https://tv.cctv.com/live/cctv16/
+CCTV-17,webview://https://tv.cctv.com/live/cctv17/
+
+CCTV-1,webview://https://yangshipin.cn/tv/home?pid=600001859
+CCTV-2,webview://https://yangshipin.cn/tv/home?pid=600001800
+CCTV-3,webview://https://yangshipin.cn/tv/home?pid=600001801
+CCTV-4,webview://https://yangshipin.cn/tv/home?pid=600001814
+CCTV-5,webview://https://yangshipin.cn/tv/home?pid=600001818
+CCTV-5+,webview://https://yangshipin.cn/tv/home?pid=600001817
+CCTV-6,webview://https://yangshipin.cn/tv/home?pid=600108442
+CCTV-7,webview://https://yangshipin.cn/tv/home?pid=600004092
+CCTV-8,webview://https://yangshipin.cn/tv/home?pid=600001803
+CCTV-9,webview://https://yangshipin.cn/tv/home?pid=600004078
+CCTV-10,webview://https://yangshipin.cn/tv/home?pid=600001805
+CCTV-11,webview://https://yangshipin.cn/tv/home?pid=600001806
+CCTV-12,webview://https://yangshipin.cn/tv/home?pid=600001807
+CCTV-13,webview://https://yangshipin.cn/tv/home?pid=600001811
+CCTV-14,webview://https://yangshipin.cn/tv/home?pid=600001809
+CCTV-15,webview://https://yangshipin.cn/tv/home?pid=600001815
+CCTV-16,webview://https://yangshipin.cn/tv/home?pid=600098637
+CCTV-17,webview://https://yangshipin.cn/tv/home?pid=600001810
+
+北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
+江苏卫视,webview://https://yangshipin.cn/tv/home?pid=600002521
+东方卫视,webview://https://yangshipin.cn/tv/home?pid=600002483
+浙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002520
+湖南卫视,webview://https://yangshipin.cn/tv/home?pid=600002475
+湖北卫视,webview://https://yangshipin.cn/tv/home?pid=600002508
+广东卫视,webview://https://yangshipin.cn/tv/home?pid=600002485
+广西卫视,webview://https://yangshipin.cn/tv/home?pid=600002509
+黑龙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002498
+海南卫视,webview://https://yangshipin.cn/tv/home?pid=600002506
+重庆卫视,webview://https://yangshipin.cn/tv/home?pid=600002531
+深圳卫视,webview://https://yangshipin.cn/tv/home?pid=600002481
+四川卫视,webview://https://yangshipin.cn/tv/home?pid=600002516
+河南卫视,webview://https://yangshipin.cn/tv/home?pid=600002525
+东南卫视,webview://https://yangshipin.cn/tv/home?pid=600002484
+贵州卫视,webview://https://yangshipin.cn/tv/home?pid=600002490
+江西卫视,webview://https://yangshipin.cn/tv/home?pid=600002503
+辽宁卫视,webview://https://yangshipin.cn/tv/home?pid=600002505
+安徽卫视,webview://https://yangshipin.cn/tv/home?pid=600002532
+河北卫视,webview://https://yangshipin.cn/tv/home?pid=600002493
+山东卫视,webview://https://yangshipin.cn/tv/home?pid=600002513
+天津卫视,webview://https://yangshipin.cn/tv/home?pid=600152137
+吉林卫视,webview://https://yangshipin.cn/tv/home?pid=600190405
+陕西卫视,webview://https://yangshipin.cn/tv/home?pid=600190400
+甘肃卫视,webview://https://yangshipin.cn/tv/home?pid=600190408
+宁夏卫视,webview://https://yangshipin.cn/tv/home?pid=600190737
+内蒙古卫视,webview://https://yangshipin.cn/tv/home?pid=600190401
+云南卫视,webview://https://yangshipin.cn/tv/home?pid=600190402
+山西卫视,webview://https://yangshipin.cn/tv/home?pid=600190407
+青海卫视,webview://https://yangshipin.cn/tv/home?pid=600190406
+西藏卫视,webview://https://yangshipin.cn/tv/home?pid=600190403
+新疆卫视,webview://https://yangshipin.cn/tv/home?pid=600152138
+兵团卫视,webview://https://yangshipin.cn/tv/home?pid=600193252

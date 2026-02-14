@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260213231120 +0800">
+<tv date="20260214110517 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7292,1073 +7292,785 @@
 	<channel id="CHC动作电影">
 		<display-name lang="zh">CHC动作电影</display-name>
 	</channel>
-	<programme channel="CHC动作电影" start="20250730000100 +0800" stop="20250730000500 +0800">
-		<title lang="zh">动作导视</title>
+	<programme channel="CHC动作电影" start="20260126000000 +0800" stop="20260126014000 +0800">
+		<title lang="zh">我经过风暴</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20250730000500 +0800" stop="20250730015200 +0800">
-		<title lang="zh">倚天屠龙记之九阳神功</title>
+	<programme channel="CHC动作电影" start="20260126014000 +0800" stop="20260126034500 +0800">
+		<title lang="zh">激战</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20250730015200 +0800" stop="20250730015500 +0800">
-		<title lang="zh">动作导视</title>
+	<programme channel="CHC动作电影" start="20260126034500 +0800" stop="20260126053500 +0800">
+		<title lang="zh">百团大战</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20250730015500 +0800" stop="20250730042100 +0800">
-		<title lang="zh">鸦片战争</title>
+	<programme channel="CHC动作电影" start="20260126053500 +0800" stop="20260126070500 +0800">
+		<title lang="zh">潜行者</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20250730042100 +0800" stop="20250730042500 +0800">
-		<title lang="zh">动作导视</title>
+	<programme channel="CHC动作电影" start="20260126070500 +0800" stop="20260126083500 +0800">
+		<title lang="zh">八极拳王</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20250730042500 +0800" stop="20250730055000 +0800">
-		<title lang="zh">太极战士</title>
+	<programme channel="CHC动作电影" start="20260126083500 +0800" stop="20260126100500 +0800">
+		<title lang="zh">女警神威</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20250730055000 +0800" stop="20250730074000 +0800">
-		<title lang="zh">动作导视,血战湘江</title>
+	<programme channel="CHC动作电影" start="20260126100500 +0800" stop="20260126113000 +0800">
+		<title lang="zh">少侠快跑</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20250730074000 +0800" stop="20250730090800 +0800">
-		<title lang="zh">动作导视,碧血宝刀</title>
+	<programme channel="CHC动作电影" start="20260126113000 +0800" stop="20260126125500 +0800">
+		<title lang="zh">极速保镖</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20250730090800 +0800" stop="20250730091000 +0800">
-		<title lang="zh">动作导视</title>
+	<programme channel="CHC动作电影" start="20260126125500 +0800" stop="20260126142500 +0800">
+		<title lang="zh">少林豪侠传</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20250730091000 +0800" stop="20250730104000 +0800">
-		<title lang="zh">不动声色</title>
+	<programme channel="CHC动作电影" start="20260126142500 +0800" stop="20260126160000 +0800">
+		<title lang="zh">南口1937</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20250730104000 +0800" stop="20250730104500 +0800">
-		<title lang="zh">动作导视</title>
+	<programme channel="CHC动作电影" start="20260126160000 +0800" stop="20260126182500 +0800">
+		<title lang="zh">风雨下钟山 （上.下）</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20250730104500 +0800" stop="20250730121300 +0800">
-		<title lang="zh">盘尼西林1944</title>
+	<programme channel="CHC动作电影" start="20260126182500 +0800" stop="20260126203000 +0800">
+		<title lang="zh">荡寇风云</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20250730121300 +0800" stop="20250730121500 +0800">
-		<title lang="zh">动作导视</title>
+	<programme channel="CHC动作电影" start="20260126203000 +0800" stop="20260126220500 +0800">
+		<title lang="zh">喋血毒巢</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20250730121500 +0800" stop="20250730134900 +0800">
-		<title lang="zh">打过长江去</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20250730134900 +0800" stop="20250730135000 +0800">
-		<title lang="zh">动作导视</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20250730135000 +0800" stop="20250730153700 +0800">
-		<title lang="zh">奇门遁甲</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20250730153700 +0800" stop="20250730154000 +0800">
-		<title lang="zh">动作导视</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20250730154000 +0800" stop="20250730170400 +0800">
-		<title lang="zh">黄金刀客</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20250730170400 +0800" stop="20250730170500 +0800">
-		<title lang="zh">动作导视</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20250730170500 +0800" stop="20250730185200 +0800">
-		<title lang="zh">一代宗师</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20250730185200 +0800" stop="20250730185500 +0800">
-		<title lang="zh">动作导视</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20250730185500 +0800" stop="20250730202600 +0800">
-		<title lang="zh">袁天罡之西域圣佛</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20250730202600 +0800" stop="20250730203000 +0800">
-		<title lang="zh">动作导视</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20250730203000 +0800" stop="20250730220100 +0800">
-		<title lang="zh">第五行动组-较量</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20250730220100 +0800" stop="20250730220500 +0800">
-		<title lang="zh">动作导视</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20250730220500 +0800" stop="20250730233300 +0800">
-		<title lang="zh">跨国大追捕-我是警察</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20250730233300 +0800" stop="20250730233500 +0800">
-		<title lang="zh">动作导视</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20250730233500 +0800" stop="20250730235900 +0800">
-		<title lang="zh">三生三世十里桃花</title>
+	<programme channel="CHC动作电影" start="20260126220500 +0800" stop="20260126235900 +0800">
+		<title lang="zh">阿凡达：水之道</title>
 	</programme>
 	<channel id="CHC家庭影院">
 		<display-name lang="zh">CHC家庭影院</display-name>
 	</channel>
-	<programme channel="CHC家庭影院" start="20250730000000 +0800" stop="20250730013200 +0800">
-		<title lang="zh">真三国无双</title>
+	<programme channel="CHC家庭影院" start="20260126012500 +0800" stop="20260126030000 +0800">
+		<title lang="zh">卧底巨星</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20250730013200 +0800" stop="20250730013500 +0800">
-		<title lang="zh">导视</title>
+	<programme channel="CHC家庭影院" start="20260126030000 +0800" stop="20260126043500 +0800">
+		<title lang="zh">末路囧徒</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20250730013500 +0800" stop="20250730030800 +0800">
-		<title lang="zh">五郎八卦棍</title>
+	<programme channel="CHC家庭影院" start="20260126043500 +0800" stop="20260126061000 +0800">
+		<title lang="zh">完美假妻168</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20250730030800 +0800" stop="20250730031000 +0800">
-		<title lang="zh">导视</title>
+	<programme channel="CHC家庭影院" start="20260126061000 +0800" stop="20260126073500 +0800">
+		<title lang="zh">我们俩</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20250730031000 +0800" stop="20250730044100 +0800">
-		<title lang="zh">平凡英雄</title>
+	<programme channel="CHC家庭影院" start="20260126073500 +0800" stop="20260126095500 +0800">
+		<title lang="zh">速度与激情9</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20250730044100 +0800" stop="20250730044500 +0800">
-		<title lang="zh">导视</title>
+	<programme channel="CHC家庭影院" start="20260126095500 +0800" stop="20260126114000 +0800">
+		<title lang="zh">黑郁金香</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20250730044500 +0800" stop="20250730062500 +0800">
-		<title lang="zh">羞羞的铁拳</title>
+	<programme channel="CHC家庭影院" start="20260126114000 +0800" stop="20260126132500 +0800">
+		<title lang="zh">十万火急</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20250730062500 +0800" stop="20250730075100 +0800">
-		<title lang="zh">洪拳大师</title>
+	<programme channel="CHC家庭影院" start="20260126132500 +0800" stop="20260126153500 +0800">
+		<title lang="zh">破风</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20250730075100 +0800" stop="20250730075500 +0800">
-		<title lang="zh">导视</title>
+	<programme channel="CHC家庭影院" start="20260126153500 +0800" stop="20260126172000 +0800">
+		<title lang="zh">判决</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20250730075500 +0800" stop="20250730093000 +0800">
-		<title lang="zh">剩者为王</title>
+	<programme channel="CHC家庭影院" start="20260126172000 +0800" stop="20260126183500 +0800">
+		<title lang="zh">血芙蓉</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20250730093000 +0800" stop="20250730113400 +0800">
-		<title lang="zh">隐剑鬼爪</title>
+	<programme channel="CHC家庭影院" start="20260126183500 +0800" stop="20260126201000 +0800">
+		<title lang="zh">亲爱的爸爸</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20250730113400 +0800" stop="20250730113500 +0800">
-		<title lang="zh">导视</title>
+	<programme channel="CHC家庭影院" start="20260126201000 +0800" stop="20260126220000 +0800">
+		<title lang="zh">长安道</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20250730113500 +0800" stop="20250730133200 +0800">
-		<title lang="zh">缝纫机乐队</title>
+	<programme channel="CHC家庭影院" start="20260126220000 +0800" stop="20260126232500 +0800">
+		<title lang="zh">孩子们都好</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20250730133200 +0800" stop="20250730133500 +0800">
-		<title lang="zh">导视</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20250730133500 +0800" stop="20250730151000 +0800">
-		<title lang="zh">野性的呼唤</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20250730151000 +0800" stop="20250730164100 +0800">
-		<title lang="zh">早安,琅勃拉邦</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20250730164100 +0800" stop="20250730164500 +0800">
-		<title lang="zh">导视</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20250730164500 +0800" stop="20250730183700 +0800">
-		<title lang="zh">爱情神话</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20250730183700 +0800" stop="20250730184000 +0800">
-		<title lang="zh">导视</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20250730184000 +0800" stop="20250730200300 +0800">
-		<title lang="zh">极速搏杀</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20250730200300 +0800" stop="20250730200500 +0800">
-		<title lang="zh">导视</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20250730200500 +0800" stop="20250730220000 +0800">
-		<title lang="zh">天下无贼</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20250730220000 +0800" stop="20250730235900 +0800">
-		<title lang="zh">速度与激情(10)</title>
+	<programme channel="CHC家庭影院" start="20260126232500 +0800" stop="20260126235900 +0800">
+		<title lang="zh">十月初五的月光</title>
 	</programme>
 	<channel id="CHC高清电影">
 		<display-name lang="zh">CHC高清电影</display-name>
 	</channel>
-	<programme channel="CHC高清电影" start="20250730000000 +0800" stop="20250730012900 +0800">
-		<title lang="zh">幸福慢车</title>
+	<programme channel="CHC高清电影" start="20260126060000 +0800" stop="20260126072500 +0800">
+		<title lang="zh">曼哈顿夜曲</title>
 	</programme>
-	<programme channel="CHC高清电影" start="20250730012900 +0800" stop="20250730040000 +0800">
-		<title lang="zh">我的爷爷是外星人</title>
+	<programme channel="CHC高清电影" start="20260126072500 +0800" stop="20260126091500 +0800">
+		<title lang="zh">三生三世十里桃花</title>
 	</programme>
-	<programme channel="CHC高清电影" start="20250730040000 +0800" stop="20250730044900 +0800">
-		<title lang="zh">我的爷爷是外星人</title>
+	<programme channel="CHC高清电影" start="20260126091500 +0800" stop="20260126110000 +0800">
+		<title lang="zh">唬胆特工</title>
 	</programme>
-	<programme channel="CHC高清电影" start="20250730044900 +0800" stop="20250730060000 +0800">
-		<title lang="zh">我的爷爷是外星人</title>
+	<programme channel="CHC高清电影" start="20260126110000 +0800" stop="20260126122900 +0800">
+		<title lang="zh">凿空者之西极神域</title>
 	</programme>
-	<programme channel="CHC高清电影" start="20250730060000 +0800" stop="20250730075000 +0800">
-		<title lang="zh">喵星人</title>
+	<programme channel="CHC高清电影" start="20260126122900 +0800" stop="20260126140800 +0800">
+		<title lang="zh">特工妈咪</title>
 	</programme>
-	<programme channel="CHC高清电影" start="20250730075000 +0800" stop="20250730080000 +0800">
-		<title lang="zh">一天</title>
+	<programme channel="CHC高清电影" start="20260126140800 +0800" stop="20260126154800 +0800">
+		<title lang="zh">打工老板</title>
 	</programme>
-	<programme channel="CHC高清电影" start="20250730080000 +0800" stop="20250730091800 +0800">
-		<title lang="zh">一天</title>
+	<programme channel="CHC高清电影" start="20260126154800 +0800" stop="20260126172600 +0800">
+		<title lang="zh">抢花炮</title>
 	</programme>
-	<programme channel="CHC高清电影" start="20250730091800 +0800" stop="20250730111000 +0800">
-		<title lang="zh">保你平安</title>
+	<programme channel="CHC高清电影" start="20260126172600 +0800" stop="20260126185600 +0800">
+		<title lang="zh">会痛的十七岁</title>
 	</programme>
-	<programme channel="CHC高清电影" start="20250730111000 +0800" stop="20250730131500 +0800">
-		<title lang="zh">扫毒-人在天涯</title>
+	<programme channel="CHC高清电影" start="20260126185600 +0800" stop="20260126202700 +0800">
+		<title lang="zh">战狼</title>
 	</programme>
-	<programme channel="CHC高清电影" start="20250730131500 +0800" stop="20250730150900 +0800">
-		<title lang="zh">第三种爱情</title>
+	<programme channel="CHC高清电影" start="20260126202700 +0800" stop="20260126220000 +0800">
+		<title lang="zh">战斗民族养成记</title>
 	</programme>
-	<programme channel="CHC高清电影" start="20250730150900 +0800" stop="20250730164600 +0800">
-		<title lang="zh">爱情故事</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20250730164600 +0800" stop="20250730181700 +0800">
-		<title lang="zh">龙岭迷窟</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20250730181700 +0800" stop="20250730203300 +0800">
-		<title lang="zh">夺冠</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20250730203300 +0800" stop="20250730220000 +0800">
-		<title lang="zh">生旦净末丑</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20250730220000 +0800" stop="20250730234200 +0800">
-		<title lang="zh">判决</title>
+	<programme channel="CHC高清电影" start="20260126220000 +0800" stop="20260126234000 +0800">
+		<title lang="zh">坑爹游戏</title>
 	</programme>
 	<channel id="北京体育休闲">
 		<display-name lang="zh">北京体育休闲</display-name>
 	</channel>
-	<programme channel="北京体育休闲" start="20250730000000 +0800" stop="20250730012000 +0800">
-		<title lang="zh">足球100分</title>
+	<programme channel="北京体育休闲" start="20260126001800 +0800" stop="20260126004300 +0800">
+		<title lang="zh">纪录时间</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730012000 +0800" stop="20250730015000 +0800">
-		<title lang="zh">天天体育</title>
+	<programme channel="北京体育休闲" start="20260126004300 +0800" stop="20260126010900 +0800">
+		<title lang="zh">优秀纪录片展播</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730015000 +0800" stop="20250730023000 +0800">
-		<title lang="zh">2024-2025赛季德甲集锦(12)</title>
+	<programme channel="北京体育休闲" start="20260126010900 +0800" stop="20260126015400 +0800">
+		<title lang="zh">记忆</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730023000 +0800" stop="20250730032000 +0800">
-		<title lang="zh">欢乐二打一</title>
+	<programme channel="北京体育休闲" start="20260126015400 +0800" stop="20260126020200 +0800">
+		<title lang="zh">我们的十四五故事(46)</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730032000 +0800" stop="20250730050000 +0800">
-		<title lang="zh">2024-2025CBA常规赛:北京-深圳</title>
+	<programme channel="北京体育休闲" start="20260126020200 +0800" stop="20260126023200 +0800">
+		<title lang="zh">现场说法</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730050000 +0800" stop="20250730055000 +0800">
-		<title lang="zh">重返经典(9)</title>
+	<programme channel="北京体育休闲" start="20260126023200 +0800" stop="20260126033400 +0800">
+		<title lang="zh">法治中国60分</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730055000 +0800" stop="20250730060000 +0800">
-		<title lang="zh">2025赛季北京国安进球集锦(1)</title>
+	<programme channel="北京体育休闲" start="20260126033400 +0800" stop="20260126040400 +0800">
+		<title lang="zh">法治进行时:警法目录</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730060000 +0800" stop="20250730060500 +0800">
-		<title lang="zh">公宣</title>
+	<programme channel="北京体育休闲" start="20260126040400 +0800" stop="20260126043700 +0800">
+		<title lang="zh">第三调解室</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730060500 +0800" stop="20250730061000 +0800">
-		<title lang="zh">2025赛季北京国安进球集锦(2)</title>
+	<programme channel="北京体育休闲" start="20260126043700 +0800" stop="20260126052200 +0800">
+		<title lang="zh">记忆</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730061000 +0800" stop="20250730075500 +0800">
-		<title lang="zh">足球100分</title>
+	<programme channel="北京体育休闲" start="20260126052200 +0800" stop="20260126055400 +0800">
+		<title lang="zh">健康北京</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730075500 +0800" stop="20250730080000 +0800">
-		<title lang="zh">公宣</title>
+	<programme channel="北京体育休闲" start="20260126055400 +0800" stop="20260126060000 +0800">
+		<title lang="zh">城市形象片</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730080000 +0800" stop="20250730083000 +0800">
-		<title lang="zh">天天体育</title>
+	<programme channel="北京体育休闲" start="20260126060000 +0800" stop="20260126070200 +0800">
+		<title lang="zh">法治中国60分</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730083000 +0800" stop="20250730092000 +0800">
-		<title lang="zh">欢乐二打一</title>
+	<programme channel="北京体育休闲" start="20260126070200 +0800" stop="20260126073200 +0800">
+		<title lang="zh">法治进行时:警法目录</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730092000 +0800" stop="20250730100500 +0800">
-		<title lang="zh">乐活北京(162)</title>
+	<programme channel="北京体育休闲" start="20260126073200 +0800" stop="20260126080500 +0800">
+		<title lang="zh">乐在美食</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730100500 +0800" stop="20250730101000 +0800">
-		<title lang="zh">公宣</title>
+	<programme channel="北京体育休闲" start="20260126080500 +0800" stop="20260126083200 +0800">
+		<title lang="zh">纪录时间</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730101000 +0800" stop="20250730110000 +0800">
-		<title lang="zh">重返经典(10)</title>
+	<programme channel="北京体育休闲" start="20260126083200 +0800" stop="20260126090200 +0800">
+		<title lang="zh">健康北京</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730110000 +0800" stop="20250730110500 +0800">
-		<title lang="zh">奥运夺金时刻(3)</title>
+	<programme channel="北京体育休闲" start="20260126090200 +0800" stop="20260126094200 +0800">
+		<title lang="zh">职场健康说</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730110500 +0800" stop="20250730111000 +0800">
-		<title lang="zh">公宣</title>
+	<programme channel="北京体育休闲" start="20260126094200 +0800" stop="20260126100200 +0800">
+		<title lang="zh">晚晴</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730111000 +0800" stop="20250730114000 +0800">
-		<title lang="zh">天天体育</title>
+	<programme channel="北京体育休闲" start="20260126100200 +0800" stop="20260126102900 +0800">
+		<title lang="zh">时间的礼物(1)</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730114000 +0800" stop="20250730123000 +0800">
-		<title lang="zh">欢乐二打一</title>
+	<programme channel="北京体育休闲" start="20260126102900 +0800" stop="20260126110000 +0800">
+		<title lang="zh">乐在美食</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730123000 +0800" stop="20250730132000 +0800">
-		<title lang="zh">乐活北京(163)</title>
+	<programme channel="北京体育休闲" start="20260126110000 +0800" stop="20260126113000 +0800">
+		<title lang="zh">品质生活</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730132000 +0800" stop="20250730150500 +0800">
-		<title lang="zh">2024-2025CBA常规赛:北控-深圳</title>
+	<programme channel="北京体育休闲" start="20260126113000 +0800" stop="20260126120000 +0800">
+		<title lang="zh">现场说法</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730150500 +0800" stop="20250730151500 +0800">
-		<title lang="zh">2025赛季北京国安进球集锦(2)</title>
+	<programme channel="北京体育休闲" start="20260126120000 +0800" stop="20260126123000 +0800">
+		<title lang="zh">法治进行时</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730151500 +0800" stop="20250730152000 +0800">
-		<title lang="zh">公宣</title>
+	<programme channel="北京体育休闲" start="20260126123000 +0800" stop="20260126130000 +0800">
+		<title lang="zh">第三调解室</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730152000 +0800" stop="20250730170500 +0800">
-		<title lang="zh">2025中超联赛:成都蓉城-北京国安</title>
+	<programme channel="北京体育休闲" start="20260126130000 +0800" stop="20260126140000 +0800">
+		<title lang="zh">法治中国60分</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730170500 +0800" stop="20250730171000 +0800">
-		<title lang="zh">公宣</title>
+	<programme channel="北京体育休闲" start="20260126140000 +0800" stop="20260126143000 +0800">
+		<title lang="zh">第三调解室(1)</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730171000 +0800" stop="20250730175500 +0800">
-		<title lang="zh">乐活北京(163)</title>
+	<programme channel="北京体育休闲" start="20260126143000 +0800" stop="20260126150000 +0800">
+		<title lang="zh">第三调解室(2)</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730175500 +0800" stop="20250730185000 +0800">
-		<title lang="zh">欢乐二打一</title>
+	<programme channel="北京体育休闲" start="20260126150000 +0800" stop="20260126150200 +0800">
+		<title lang="zh">气象观天下:气象预报</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730185000 +0800" stop="20250730192000 +0800">
-		<title lang="zh">天天体育</title>
+	<programme channel="北京体育休闲" start="20260126150200 +0800" stop="20260126151200 +0800">
+		<title lang="zh">气象观天下</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730192000 +0800" stop="20250730193000 +0800">
-		<title lang="zh">奥运夺金时刻(3)</title>
+	<programme channel="北京体育休闲" start="20260126151200 +0800" stop="20260126155900 +0800">
+		<title lang="zh">品质生活</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730193000 +0800" stop="20250730202500 +0800">
-		<title lang="zh">重返经典(5)</title>
+	<programme channel="北京体育休闲" start="20260126155900 +0800" stop="20260126163100 +0800">
+		<title lang="zh">乐在美食</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730202500 +0800" stop="20250730211500 +0800">
-		<title lang="zh">重返经典(8)</title>
+	<programme channel="北京体育休闲" start="20260126163100 +0800" stop="20260126170300 +0800">
+		<title lang="zh">职场健康说</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730211500 +0800" stop="20250730212000 +0800">
-		<title lang="zh">公宣</title>
+	<programme channel="北京体育休闲" start="20260126170300 +0800" stop="20260126171800 +0800">
+		<title lang="zh">时间的礼物(2)</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730212000 +0800" stop="20250730221000 +0800">
-		<title lang="zh">欢乐二打一</title>
+	<programme channel="北京体育休闲" start="20260126171800 +0800" stop="20260126180500 +0800">
+		<title lang="zh">品质生活</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730221000 +0800" stop="20250730221500 +0800">
-		<title lang="zh">公宣</title>
+	<programme channel="北京体育休闲" start="20260126180500 +0800" stop="20260126184000 +0800">
+		<title lang="zh">中国故事</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730221500 +0800" stop="20250730230500 +0800">
-		<title lang="zh">重返经典(10)</title>
+	<programme channel="北京体育休闲" start="20260126184000 +0800" stop="20260126191000 +0800">
+		<title lang="zh">健康北京</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20250730230500 +0800" stop="20250730000000 +0800">
-		<title lang="zh">2025中超联赛:成都蓉城-北京国安</title>
+	<programme channel="北京体育休闲" start="20260126191000 +0800" stop="20260126200100 +0800">
+		<title lang="zh">红绿灯</title>
+	</programme>
+	<programme channel="北京体育休闲" start="20260126200100 +0800" stop="20260126204600 +0800">
+		<title lang="zh">记忆</title>
+	</programme>
+	<programme channel="北京体育休闲" start="20260126204600 +0800" stop="20260126211900 +0800">
+		<title lang="zh">职场健康说</title>
+	</programme>
+	<programme channel="北京体育休闲" start="20260126211900 +0800" stop="20260126214100 +0800">
+		<title lang="zh">第三调解室精编版</title>
+	</programme>
+	<programme channel="北京体育休闲" start="20260126214100 +0800" stop="20260126220100 +0800">
+		<title lang="zh">记忆精编版</title>
+	</programme>
+	<programme channel="北京体育休闲" start="20260126220100 +0800" stop="20260126224600 +0800">
+		<title lang="zh">故事时间:守诚者(7)</title>
+	</programme>
+	<programme channel="北京体育休闲" start="20260126224600 +0800" stop="20260126233200 +0800">
+		<title lang="zh">故事时间:守诚者(8)</title>
+	</programme>
+	<programme channel="北京体育休闲" start="20260126233200 +0800" stop="20260126002000 +0800">
+		<title lang="zh">故事时间:守诚者(9)</title>
 	</programme>
 	<channel id="北京影视">
 		<display-name lang="zh">北京影视</display-name>
 	</channel>
-	<programme channel="北京影视" start="20250730000000 +0800" stop="20250730004200 +0800">
-		<title lang="zh">我是红军(7)</title>
+	<programme channel="北京影视" start="20260126000900 +0800" stop="20260126012900 +0800">
+		<title lang="zh">BTV聚精彩</title>
 	</programme>
-	<programme channel="北京影视" start="20250730004200 +0800" stop="20250730012400 +0800">
-		<title lang="zh">叛逆者(22)</title>
+	<programme channel="北京影视" start="20260126012900 +0800" stop="20260126021400 +0800">
+		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="北京影视" start="20250730012400 +0800" stop="20250730020600 +0800">
-		<title lang="zh">叛逆者(23)</title>
+	<programme channel="北京影视" start="20260126021400 +0800" stop="20260126025900 +0800">
+		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="北京影视" start="20250730020600 +0800" stop="20250730024900 +0800">
-		<title lang="zh">叛逆者(24)</title>
+	<programme channel="北京影视" start="20260126025900 +0800" stop="20260126034400 +0800">
+		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="北京影视" start="20250730024900 +0800" stop="20250730032000 +0800">
-		<title lang="zh">一触即发(25)</title>
+	<programme channel="北京影视" start="20260126034400 +0800" stop="20260126042900 +0800">
+		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="北京影视" start="20250730032000 +0800" stop="20250730035200 +0800">
-		<title lang="zh">一触即发(26)</title>
+	<programme channel="北京影视" start="20260126042900 +0800" stop="20260126051400 +0800">
+		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="北京影视" start="20250730035200 +0800" stop="20250730042700 +0800">
-		<title lang="zh">一触即发(27)</title>
+	<programme channel="北京影视" start="20260126051400 +0800" stop="20260126060000 +0800">
+		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="北京影视" start="20250730042700 +0800" stop="20250730051000 +0800">
-		<title lang="zh">金婚(41)</title>
+	<programme channel="北京影视" start="20260126060000 +0800" stop="20260126065400 +0800">
+		<title lang="zh">清晨剧场</title>
 	</programme>
-	<programme channel="北京影视" start="20250730051000 +0800" stop="20250730055300 +0800">
-		<title lang="zh">金婚(42)</title>
+	<programme channel="北京影视" start="20260126065400 +0800" stop="20260126073900 +0800">
+		<title lang="zh">清晨剧场</title>
 	</programme>
-	<programme channel="北京影视" start="20250730055300 +0800" stop="20250730062700 +0800">
-		<title lang="zh">铁血独立营</title>
+	<programme channel="北京影视" start="20260126073900 +0800" stop="20260126081900 +0800">
+		<title lang="zh">上午剧场</title>
 	</programme>
-	<programme channel="北京影视" start="20250730062700 +0800" stop="20250730065800 +0800">
-		<title lang="zh">京城寻宝(4)</title>
+	<programme channel="北京影视" start="20260126081900 +0800" stop="20260126085800 +0800">
+		<title lang="zh">上午剧场</title>
 	</programme>
-	<programme channel="北京影视" start="20250730065800 +0800" stop="20250730101600 +0800">
-		<title lang="zh">铁血独立营</title>
+	<programme channel="北京影视" start="20260126085800 +0800" stop="20260126095100 +0800">
+		<title lang="zh">上午剧场</title>
 	</programme>
-	<programme channel="北京影视" start="20250730101600 +0800" stop="20250730104700 +0800">
-		<title lang="zh">北京惠客厅(100)</title>
+	<programme channel="北京影视" start="20260126095100 +0800" stop="20260126103800 +0800">
+		<title lang="zh">上午剧场</title>
 	</programme>
-	<programme channel="北京影视" start="20250730104700 +0800" stop="20250730125100 +0800">
-		<title lang="zh">铁血独立营</title>
+	<programme channel="北京影视" start="20260126103800 +0800" stop="20260126112300 +0800">
+		<title lang="zh">上午剧场</title>
 	</programme>
-	<programme channel="北京影视" start="20250730125100 +0800" stop="20250730133500 +0800">
-		<title lang="zh">前夜(15)</title>
+	<programme channel="北京影视" start="20260126112300 +0800" stop="20260126113200 +0800">
+		<title lang="zh">电影时间先导篇</title>
 	</programme>
-	<programme channel="北京影视" start="20250730133500 +0800" stop="20250730141800 +0800">
-		<title lang="zh">前夜(16)</title>
+	<programme channel="北京影视" start="20260126113200 +0800" stop="20260126131900 +0800">
+		<title lang="zh">电影</title>
 	</programme>
-	<programme channel="北京影视" start="20250730141800 +0800" stop="20250730145400 +0800">
-		<title lang="zh">镖王传奇(21)</title>
+	<programme channel="北京影视" start="20260126131900 +0800" stop="20260126141300 +0800">
+		<title lang="zh">BTV聚精彩</title>
 	</programme>
-	<programme channel="北京影视" start="20250730145400 +0800" stop="20250730152500 +0800">
-		<title lang="zh">北京惠客厅(100)</title>
+	<programme channel="北京影视" start="20260126141300 +0800" stop="20260126151300 +0800">
+		<title lang="zh">下午剧场</title>
 	</programme>
-	<programme channel="北京影视" start="20250730152500 +0800" stop="20250730161000 +0800">
-		<title lang="zh">镖王传奇(22)</title>
+	<programme channel="北京影视" start="20260126151300 +0800" stop="20260126161400 +0800">
+		<title lang="zh">下午剧场</title>
 	</programme>
-	<programme channel="北京影视" start="20250730161000 +0800" stop="20250730170600 +0800">
-		<title lang="zh">镖王传奇(23)</title>
+	<programme channel="北京影视" start="20260126161400 +0800" stop="20260126170700 +0800">
+		<title lang="zh">下午剧场</title>
 	</programme>
-	<programme channel="北京影视" start="20250730170600 +0800" stop="20250730181400 +0800">
-		<title lang="zh">镖王传奇(24)</title>
+	<programme channel="北京影视" start="20260126170700 +0800" stop="20260126180100 +0800">
+		<title lang="zh">下午剧场</title>
 	</programme>
-	<programme channel="北京影视" start="20250730181400 +0800" stop="20250730185500 +0800">
-		<title lang="zh">镖王传奇(25)</title>
+	<programme channel="北京影视" start="20260126180100 +0800" stop="20260126185000 +0800">
+		<title lang="zh">下午剧场</title>
 	</programme>
-	<programme channel="北京影视" start="20250730185500 +0800" stop="20250730225300 +0800">
-		<title lang="zh">铁血独立营</title>
+	<programme channel="北京影视" start="20260126185000 +0800" stop="20260126185400 +0800">
+		<title lang="zh">气象星播报</title>
 	</programme>
-	<programme channel="北京影视" start="20250730225300 +0800" stop="20250730232500 +0800">
-		<title lang="zh">京城寻宝(4)</title>
+	<programme channel="北京影视" start="20260126185400 +0800" stop="20260126193800 +0800">
+		<title lang="zh">黄金剧场</title>
 	</programme>
-	<programme channel="北京影视" start="20250730232500 +0800" stop="20250730235900 +0800">
-		<title lang="zh">我是红军(8)</title>
+	<programme channel="北京影视" start="20260126193800 +0800" stop="20260126202300 +0800">
+		<title lang="zh">黄金剧场</title>
+	</programme>
+	<programme channel="北京影视" start="20260126202300 +0800" stop="20260126210500 +0800">
+		<title lang="zh">黄金剧场</title>
+	</programme>
+	<programme channel="北京影视" start="20260126210500 +0800" stop="20260126214400 +0800">
+		<title lang="zh">黄金剧场</title>
+	</programme>
+	<programme channel="北京影视" start="20260126214400 +0800" stop="20260126222400 +0800">
+		<title lang="zh">黄金剧场</title>
+	</programme>
+	<programme channel="北京影视" start="20260126222400 +0800" stop="20260126223300 +0800">
+		<title lang="zh">电影时间先导篇</title>
+	</programme>
+	<programme channel="北京影视" start="20260126223300 +0800" stop="20260126235800 +0800">
+		<title lang="zh">电影</title>
+	</programme>
+	<programme channel="北京影视" start="20260126235800 +0800" stop="20260126235900 +0800">
+		<title lang="zh">BTV聚精彩</title>
 	</programme>
 	<channel id="北京文艺">
 		<display-name lang="zh">北京文艺</display-name>
 	</channel>
-	<programme channel="北京文艺" start="20250730000000 +0800" stop="20250730003400 +0800">
-		<title lang="zh">笑动剧场</title>
+	<programme channel="北京文艺" start="20260126000300 +0800" stop="20260126003000 +0800">
+		<title lang="zh">重播:我看行</title>
 	</programme>
-	<programme channel="北京文艺" start="20250730003400 +0800" stop="20250730005200 +0800">
-		<title lang="zh">每日文艺播报</title>
+	<programme channel="北京文艺" start="20260126003000 +0800" stop="20260126003300 +0800">
+		<title lang="zh">重播:百姓文化录</title>
 	</programme>
-	<programme channel="北京文艺" start="20250730005200 +0800" stop="20250730013800 +0800">
-		<title lang="zh">春日暖阳(31)</title>
+	<programme channel="北京文艺" start="20260126003300 +0800" stop="20260126012300 +0800">
+		<title lang="zh">重播:惊喜欢乐送</title>
 	</programme>
-	<programme channel="北京文艺" start="20250730013800 +0800" stop="20250730022200 +0800">
-		<title lang="zh">春日暖阳(32)</title>
+	<programme channel="北京文艺" start="20260126012300 +0800" stop="20260126021300 +0800">
+		<title lang="zh">重播:笑动欢乐秀</title>
 	</programme>
-	<programme channel="北京文艺" start="20250730022200 +0800" stop="20250730030700 +0800">
-		<title lang="zh">春日暖阳(33)</title>
+	<programme channel="北京文艺" start="20260126021300 +0800" stop="20260126034300 +0800">
+		<title lang="zh">重播:笑动欢乐秀</title>
 	</programme>
-	<programme channel="北京文艺" start="20250730030700 +0800" stop="20250730031700 +0800">
+	<programme channel="北京文艺" start="20260126034300 +0800" stop="20260126043800 +0800">
+		<title lang="zh">重播:笑动剧场</title>
+	</programme>
+	<programme channel="北京文艺" start="20260126043800 +0800" stop="20260126050800 +0800">
+		<title lang="zh">重播:文化之约</title>
+	</programme>
+	<programme channel="北京文艺" start="20260126050800 +0800" stop="20260126060000 +0800">
+		<title lang="zh">重播:笑动欢乐秀</title>
+	</programme>
+	<programme channel="北京文艺" start="20260126060000 +0800" stop="20260126065500 +0800">
+		<title lang="zh">重播:笑动剧场</title>
+	</programme>
+	<programme channel="北京文艺" start="20260126065500 +0800" stop="20260126070000 +0800">
+		<title lang="zh">重播:百姓文化录</title>
+	</programme>
+	<programme channel="北京文艺" start="20260126070000 +0800" stop="20260126082500 +0800">
+		<title lang="zh">重播:每日文娱播报</title>
+	</programme>
+	<programme channel="北京文艺" start="20260126082500 +0800" stop="20260126090000 +0800">
+		<title lang="zh">重播:笑动欢乐秀</title>
+	</programme>
+	<programme channel="北京文艺" start="20260126090000 +0800" stop="20260126100500 +0800">
 		<title lang="zh">笑动欢乐秀</title>
 	</programme>
-	<programme channel="北京文艺" start="20250730031700 +0800" stop="20250730044700 +0800">
-		<title lang="zh">笑动剧场</title>
-	</programme>
-	<programme channel="北京文艺" start="20250730044700 +0800" stop="20250730045700 +0800">
+	<programme channel="北京文艺" start="20260126100500 +0800" stop="20260126110000 +0800">
 		<title lang="zh">笑动欢乐秀</title>
 	</programme>
-	<programme channel="北京文艺" start="20250730045700 +0800" stop="20250730060000 +0800">
+	<programme channel="北京文艺" start="20260126110000 +0800" stop="20260126115500 +0800">
 		<title lang="zh">笑动剧场</title>
 	</programme>
-	<programme channel="北京文艺" start="20250730060000 +0800" stop="20250730065000 +0800">
-		<title lang="zh">文化之约</title>
+	<programme channel="北京文艺" start="20260126115500 +0800" stop="20260126120000 +0800">
+		<title lang="zh">百姓文化录</title>
 	</programme>
-	<programme channel="北京文艺" start="20250730065000 +0800" stop="20250730072000 +0800">
-		<title lang="zh">京城寻宝</title>
+	<programme channel="北京文艺" start="20260126120000 +0800" stop="20260126130500 +0800">
+		<title lang="zh">每日文娱播报</title>
 	</programme>
-	<programme channel="北京文艺" start="20250730072000 +0800" stop="20250730075000 +0800">
-		<title lang="zh">笑动剧场</title>
+	<programme channel="北京文艺" start="20260126130500 +0800" stop="20260126135500 +0800">
+		<title lang="zh">电视先锋榜</title>
 	</programme>
-	<programme channel="北京文艺" start="20250730075000 +0800" stop="20250730075500 +0800">
-		<title lang="zh">文化京津冀</title>
+	<programme channel="北京文艺" start="20260126135500 +0800" stop="20260126144500 +0800">
+		<title lang="zh">欢天戏地</title>
 	</programme>
-	<programme channel="北京文艺" start="20250730075500 +0800" stop="20250730082500 +0800">
-		<title lang="zh">宣武门(1)</title>
+	<programme channel="北京文艺" start="20260126144500 +0800" stop="20260126145000 +0800">
+		<title lang="zh">重播:百姓文化录</title>
 	</programme>
-	<programme channel="北京文艺" start="20250730082500 +0800" stop="20250730085500 +0800">
-		<title lang="zh">北京惠客厅</title>
+	<programme channel="北京文艺" start="20260126145000 +0800" stop="20260126152000 +0800">
+		<title lang="zh">我看行</title>
 	</programme>
-	<programme channel="北京文艺" start="20250730085500 +0800" stop="20250730085800 +0800">
-		<title lang="zh">文化京津冀</title>
-	</programme>
-	<programme channel="北京文艺" start="20250730085800 +0800" stop="20250730092800 +0800">
-		<title lang="zh">宣武门(2)</title>
-	</programme>
-	<programme channel="北京文艺" start="20250730092800 +0800" stop="20250730100000 +0800">
-		<title lang="zh">北京惠客厅</title>
-	</programme>
-	<programme channel="北京文艺" start="20250730100000 +0800" stop="20250730103000 +0800">
-		<title lang="zh">宣武门(3)</title>
-	</programme>
-	<programme channel="北京文艺" start="20250730103000 +0800" stop="20250730104300 +0800">
-		<title lang="zh">家装驿站</title>
-	</programme>
-	<programme channel="北京文艺" start="20250730104300 +0800" stop="20250730111300 +0800">
-		<title lang="zh">宣武门(4)</title>
-	</programme>
-	<programme channel="北京文艺" start="20250730111300 +0800" stop="20250730114300 +0800">
-		<title lang="zh">都市新生活</title>
-	</programme>
-	<programme channel="北京文艺" start="20250730114300 +0800" stop="20250730115800 +0800">
-		<title lang="zh">每日文艺播报</title>
-	</programme>
-	<programme channel="北京文艺" start="20250730115800 +0800" stop="20250730121100 +0800">
-		<title lang="zh">家装驿站</title>
-	</programme>
-	<programme channel="北京文艺" start="20250730121100 +0800" stop="20250730134100 +0800">
-		<title lang="zh">笑动剧场</title>
-	</programme>
-	<programme channel="北京文艺" start="20250730134100 +0800" stop="20250730140400 +0800">
-		<title lang="zh">居家卫士</title>
-	</programme>
-	<programme channel="北京文艺" start="20250730140400 +0800" stop="20250730144900 +0800">
-		<title lang="zh">春日暖阳(34)</title>
-	</programme>
-	<programme channel="北京文艺" start="20250730144900 +0800" stop="20250730152200 +0800">
-		<title lang="zh">都市新生活</title>
-	</programme>
-	<programme channel="北京文艺" start="20250730152200 +0800" stop="20250730160700 +0800">
-		<title lang="zh">春日暖阳(35)</title>
-	</programme>
-	<programme channel="北京文艺" start="20250730160700 +0800" stop="20250730161700 +0800">
-		<title lang="zh">家装驿站</title>
-	</programme>
-	<programme channel="北京文艺" start="20250730161700 +0800" stop="20250730162000 +0800">
-		<title lang="zh">文化京津冀</title>
-	</programme>
-	<programme channel="北京文艺" start="20250730162000 +0800" stop="20250730170500 +0800">
-		<title lang="zh">春日暖阳(36)</title>
-	</programme>
-	<programme channel="北京文艺" start="20250730170500 +0800" stop="20250730173800 +0800">
-		<title lang="zh">都市新生活</title>
-	</programme>
-	<programme channel="北京文艺" start="20250730173800 +0800" stop="20250730180000 +0800">
-		<title lang="zh">喜乐汇</title>
-	</programme>
-	<programme channel="北京文艺" start="20250730180000 +0800" stop="20250730193300 +0800">
-		<title lang="zh">笑动剧场</title>
-	</programme>
-	<programme channel="北京文艺" start="20250730193300 +0800" stop="20250730195000 +0800">
-		<title lang="zh">每日文艺播报</title>
-	</programme>
-	<programme channel="北京文艺" start="20250730195000 +0800" stop="20250730204200 +0800">
-		<title lang="zh">文化之约</title>
-	</programme>
-	<programme channel="北京文艺" start="20250730204200 +0800" stop="20250730212500 +0800">
-		<title lang="zh">宣武门(30)</title>
-	</programme>
-	<programme channel="北京文艺" start="20250730212500 +0800" stop="20250730220800 +0800">
-		<title lang="zh">宣武门(31)</title>
-	</programme>
-	<programme channel="北京文艺" start="20250730220800 +0800" stop="20250730224900 +0800">
-		<title lang="zh">宣武门(32)</title>
-	</programme>
-	<programme channel="北京文艺" start="20250730224900 +0800" stop="20250730225200 +0800">
-		<title lang="zh">文化京津冀</title>
-	</programme>
-	<programme channel="北京文艺" start="20250730225200 +0800" stop="20250730230200 +0800">
+	<programme channel="北京文艺" start="20260126152000 +0800" stop="20260126162500 +0800">
 		<title lang="zh">笑动欢乐秀</title>
 	</programme>
-	<programme channel="北京文艺" start="20250730230200 +0800" stop="20250730233200 +0800">
-		<title lang="zh">京城寻宝</title>
+	<programme channel="北京文艺" start="20260126162500 +0800" stop="20260126170000 +0800">
+		<title lang="zh">重播:文化之约</title>
 	</programme>
-	<programme channel="北京文艺" start="20250730233200 +0800" stop="20250730235900 +0800">
+	<programme channel="北京文艺" start="20260126170000 +0800" stop="20260126180000 +0800">
 		<title lang="zh">笑动剧场</title>
+	</programme>
+	<programme channel="北京文艺" start="20260126180000 +0800" stop="20260126183000 +0800">
+		<title lang="zh">我看行</title>
+	</programme>
+	<programme channel="北京文艺" start="20260126183000 +0800" stop="20260126193500 +0800">
+		<title lang="zh">每日文娱播报</title>
+	</programme>
+	<programme channel="北京文艺" start="20260126193500 +0800" stop="20260126203000 +0800">
+		<title lang="zh">我爱书画</title>
+	</programme>
+	<programme channel="北京文艺" start="20260126203000 +0800" stop="20260126212000 +0800">
+		<title lang="zh">黄金剧场</title>
+	</programme>
+	<programme channel="北京文艺" start="20260126212000 +0800" stop="20260126221000 +0800">
+		<title lang="zh">黄金剧场</title>
+	</programme>
+	<programme channel="北京文艺" start="20260126221000 +0800" stop="20260126230000 +0800">
+		<title lang="zh">黄金剧场</title>
+	</programme>
+	<programme channel="北京文艺" start="20260126230000 +0800" stop="20260126235900 +0800">
+		<title lang="zh">重播:每日文娱播报</title>
 	</programme>
 	<channel id="北京新闻">
 		<display-name lang="zh">北京新闻</display-name>
 	</channel>
-	<programme channel="北京新闻" start="20250730000000 +0800" stop="20250730000100 +0800">
-		<title lang="zh">特别关注</title>
-	</programme>
-	<programme channel="北京新闻" start="20250730000100 +0800" stop="20250730003300 +0800">
-		<title lang="zh">法治进行时精华版</title>
-	</programme>
-	<programme channel="北京新闻" start="20250730003300 +0800" stop="20250730010800 +0800">
+	<programme channel="北京新闻" start="20260126000800 +0800" stop="20260126005000 +0800">
 		<title lang="zh">红绿灯</title>
 	</programme>
-	<programme channel="北京新闻" start="20250730010800 +0800" stop="20250730012800 +0800">
-		<title lang="zh">这里是北京</title>
+	<programme channel="北京新闻" start="20260126005000 +0800" stop="20260126012000 +0800">
+		<title lang="zh">锐观察</title>
 	</programme>
-	<programme channel="北京新闻" start="20250730012800 +0800" stop="20250730015800 +0800">
-		<title lang="zh">首都晚间报道</title>
+	<programme channel="北京新闻" start="20260126012000 +0800" stop="20260126020500 +0800">
+		<title lang="zh">晚间新闻报道</title>
 	</programme>
-	<programme channel="北京新闻" start="20250730015800 +0800" stop="20250730054500 +0800">
-		<title lang="zh">节目结束</title>
+	<programme channel="北京新闻" start="20260126020500 +0800" stop="20260126054500 +0800">
+		<title lang="zh">频道无节目</title>
 	</programme>
-	<programme channel="北京新闻" start="20250730054500 +0800" stop="20250730060200 +0800">
+	<programme channel="北京新闻" start="20260126054500 +0800" stop="20260126060200 +0800">
 		<title lang="zh">播前乐</title>
 	</programme>
-	<programme channel="北京新闻" start="20250730060200 +0800" stop="20250730070000 +0800">
+	<programme channel="北京新闻" start="20260126060200 +0800" stop="20260126070000 +0800">
 		<title lang="zh">特别关注</title>
 	</programme>
-	<programme channel="北京新闻" start="20250730070000 +0800" stop="20250730090500 +0800">
+	<programme channel="北京新闻" start="20260126070000 +0800" stop="20260126090000 +0800">
 		<title lang="zh">北京您早</title>
 	</programme>
-	<programme channel="北京新闻" start="20250730090500 +0800" stop="20250730094500 +0800">
-		<title lang="zh">红绿灯</title>
+	<programme channel="北京新闻" start="20260126090000 +0800" stop="20260126120000 +0800">
+		<title lang="zh">直播北京</title>
 	</programme>
-	<programme channel="北京新闻" start="20250730094500 +0800" stop="20250730103100 +0800">
-		<title lang="zh">小敏家(31)</title>
-	</programme>
-	<programme channel="北京新闻" start="20250730103100 +0800" stop="20250730111700 +0800">
-		<title lang="zh">小敏家(32)</title>
-	</programme>
-	<programme channel="北京新闻" start="20250730111700 +0800" stop="20250730120000 +0800">
-		<title lang="zh">小敏家(33)</title>
-	</programme>
-	<programme channel="北京新闻" start="20250730120000 +0800" stop="20250730125800 +0800">
+	<programme channel="北京新闻" start="20260126120000 +0800" stop="20260126130000 +0800">
 		<title lang="zh">特别关注</title>
 	</programme>
-	<programme channel="北京新闻" start="20250730125800 +0800" stop="20250730133500 +0800">
+	<programme channel="北京新闻" start="20260126130000 +0800" stop="20260126134700 +0800">
 		<title lang="zh">红绿灯</title>
 	</programme>
-	<programme channel="北京新闻" start="20250730133500 +0800" stop="20250730134500 +0800">
-		<title lang="zh">都市阳光</title>
+	<programme channel="北京新闻" start="20260126134700 +0800" stop="20260126141200 +0800">
+		<title lang="zh">镜鉴</title>
 	</programme>
-	<programme channel="北京新闻" start="20250730134500 +0800" stop="20250730135800 +0800">
+	<programme channel="北京新闻" start="20260126141200 +0800" stop="20260126142800 +0800">
 		<title lang="zh">新闻手语</title>
 	</programme>
-	<programme channel="北京新闻" start="20250730135800 +0800" stop="20250730142200 +0800">
-		<title lang="zh">这里是北京</title>
+	<programme channel="北京新闻" start="20260126142800 +0800" stop="20260126145400 +0800">
+		<title lang="zh">都市阳光-魅力东城</title>
 	</programme>
-	<programme channel="北京新闻" start="20250730142200 +0800" stop="20250730145600 +0800">
-		<title lang="zh">法治进行时精华版</title>
+	<programme channel="北京新闻" start="20260126145400 +0800" stop="20260126153000 +0800">
+		<title lang="zh">锐观察</title>
 	</programme>
-	<programme channel="北京新闻" start="20250730145600 +0800" stop="20250730154400 +0800">
-		<title lang="zh">法治中国精华版</title>
+	<programme channel="北京新闻" start="20260126153000 +0800" stop="20260126163500 +0800">
+		<title lang="zh">军情解码(重播)</title>
 	</programme>
-	<programme channel="北京新闻" start="20250730154400 +0800" stop="20250730160800 +0800">
-		<title lang="zh">这里是北京</title>
+	<programme channel="北京新闻" start="20260126163500 +0800" stop="20260126173000 +0800">
+		<title lang="zh">法治进行时</title>
 	</programme>
-	<programme channel="北京新闻" start="20250730160800 +0800" stop="20250730165600 +0800">
-		<title lang="zh">真心英雄(7)</title>
+	<programme channel="北京新闻" start="20260126173000 +0800" stop="20260126180000 +0800">
+		<title lang="zh">红绿灯-平安行</title>
 	</programme>
-	<programme channel="北京新闻" start="20250730165600 +0800" stop="20250730174500 +0800">
-		<title lang="zh">真心英雄(8)</title>
-	</programme>
-	<programme channel="北京新闻" start="20250730174500 +0800" stop="20250730183000 +0800">
-		<title lang="zh">真心英雄(9)</title>
-	</programme>
-	<programme channel="北京新闻" start="20250730183000 +0800" stop="20250730185500 +0800">
-		<title lang="zh">北京新闻</title>
-	</programme>
-	<programme channel="北京新闻" start="20250730185500 +0800" stop="20250730190000 +0800">
-		<title lang="zh">天气预报</title>
-	</programme>
-	<programme channel="北京新闻" start="20250730190000 +0800" stop="20250730193000 +0800">
-		<title lang="zh">法治进行时精华版</title>
-	</programme>
-	<programme channel="北京新闻" start="20250730193000 +0800" stop="20250730201500 +0800">
-		<title lang="zh">法治中国精华版</title>
-	</programme>
-	<programme channel="北京新闻" start="20250730201500 +0800" stop="20250730212000 +0800">
+	<programme channel="北京新闻" start="20260126180000 +0800" stop="20260126183000 +0800">
 		<title lang="zh">都市晚高峰</title>
 	</programme>
-	<programme channel="北京新闻" start="20250730212000 +0800" stop="20250730220000 +0800">
+	<programme channel="北京新闻" start="20260126183000 +0800" stop="20260126185500 +0800">
+		<title lang="zh">北京新闻</title>
+	</programme>
+	<programme channel="北京新闻" start="20260126185500 +0800" stop="20260126190000 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="北京新闻" start="20260126190000 +0800" stop="20260126203700 +0800">
+		<title lang="zh">都市晚高峰</title>
+	</programme>
+	<programme channel="北京新闻" start="20260126203700 +0800" stop="20260126211000 +0800">
+		<title lang="zh">锐观察</title>
+	</programme>
+	<programme channel="北京新闻" start="20260126211000 +0800" stop="20260126215500 +0800">
 		<title lang="zh">红绿灯</title>
 	</programme>
-	<programme channel="北京新闻" start="20250730220000 +0800" stop="20250730223500 +0800">
-		<title lang="zh">首都晚间报道</title>
+	<programme channel="北京新闻" start="20260126215500 +0800" stop="20260126224000 +0800">
+		<title lang="zh">晚间新闻报道</title>
 	</programme>
-	<programme channel="北京新闻" start="20250730223500 +0800" stop="20250730230000 +0800">
+	<programme channel="北京新闻" start="20260126224000 +0800" stop="20260126230200 +0800">
 		<title lang="zh">这里是北京</title>
 	</programme>
-	<programme channel="北京新闻" start="20250730230000 +0800" stop="20250730235900 +0800">
-		<title lang="zh">特别关注</title>
+	<programme channel="北京新闻" start="20260126230200 +0800" stop="20260126230800 +0800">
+		<title lang="zh">空气质量播报</title>
+	</programme>
+	<programme channel="北京新闻" start="20260126230800 +0800" stop="20260126235900 +0800">
+		<title lang="zh">军情解码(重播)</title>
 	</programme>
 	<channel id="北京生活">
 		<display-name lang="zh">北京生活</display-name>
 	</channel>
-	<programme channel="北京生活" start="20250730000000 +0800" stop="20250730001900 +0800">
-		<title lang="zh">越省越开心</title>
-	</programme>
-	<programme channel="北京生活" start="20250730001900 +0800" stop="20250730004900 +0800">
-		<title lang="zh">生活这一刻</title>
-	</programme>
-	<programme channel="北京生活" start="20250730004900 +0800" stop="20250730012300 +0800">
-		<title lang="zh">生活帮帮忙</title>
-	</programme>
-	<programme channel="北京生活" start="20250730012300 +0800" stop="20250730015700 +0800">
+	<programme channel="北京生活" start="20260126012000 +0800" stop="20260126054500 +0800">
 		<title lang="zh">选择</title>
 	</programme>
-	<programme channel="北京生活" start="20250730015700 +0800" stop="20250730021700 +0800">
-		<title lang="zh">生活帮帮忙精华版</title>
+	<programme channel="北京生活" start="20260126054500 +0800" stop="20260126060800 +0800">
+		<title lang="zh">播前乐</title>
 	</programme>
-	<programme channel="北京生活" start="20250730021700 +0800" stop="20250730025200 +0800">
-		<title lang="zh">全民健康学院</title>
+	<programme channel="北京生活" start="20260126060800 +0800" stop="20260126064500 +0800">
+		<title lang="zh">快乐生活一点通</title>
 	</programme>
-	<programme channel="北京生活" start="20250730025200 +0800" stop="20250730032200 +0800">
-		<title lang="zh">生活这一刻</title>
+	<programme channel="北京生活" start="20260126064500 +0800" stop="20260126071700 +0800">
+		<title lang="zh">生活面对面</title>
 	</programme>
-	<programme channel="北京生活" start="20250730032200 +0800" stop="20250730035800 +0800">
-		<title lang="zh">生活帮帮忙</title>
+	<programme channel="北京生活" start="20260126071700 +0800" stop="20260126075300 +0800">
+		<title lang="zh">生活+周末开聊</title>
 	</programme>
-	<programme channel="北京生活" start="20250730035800 +0800" stop="20250730042800 +0800">
-		<title lang="zh">选择</title>
+	<programme channel="北京生活" start="20260126075300 +0800" stop="20260126082900 +0800">
+		<title lang="zh">食全食美</title>
 	</programme>
-	<programme channel="北京生活" start="20250730042800 +0800" stop="20250730050000 +0800">
-		<title lang="zh">味道掌门</title>
-	</programme>
-	<programme channel="北京生活" start="20250730050000 +0800" stop="20250730053000 +0800">
-		<title lang="zh">生活这一刻</title>
-	</programme>
-	<programme channel="北京生活" start="20250730053000 +0800" stop="20250730060400 +0800">
-		<title lang="zh">生活帮帮忙</title>
-	</programme>
-	<programme channel="北京生活" start="20250730060400 +0800" stop="20250730063900 +0800">
-		<title lang="zh">全民健康学院</title>
-	</programme>
-	<programme channel="北京生活" start="20250730063900 +0800" stop="20250730065900 +0800">
-		<title lang="zh">生活帮帮忙精华版</title>
-	</programme>
-	<programme channel="北京生活" start="20250730065900 +0800" stop="20250730080000 +0800">
-		<title lang="zh">选择</title>
-	</programme>
-	<programme channel="北京生活" start="20250730080000 +0800" stop="20250730083100 +0800">
-		<title lang="zh">味道掌门</title>
-	</programme>
-	<programme channel="北京生活" start="20250730083100 +0800" stop="20250730090300 +0800">
-		<title lang="zh">快乐生活一点通(2)</title>
-	</programme>
-	<programme channel="北京生活" start="20250730090300 +0800" stop="20250730093300 +0800">
-		<title lang="zh">快乐生活一点通(3)</title>
-	</programme>
-	<programme channel="北京生活" start="20250730093300 +0800" stop="20250730094300 +0800">
-		<title lang="zh">笑动剧场</title>
-	</programme>
-	<programme channel="北京生活" start="20250730094300 +0800" stop="20250730095300 +0800">
-		<title lang="zh">生活+家装攻略</title>
-	</programme>
-	<programme channel="北京生活" start="20250730095300 +0800" stop="20250730100800 +0800">
-		<title lang="zh">味道掌门精编</title>
-	</programme>
-	<programme channel="北京生活" start="20250730100800 +0800" stop="20250730103900 +0800">
-		<title lang="zh">生活指南</title>
-	</programme>
-	<programme channel="北京生活" start="20250730103900 +0800" stop="20250730104900 +0800">
-		<title lang="zh">笑动剧场</title>
-	</programme>
-	<programme channel="北京生活" start="20250730104900 +0800" stop="20250730112000 +0800">
+	<programme channel="北京生活" start="20260126082900 +0800" stop="20260126090700 +0800">
 		<title lang="zh">生活特供</title>
 	</programme>
-	<programme channel="北京生活" start="20250730112000 +0800" stop="20250730114000 +0800">
-		<title lang="zh">生活帮帮忙精华版</title>
+	<programme channel="北京生活" start="20260126090700 +0800" stop="20260126090900 +0800">
+		<title lang="zh">生活气象</title>
 	</programme>
-	<programme channel="北京生活" start="20250730114000 +0800" stop="20250730121000 +0800">
-		<title lang="zh">快乐生活一点通(1)</title>
-	</programme>
-	<programme channel="北京生活" start="20250730121000 +0800" stop="20250730124100 +0800">
-		<title lang="zh">快乐生活一点通(2)</title>
-	</programme>
-	<programme channel="北京生活" start="20250730124100 +0800" stop="20250730125100 +0800">
-		<title lang="zh">生活+家装攻略</title>
-	</programme>
-	<programme channel="北京生活" start="20250730125100 +0800" stop="20250730131100 +0800">
-		<title lang="zh">生活帮帮忙精华版</title>
-	</programme>
-	<programme channel="北京生活" start="20250730131100 +0800" stop="20250730134200 +0800">
-		<title lang="zh">快乐生活一点通(3)</title>
-	</programme>
-	<programme channel="北京生活" start="20250730134200 +0800" stop="20250730135700 +0800">
-		<title lang="zh">全民健康学院精编</title>
-	</programme>
-	<programme channel="北京生活" start="20250730135700 +0800" stop="20250730143000 +0800">
-		<title lang="zh">越省越开心</title>
-	</programme>
-	<programme channel="北京生活" start="20250730143000 +0800" stop="20250730144500 +0800">
-		<title lang="zh">全民健康学院精编</title>
-	</programme>
-	<programme channel="北京生活" start="20250730144500 +0800" stop="20250730151800 +0800">
-		<title lang="zh">越省越开心</title>
-	</programme>
-	<programme channel="北京生活" start="20250730151800 +0800" stop="20250730152800 +0800">
-		<title lang="zh">笑动剧场</title>
-	</programme>
-	<programme channel="北京生活" start="20250730152800 +0800" stop="20250730154700 +0800">
-		<title lang="zh">生活+家装攻略</title>
-	</programme>
-	<programme channel="北京生活" start="20250730154700 +0800" stop="20250730161700 +0800">
-		<title lang="zh">选择</title>
-	</programme>
-	<programme channel="北京生活" start="20250730161700 +0800" stop="20250730165000 +0800">
-		<title lang="zh">快乐生活一点通(2)</title>
-	</programme>
-	<programme channel="北京生活" start="20250730165000 +0800" stop="20250730172300 +0800">
-		<title lang="zh">快乐生活一点通(3)</title>
-	</programme>
-	<programme channel="北京生活" start="20250730172300 +0800" stop="20250730174300 +0800">
-		<title lang="zh">生活帮帮忙精华版</title>
-	</programme>
-	<programme channel="北京生活" start="20250730174300 +0800" stop="20250730181300 +0800">
-		<title lang="zh">生活好物</title>
-	</programme>
-	<programme channel="北京生活" start="20250730181300 +0800" stop="20250730184500 +0800">
-		<title lang="zh">生活指南</title>
-	</programme>
-	<programme channel="北京生活" start="20250730184500 +0800" stop="20250730191500 +0800">
+	<programme channel="北京生活" start="20260126090900 +0800" stop="20260126104600 +0800">
 		<title lang="zh">生活这一刻</title>
 	</programme>
-	<programme channel="北京生活" start="20250730191500 +0800" stop="20250730194500 +0800">
-		<title lang="zh">生活帮帮忙</title>
-	</programme>
-	<programme channel="北京生活" start="20250730194500 +0800" stop="20250730201800 +0800">
-		<title lang="zh">全民健康学院</title>
-	</programme>
-	<programme channel="北京生活" start="20250730201800 +0800" stop="20250730204900 +0800">
-		<title lang="zh">京城美食地图</title>
-	</programme>
-	<programme channel="北京生活" start="20250730204900 +0800" stop="20250730210900 +0800">
-		<title lang="zh">生活帮帮忙精华版</title>
-	</programme>
-	<programme channel="北京生活" start="20250730210900 +0800" stop="20250730214100 +0800">
+	<programme channel="北京生活" start="20260126104600 +0800" stop="20260126120200 +0800">
 		<title lang="zh">选择</title>
 	</programme>
-	<programme channel="北京生活" start="20250730214100 +0800" stop="20250730221700 +0800">
-		<title lang="zh">越省越开心</title>
+	<programme channel="北京生活" start="20260126120200 +0800" stop="20260126124700 +0800">
+		<title lang="zh">美食地图·一探到底</title>
 	</programme>
-	<programme channel="北京生活" start="20250730221700 +0800" stop="20250730225000 +0800">
-		<title lang="zh">生活好物</title>
+	<programme channel="北京生活" start="20260126124700 +0800" stop="20260126133200 +0800">
+		<title lang="zh">生活特供(1)</title>
 	</programme>
-	<programme channel="北京生活" start="20250730225000 +0800" stop="20250730232400 +0800">
-		<title lang="zh">越省越开心</title>
+	<programme channel="北京生活" start="20260126133200 +0800" stop="20260126144500 +0800">
+		<title lang="zh">生活特供(2)</title>
 	</programme>
-	<programme channel="北京生活" start="20250730232400 +0800" stop="20250730234400 +0800">
-		<title lang="zh">生活帮帮忙精华版</title>
+	<programme channel="北京生活" start="20260126144500 +0800" stop="20260126145300 +0800">
+		<title lang="zh">生活气象</title>
 	</programme>
-	<programme channel="北京生活" start="20250730234400 +0800" stop="20250730235900 +0800">
-		<title lang="zh">越省越开心</title>
+	<programme channel="北京生活" start="20260126145300 +0800" stop="20260126154400 +0800">
+		<title lang="zh">选择</title>
+	</programme>
+	<programme channel="北京生活" start="20260126154400 +0800" stop="20260126161900 +0800">
+		<title lang="zh">生活广角</title>
+	</programme>
+	<programme channel="北京生活" start="20260126161900 +0800" stop="20260126165500 +0800">
+		<title lang="zh">生活广角</title>
+	</programme>
+	<programme channel="北京生活" start="20260126165500 +0800" stop="20260126172800 +0800">
+		<title lang="zh">生活+家装攻略</title>
+	</programme>
+	<programme channel="北京生活" start="20260126172800 +0800" stop="20260126175800 +0800">
+		<title lang="zh">快乐生活一点通</title>
+	</programme>
+	<programme channel="北京生活" start="20260126175800 +0800" stop="20260126182900 +0800">
+		<title lang="zh">我爱食全食美</title>
+	</programme>
+	<programme channel="北京生活" start="20260126182900 +0800" stop="20260126195900 +0800">
+		<title lang="zh">直播:生活这一刻</title>
+	</programme>
+	<programme channel="北京生活" start="20260126195900 +0800" stop="20260126202900 +0800">
+		<title lang="zh">直播:生活面对面</title>
+	</programme>
+	<programme channel="北京生活" start="20260126202900 +0800" stop="20260126211900 +0800">
+		<title lang="zh">直播:美食地图·一探到底</title>
+	</programme>
+	<programme channel="北京生活" start="20260126211900 +0800" stop="20260126220700 +0800">
+		<title lang="zh">选择</title>
+	</programme>
+	<programme channel="北京生活" start="20260126220700 +0800" stop="20260126224000 +0800">
+		<title lang="zh">生活广角</title>
+	</programme>
+	<programme channel="北京生活" start="20260126224000 +0800" stop="20260126231500 +0800">
+		<title lang="zh">生活+家装攻略</title>
+	</programme>
+	<programme channel="北京生活" start="20260126231500 +0800" stop="20260126235900 +0800">
+		<title lang="zh">生活这一刻</title>
 	</programme>
 	<channel id="北京纪实科教">
 		<display-name lang="zh">北京纪实科教</display-name>
 	</channel>
-	<programme channel="北京纪实科教" start="20250730000000 +0800" stop="20250730003900 +0800">
-		<title lang="zh">探索</title>
+	<programme channel="北京纪实科教" start="20260126004800 +0800" stop="20260126013800 +0800">
+		<title lang="zh">重播:第三调解室</title>
 	</programme>
-	<programme channel="北京纪实科教" start="20250730003900 +0800" stop="20250730010600 +0800">
-		<title lang="zh">纪录时间</title>
+	<programme channel="北京纪实科教" start="20260126013800 +0800" stop="20260126020500 +0800">
+		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="北京纪实科教" start="20250730010600 +0800" stop="20250730015300 +0800">
-		<title lang="zh">记忆</title>
+	<programme channel="北京纪实科教" start="20260126020500 +0800" stop="20260126054500 +0800">
+		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="北京纪实科教" start="20250730015300 +0800" stop="20250730025500 +0800">
-		<title lang="zh">法治中国60分</title>
+	<programme channel="北京纪实科教" start="20260126054500 +0800" stop="20260126060000 +0800">
+		<title lang="zh">播前乐</title>
 	</programme>
-	<programme channel="北京纪实科教" start="20250730025500 +0800" stop="20250730034500 +0800">
+	<programme channel="北京纪实科教" start="20260126060000 +0800" stop="20260126063000 +0800">
+		<title lang="zh">重播:健康北京</title>
+	</programme>
+	<programme channel="北京纪实科教" start="20260126063000 +0800" stop="20260126070000 +0800">
+		<title lang="zh">重播:现场说法</title>
+	</programme>
+	<programme channel="北京纪实科教" start="20260126070000 +0800" stop="20260126073500 +0800">
 		<title lang="zh">法治进行时</title>
 	</programme>
-	<programme channel="北京纪实科教" start="20250730034500 +0800" stop="20250730043700 +0800">
+	<programme channel="北京纪实科教" start="20260126073500 +0800" stop="20260126080500 +0800">
+		<title lang="zh">电视先锋榜</title>
+	</programme>
+	<programme channel="北京纪实科教" start="20260126080500 +0800" stop="20260126083200 +0800">
+		<title lang="zh">晚晴</title>
+	</programme>
+	<programme channel="北京纪实科教" start="20260126083200 +0800" stop="20260126093700 +0800">
+		<title lang="zh">上午剧场</title>
+	</programme>
+	<programme channel="北京纪实科教" start="20260126093700 +0800" stop="20260126103500 +0800">
+		<title lang="zh">上午剧场</title>
+	</programme>
+	<programme channel="北京纪实科教" start="20260126103500 +0800" stop="20260126113000 +0800">
 		<title lang="zh">第三调解室</title>
 	</programme>
-	<programme channel="北京纪实科教" start="20250730043700 +0800" stop="20250730052400 +0800">
-		<title lang="zh">记忆</title>
-	</programme>
-	<programme channel="北京纪实科教" start="20250730052400 +0800" stop="20250730060000 +0800">
-		<title lang="zh">健康北京</title>
-	</programme>
-	<programme channel="北京纪实科教" start="20250730060000 +0800" stop="20250730065300 +0800">
-		<title lang="zh">第三调解室</title>
-	</programme>
-	<programme channel="北京纪实科教" start="20250730065300 +0800" stop="20250730072600 +0800">
-		<title lang="zh">乐在美食</title>
-	</programme>
-	<programme channel="北京纪实科教" start="20250730072600 +0800" stop="20250730081800 +0800">
-		<title lang="zh">法治进行时</title>
-	</programme>
-	<programme channel="北京纪实科教" start="20250730081800 +0800" stop="20250730084300 +0800">
-		<title lang="zh">纪录时间</title>
-	</programme>
-	<programme channel="北京纪实科教" start="20250730084300 +0800" stop="20250730091400 +0800">
-		<title lang="zh">健康北京:BRTV名医来了</title>
-	</programme>
-	<programme channel="北京纪实科教" start="20250730091400 +0800" stop="20250730094700 +0800">
-		<title lang="zh">职场健康说</title>
-	</programme>
-	<programme channel="北京纪实科教" start="20250730094700 +0800" stop="20250730101900 +0800">
-		<title lang="zh">直击最前沿</title>
-	</programme>
-	<programme channel="北京纪实科教" start="20250730101900 +0800" stop="20250730110000 +0800">
-		<title lang="zh">乐在美食</title>
-	</programme>
-	<programme channel="北京纪实科教" start="20250730110000 +0800" stop="20250730113000 +0800">
-		<title lang="zh">记忆精编版</title>
-	</programme>
-	<programme channel="北京纪实科教" start="20250730113000 +0800" stop="20250730120000 +0800">
+	<programme channel="北京纪实科教" start="20260126113000 +0800" stop="20260126120000 +0800">
 		<title lang="zh">现场说法</title>
 	</programme>
-	<programme channel="北京纪实科教" start="20250730120000 +0800" stop="20250730125000 +0800">
+	<programme channel="北京纪实科教" start="20260126120000 +0800" stop="20260126125000 +0800">
 		<title lang="zh">法治进行时</title>
 	</programme>
-	<programme channel="北京纪实科教" start="20250730125000 +0800" stop="20250730134000 +0800">
+	<programme channel="北京纪实科教" start="20260126125000 +0800" stop="20260126134000 +0800">
 		<title lang="zh">第三调解室</title>
 	</programme>
-	<programme channel="北京纪实科教" start="20250730134000 +0800" stop="20250730144000 +0800">
-		<title lang="zh">法治中国60分</title>
+	<programme channel="北京纪实科教" start="20260126134000 +0800" stop="20260126145200 +0800">
+		<title lang="zh">法治中国</title>
 	</programme>
-	<programme channel="北京纪实科教" start="20250730144000 +0800" stop="20250730154000 +0800">
-		<title lang="zh">第三调解室(1)</title>
+	<programme channel="北京纪实科教" start="20260126145200 +0800" stop="20260126155200 +0800">
+		<title lang="zh">下午剧场</title>
 	</programme>
-	<programme channel="北京纪实科教" start="20250730154000 +0800" stop="20250730162500 +0800">
-		<title lang="zh">第三调解室(2)</title>
+	<programme channel="北京纪实科教" start="20260126155200 +0800" stop="20260126165300 +0800">
+		<title lang="zh">下午剧场</title>
 	</programme>
-	<programme channel="北京纪实科教" start="20250730162500 +0800" stop="20250730165500 +0800">
-		<title lang="zh">第三调解室(3)</title>
+	<programme channel="北京纪实科教" start="20260126165300 +0800" stop="20260126175500 +0800">
+		<title lang="zh">最北京</title>
 	</programme>
-	<programme channel="北京纪实科教" start="20250730165500 +0800" stop="20250730165700 +0800">
-		<title lang="zh">气象观天下:气象预报</title>
+	<programme channel="北京纪实科教" start="20260126175500 +0800" stop="20260126182500 +0800">
+		<title lang="zh">红绿灯</title>
 	</programme>
-	<programme channel="北京纪实科教" start="20250730165700 +0800" stop="20250730171000 +0800">
-		<title lang="zh">气象观天下</title>
-	</programme>
-	<programme channel="北京纪实科教" start="20250730171000 +0800" stop="20250730174200 +0800">
-		<title lang="zh">乐在美食</title>
-	</programme>
-	<programme channel="北京纪实科教" start="20250730174200 +0800" stop="20250730181400 +0800">
-		<title lang="zh">职场健康说</title>
-	</programme>
-	<programme channel="北京纪实科教" start="20250730181400 +0800" stop="20250730185500 +0800">
-		<title lang="zh">中国故事(上)</title>
-	</programme>
-	<programme channel="北京纪实科教" start="20250730185500 +0800" stop="20250730192500 +0800">
+	<programme channel="北京纪实科教" start="20260126182500 +0800" stop="20260126185500 +0800">
 		<title lang="zh">健康北京</title>
 	</programme>
-	<programme channel="北京纪实科教" start="20250730192500 +0800" stop="20250730200100 +0800">
-		<title lang="zh">中国故事(下)</title>
+	<programme channel="北京纪实科教" start="20260126185500 +0800" stop="20260126190000 +0800">
+		<title lang="zh">法治精编</title>
 	</programme>
-	<programme channel="北京纪实科教" start="20250730200100 +0800" stop="20250730204600 +0800">
+	<programme channel="北京纪实科教" start="20260126190000 +0800" stop="20260126200000 +0800">
+		<title lang="zh">法治中国</title>
+	</programme>
+	<programme channel="北京纪实科教" start="20260126200000 +0800" stop="20260126205000 +0800">
 		<title lang="zh">记忆</title>
 	</programme>
-	<programme channel="北京纪实科教" start="20250730204600 +0800" stop="20250730211800 +0800">
-		<title lang="zh">职场健康说</title>
+	<programme channel="北京纪实科教" start="20260126205000 +0800" stop="20260126214000 +0800">
+		<title lang="zh">第三调解室</title>
 	</programme>
-	<programme channel="北京纪实科教" start="20250730211800 +0800" stop="20250730215000 +0800">
-		<title lang="zh">第三调解室精编版</title>
+	<programme channel="北京纪实科教" start="20260126214000 +0800" stop="20260126224200 +0800">
+		<title lang="zh">重播:法治中国</title>
 	</programme>
-	<programme channel="北京纪实科教" start="20250730215000 +0800" stop="20250730222000 +0800">
-		<title lang="zh">记忆精编版</title>
+	<programme channel="北京纪实科教" start="20260126224200 +0800" stop="20260126231200 +0800">
+		<title lang="zh">警法目录</title>
 	</programme>
-	<programme channel="北京纪实科教" start="20250730222000 +0800" stop="20250730230500 +0800">
-		<title lang="zh">故事时间:我是刑警(13)</title>
+	<programme channel="北京纪实科教" start="20260126231200 +0800" stop="20260126234500 +0800">
+		<title lang="zh">庭审纪实</title>
 	</programme>
-	<programme channel="北京纪实科教" start="20250730230500 +0800" stop="20250730235400 +0800">
-		<title lang="zh">故事时间:我是刑警(14)</title>
-	</programme>
-	<programme channel="北京纪实科教" start="20250730235400 +0800" stop="20250730000000 +0800">
-		<title lang="zh">探索</title>
+	<programme channel="北京纪实科教" start="20260126234500 +0800" stop="20260126003800 +0800">
+		<title lang="zh">重播:记忆</title>
 	</programme>
 	<channel id="北京财经">
 		<display-name lang="zh">北京财经</display-name>
 	</channel>
-	<programme channel="北京财经" start="20250730000000 +0800" stop="20250730002900 +0800">
-		<title lang="zh">大家收藏之精品版</title>
-	</programme>
-	<programme channel="北京财经" start="20250730002900 +0800" stop="20250730005400 +0800">
-		<title lang="zh">财经有约-至味</title>
-	</programme>
-	<programme channel="北京财经" start="20250730005400 +0800" stop="20250730012400 +0800">
-		<title lang="zh">诚信北京</title>
-	</programme>
-	<programme channel="北京财经" start="20250730012400 +0800" stop="20250730054500 +0800">
-		<title lang="zh">节目结束</title>
-	</programme>
-	<programme channel="北京财经" start="20250730054500 +0800" stop="20250730060000 +0800">
+	<programme channel="北京财经" start="20260126054500 +0800" stop="20260126060800 +0800">
 		<title lang="zh">播前乐</title>
 	</programme>
-	<programme channel="北京财经" start="20250730060000 +0800" stop="20250730063000 +0800">
-		<title lang="zh">首都经济报道</title>
+	<programme channel="北京财经" start="20260126060800 +0800" stop="20260126065000 +0800">
+		<title lang="zh">总裁读书会</title>
 	</programme>
-	<programme channel="北京财经" start="20250730063000 +0800" stop="20250730063500 +0800">
-		<title lang="zh">广宣</title>
-	</programme>
-	<programme channel="北京财经" start="20250730063500 +0800" stop="20250730070000 +0800">
-		<title lang="zh">财经有约-至味</title>
-	</programme>
-	<programme channel="北京财经" start="20250730070000 +0800" stop="20250730070200 +0800">
-		<title lang="zh">广宣</title>
-	</programme>
-	<programme channel="北京财经" start="20250730070200 +0800" stop="20250730073000 +0800">
-		<title lang="zh">财经有约-纪录(1)</title>
-	</programme>
-	<programme channel="北京财经" start="20250730073000 +0800" stop="20250730080000 +0800">
+	<programme channel="北京财经" start="20260126065000 +0800" stop="20260126072000 +0800">
 		<title lang="zh">数说北京</title>
 	</programme>
-	<programme channel="北京财经" start="20250730080000 +0800" stop="20250730083000 +0800">
-		<title lang="zh">天下财经</title>
-	</programme>
-	<programme channel="北京财经" start="20250730083000 +0800" stop="20250730083200 +0800">
-		<title lang="zh">广宣</title>
-	</programme>
-	<programme channel="北京财经" start="20250730083200 +0800" stop="20250730091700 +0800">
-		<title lang="zh">玫瑰的故事(34)</title>
-	</programme>
-	<programme channel="北京财经" start="20250730091700 +0800" stop="20250730091800 +0800">
-		<title lang="zh">广宣</title>
-	</programme>
-	<programme channel="北京财经" start="20250730091800 +0800" stop="20250730100300 +0800">
-		<title lang="zh">玫瑰的故事(35)</title>
-	</programme>
-	<programme channel="北京财经" start="20250730100300 +0800" stop="20250730100400 +0800">
-		<title lang="zh">广宣</title>
-	</programme>
-	<programme channel="北京财经" start="20250730100400 +0800" stop="20250730105000 +0800">
-		<title lang="zh">玫瑰的故事(36)</title>
-	</programme>
-	<programme channel="北京财经" start="20250730105000 +0800" stop="20250730112000 +0800">
-		<title lang="zh">北京惠客厅(100)</title>
-	</programme>
-	<programme channel="北京财经" start="20250730112000 +0800" stop="20250730112500 +0800">
-		<title lang="zh">广宣</title>
-	</programme>
-	<programme channel="北京财经" start="20250730112500 +0800" stop="20250730121000 +0800">
-		<title lang="zh">消费面对面精编版</title>
-	</programme>
-	<programme channel="北京财经" start="20250730121000 +0800" stop="20250730121500 +0800">
-		<title lang="zh">广宣</title>
-	</programme>
-	<programme channel="北京财经" start="20250730121500 +0800" stop="20250730124500 +0800">
+	<programme channel="北京财经" start="20260126072000 +0800" stop="20260126075300 +0800">
 		<title lang="zh">首都经济报道</title>
 	</programme>
-	<programme channel="北京财经" start="20250730124500 +0800" stop="20250730131500 +0800">
-		<title lang="zh">北京惠客厅(100)</title>
+	<programme channel="北京财经" start="20260126075300 +0800" stop="20260126082600 +0800">
+		<title lang="zh">财富故事</title>
 	</programme>
-	<programme channel="北京财经" start="20250730131500 +0800" stop="20250730131800 +0800">
-		<title lang="zh">广宣</title>
+	<programme channel="北京财经" start="20260126082600 +0800" stop="20260126091900 +0800">
+		<title lang="zh">理财周末版</title>
 	</programme>
-	<programme channel="北京财经" start="20250730131800 +0800" stop="20250730134300 +0800">
-		<title lang="zh">财经有约-至味</title>
+	<programme channel="北京财经" start="20260126091900 +0800" stop="20260126102000 +0800">
+		<title lang="zh">财富晚间道</title>
 	</programme>
-	<programme channel="北京财经" start="20250730134300 +0800" stop="20250730134800 +0800">
-		<title lang="zh">广宣</title>
+	<programme channel="北京财经" start="20260126102000 +0800" stop="20260126112500 +0800">
+		<title lang="zh">财富晚间道</title>
 	</programme>
-	<programme channel="北京财经" start="20250730134800 +0800" stop="20250730143100 +0800">
-		<title lang="zh">警察荣誉(28)</title>
+	<programme channel="北京财经" start="20260126112500 +0800" stop="20260126123100 +0800">
+		<title lang="zh">天下财经-投资者说</title>
 	</programme>
-	<programme channel="北京财经" start="20250730143100 +0800" stop="20250730143400 +0800">
-		<title lang="zh">广宣</title>
+	<programme channel="北京财经" start="20260126123100 +0800" stop="20260126131700 +0800">
+		<title lang="zh">午间剧场</title>
 	</programme>
-	<programme channel="北京财经" start="20250730143400 +0800" stop="20250730151700 +0800">
-		<title lang="zh">警察荣誉(29)</title>
+	<programme channel="北京财经" start="20260126131700 +0800" stop="20260126140400 +0800">
+		<title lang="zh">午间剧场</title>
 	</programme>
-	<programme channel="北京财经" start="20250730151700 +0800" stop="20250730151900 +0800">
-		<title lang="zh">广宣</title>
+	<programme channel="北京财经" start="20260126140400 +0800" stop="20260126145800 +0800">
+		<title lang="zh">午间剧场</title>
 	</programme>
-	<programme channel="北京财经" start="20250730151900 +0800" stop="20250730160300 +0800">
-		<title lang="zh">警察荣誉(30)</title>
-	</programme>
-	<programme channel="北京财经" start="20250730160300 +0800" stop="20250730163300 +0800">
-		<title lang="zh">北京惠客厅(100)</title>
-	</programme>
-	<programme channel="北京财经" start="20250730163300 +0800" stop="20250730163500 +0800">
-		<title lang="zh">广宣</title>
-	</programme>
-	<programme channel="北京财经" start="20250730163500 +0800" stop="20250730172000 +0800">
-		<title lang="zh">消费面对面精编版</title>
-	</programme>
-	<programme channel="北京财经" start="20250730172000 +0800" stop="20250730180000 +0800">
-		<title lang="zh">消费面对面</title>
-	</programme>
-	<programme channel="北京财经" start="20250730180000 +0800" stop="20250730180500 +0800">
-		<title lang="zh">广宣</title>
-	</programme>
-	<programme channel="北京财经" start="20250730180500 +0800" stop="20250730183300 +0800">
-		<title lang="zh">财经有约-纪录</title>
-	</programme>
-	<programme channel="北京财经" start="20250730183300 +0800" stop="20250730183500 +0800">
-		<title lang="zh">广宣</title>
-	</programme>
-	<programme channel="北京财经" start="20250730183500 +0800" stop="20250730190000 +0800">
-		<title lang="zh">财经有约-至味</title>
-	</programme>
-	<programme channel="北京财经" start="20250730190000 +0800" stop="20250730193000 +0800">
-		<title lang="zh">首都经济报道</title>
-	</programme>
-	<programme channel="北京财经" start="20250730193000 +0800" stop="20250730200000 +0800">
-		<title lang="zh">天下财经</title>
-	</programme>
-	<programme channel="北京财经" start="20250730200000 +0800" stop="20250730203000 +0800">
-		<title lang="zh">京津冀大格局</title>
-	</programme>
-	<programme channel="北京财经" start="20250730203000 +0800" stop="20250730210000 +0800">
+	<programme channel="北京财经" start="20260126145800 +0800" stop="20260126155400 +0800">
 		<title lang="zh">拍宝</title>
 	</programme>
-	<programme channel="北京财经" start="20250730210000 +0800" stop="20250730213000 +0800">
-		<title lang="zh">蜜蜂计划</title>
+	<programme channel="北京财经" start="20260126155400 +0800" stop="20260126163500 +0800">
+		<title lang="zh">电视先锋榜</title>
 	</programme>
-	<programme channel="北京财经" start="20250730213000 +0800" stop="20250730221000 +0800">
-		<title lang="zh">大家收藏之精品版</title>
+	<programme channel="北京财经" start="20260126163500 +0800" stop="20260126173000 +0800">
+		<title lang="zh">理财周末版</title>
 	</programme>
-	<programme channel="北京财经" start="20250730221000 +0800" stop="20250730221500 +0800">
-		<title lang="zh">广宣</title>
+	<programme channel="北京财经" start="20260126173000 +0800" stop="20260126183000 +0800">
+		<title lang="zh">大牌价到</title>
 	</programme>
-	<programme channel="北京财经" start="20250730221500 +0800" stop="20250730230000 +0800">
-		<title lang="zh">三叉戟2(9)</title>
+	<programme channel="北京财经" start="20260126183000 +0800" stop="20260126190000 +0800">
+		<title lang="zh">影响者</title>
 	</programme>
-	<programme channel="北京财经" start="20250730230000 +0800" stop="20250730230300 +0800">
-		<title lang="zh">广宣</title>
+	<programme channel="北京财经" start="20260126190000 +0800" stop="20260126193000 +0800">
+		<title lang="zh">首都经济报道</title>
 	</programme>
-	<programme channel="北京财经" start="20250730230300 +0800" stop="20250730234900 +0800">
-		<title lang="zh">三叉戟2(10)</title>
+	<programme channel="北京财经" start="20260126193000 +0800" stop="20260126200000 +0800">
+		<title lang="zh">天下财经</title>
 	</programme>
-	<programme channel="北京财经" start="20250730234900 +0800" stop="20250730235900 +0800">
-		<title lang="zh">大家收藏之精品版</title>
+	<programme channel="北京财经" start="20260126200000 +0800" stop="20260126211500 +0800">
+		<title lang="zh">天下财经-投资者说</title>
+	</programme>
+	<programme channel="北京财经" start="20260126211500 +0800" stop="20260126221000 +0800">
+		<title lang="zh">理财</title>
+	</programme>
+	<programme channel="北京财经" start="20260126221000 +0800" stop="20260126224500 +0800">
+		<title lang="zh">财经商圈</title>
+	</programme>
+	<programme channel="北京财经" start="20260126224500 +0800" stop="20260126235900 +0800">
+		<title lang="zh">大牌价到</title>
 	</programme>
 	<channel id="东森新闻">
 		<display-name lang="zh">东森新闻</display-name>
@@ -9054,6 +8766,78 @@
 		<title lang="zh">即时新闻现场(普)</title>
 	</programme>
 	<programme channel="中视新闻" start="20260215230000 +0800" stop="20260216000000 +0800">
+		<title lang="zh">中视新闻全球报导(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260216000000 +0800" stop="20260216010000 +0800">
+		<title lang="zh">娱乐星光大道(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260216010000 +0800" stop="20260216020000 +0800">
+		<title lang="zh">科技新视界(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260216020000 +0800" stop="20260216030000 +0800">
+		<title lang="zh">致富生活密码(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260216030000 +0800" stop="20260216040000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260216040000 +0800" stop="20260216050000 +0800">
+		<title lang="zh">中视新闻全球报导(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260216050000 +0800" stop="20260216060000 +0800">
+		<title lang="zh">世界大搜秘(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260216060000 +0800" stop="20260216070000 +0800">
+		<title lang="zh">娱乐星光大道(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260216070000 +0800" stop="20260216080000 +0800">
+		<title lang="zh">中视早安新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260216080000 +0800" stop="20260216090000 +0800">
+		<title lang="zh">整点新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260216090000 +0800" stop="20260216100000 +0800">
+		<title lang="zh">科技新视界(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260216100000 +0800" stop="20260216110000 +0800">
+		<title lang="zh">致富生活密码(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260216110000 +0800" stop="20260216115800 +0800">
+		<title lang="zh">世界大搜秘(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260216115800 +0800" stop="20260216130000 +0800">
+		<title lang="zh">中视午间新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260216130000 +0800" stop="20260216140000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260216140000 +0800" stop="20260216150000 +0800">
+		<title lang="zh">娱乐星光大道(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260216150000 +0800" stop="20260216160000 +0800">
+		<title lang="zh">科技新视界(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260216160000 +0800" stop="20260216170000 +0800">
+		<title lang="zh">致富生活密码(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260216170000 +0800" stop="20260216180000 +0800">
+		<title lang="zh">世界大搜秘(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260216180000 +0800" stop="20260216185800 +0800">
+		<title lang="zh">中视新闻全球报导6点抢先报(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260216185800 +0800" stop="20260216200000 +0800">
+		<title lang="zh">中视新闻全球报导(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260216200000 +0800" stop="20260216210000 +0800">
+		<title lang="zh">致富生活密码(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260216210000 +0800" stop="20260216220000 +0800">
+		<title lang="zh">世界大搜秘(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260216220000 +0800" stop="20260216230000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260216230000 +0800" stop="20260217000000 +0800">
 		<title lang="zh">中视新闻全球报导(普)</title>
 	</programme>
 </tv>

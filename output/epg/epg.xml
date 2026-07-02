@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260701232430 +0800">
+<tv date="20260702122214 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -10184,6 +10184,78 @@
 	</programme>
 	<programme channel="中视新闻" start="20260703230000 +0800" stop="20260704000000 +0800">
 		<title lang="zh">中视新闻全球报导(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260704000000 +0800" stop="20260704010000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260704010000 +0800" stop="20260704020000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260704020000 +0800" stop="20260704030000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260704030000 +0800" stop="20260704040000 +0800">
+		<title lang="zh">中视新闻全球报导(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260704040000 +0800" stop="20260704050000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260704050000 +0800" stop="20260704060000 +0800">
+		<title lang="zh">中视新闻全球报导6点抢先报(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260704060000 +0800" stop="20260704070000 +0800">
+		<title lang="zh">中视新闻全球报导(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260704070000 +0800" stop="20260704080000 +0800">
+		<title lang="zh">中视早安新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260704080000 +0800" stop="20260704090000 +0800">
+		<title lang="zh">整点新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260704090000 +0800" stop="20260704100000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260704100000 +0800" stop="20260704110000 +0800">
+		<title lang="zh">60分钟(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260704110000 +0800" stop="20260704115800 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260704115800 +0800" stop="20260704130000 +0800">
+		<title lang="zh">中视午间新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260704130000 +0800" stop="20260704140000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260704140000 +0800" stop="20260704150000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260704150000 +0800" stop="20260704160000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260704160000 +0800" stop="20260704170000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260704170000 +0800" stop="20260704180000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260704180000 +0800" stop="20260704185700 +0800">
+		<title lang="zh">中视新闻全球报导6点抢先报(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260704185700 +0800" stop="20260704200000 +0800">
+		<title lang="zh">中视新闻全球报导(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260704200000 +0800" stop="20260704210000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260704210000 +0800" stop="20260704220000 +0800">
+		<title lang="zh">整点新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260704220000 +0800" stop="20260704230000 +0800">
+		<title lang="zh">60分钟(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260704230000 +0800" stop="20260705000000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
 	</programme>
 	<channel id="香港卫视">
 		<display-name lang="zh">香港卫视</display-name>

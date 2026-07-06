@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260705231355 +0800">
+<tv date="20260706135652 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -8037,12 +8037,6 @@
 	<programme channel="华视新闻" start="20260706000000 +0800" stop="20260706000001 +0800">
 		<title lang="zh">由https://epg.136605.xyz提供节目单服务</title>
 	</programme>
-	<programme channel="华视新闻" start="20260706000001 +0800" stop="20260706000000 +0800">
-		<title lang="zh">华视夜间新闻</title>
-	</programme>
-	<programme channel="华视新闻" start="20260706000000 +0800" stop="20260706000001 +0800">
-		<title lang="zh">由https://epg.136605.xyz提供节目单服务</title>
-	</programme>
 	<programme channel="华视新闻" start="20260706000001 +0800" stop="20260706010000 +0800">
 		<title lang="zh">华视2400夜间新闻</title>
 	</programme>
@@ -8115,12 +8109,6 @@
 	<channel id="TVBS新闻">
 		<display-name lang="zh">TVBS新闻</display-name>
 	</channel>
-	<programme channel="TVBS新闻" start="20260706000000 +0800" stop="20260706000001 +0800">
-		<title lang="zh">由https://epg.136605.xyz提供节目单服务</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20260706000001 +0800" stop="20260706000000 +0800">
-		<title lang="zh">新闻夜视界</title>
-	</programme>
 	<programme channel="TVBS新闻" start="20260706000000 +0800" stop="20260706000001 +0800">
 		<title lang="zh">由https://epg.136605.xyz提供节目单服务</title>
 	</programme>
@@ -8199,12 +8187,6 @@
 	<channel id="中视新闻">
 		<display-name lang="zh">中视新闻</display-name>
 	</channel>
-	<programme channel="中视新闻" start="20260706000000 +0800" stop="20260706000001 +0800">
-		<title lang="zh">由https://epg.136605.xyz提供节目单服务</title>
-	</programme>
-	<programme channel="中视新闻" start="20260706000001 +0800" stop="20260706000000 +0800">
-		<title lang="zh">即时新闻现场(普)</title>
-	</programme>
 	<programme channel="中视新闻" start="20260706000000 +0800" stop="20260706000001 +0800">
 		<title lang="zh">由https://epg.136605.xyz提供节目单服务</title>
 	</programme>

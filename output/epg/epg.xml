@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260715231010 +0800">
+<tv date="20260716114552 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7287,11 +7287,8 @@
 	<channel id="华视新闻">
 		<display-name lang="zh">华视新闻</display-name>
 	</channel>
-	<programme channel="华视新闻" start="20260716000000 +0800" stop="20260716000001 +0800">
+	<programme channel="华视新闻" start="20260716000000 +0800" stop="20260716010000 +0800">
 		<title lang="zh">由https://epg.136605.xyz提供节目单服务</title>
-	</programme>
-	<programme channel="华视新闻" start="20260716000001 +0800" stop="20260716010000 +0800">
-		<title lang="zh">华视2400夜间新闻</title>
 	</programme>
 	<programme channel="华视新闻" start="20260716010000 +0800" stop="20260716020000 +0800">
 		<title lang="zh">World News 9</title>
@@ -7362,12 +7359,6 @@
 	<channel id="TVBS新闻">
 		<display-name lang="zh">TVBS新闻</display-name>
 	</channel>
-	<programme channel="TVBS新闻" start="20260716000000 +0800" stop="20260716000001 +0800">
-		<title lang="zh">由https://epg.136605.xyz提供节目单服务</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20260716000001 +0800" stop="20260716000000 +0800">
-		<title lang="zh">新闻夜视界</title>
-	</programme>
 	<programme channel="TVBS新闻" start="20260716000000 +0800" stop="20260716000001 +0800">
 		<title lang="zh">由https://epg.136605.xyz提供节目单服务</title>
 	</programme>
@@ -7446,12 +7437,6 @@
 	<channel id="中视新闻">
 		<display-name lang="zh">中视新闻</display-name>
 	</channel>
-	<programme channel="中视新闻" start="20260716000000 +0800" stop="20260716000001 +0800">
-		<title lang="zh">由https://epg.136605.xyz提供节目单服务</title>
-	</programme>
-	<programme channel="中视新闻" start="20260716000001 +0800" stop="20260716000000 +0800">
-		<title lang="zh">中视新闻全球报导(普)</title>
-	</programme>
 	<programme channel="中视新闻" start="20260716000000 +0800" stop="20260716000001 +0800">
 		<title lang="zh">由https://epg.136605.xyz提供节目单服务</title>
 	</programme>
@@ -7632,11 +7617,8 @@
 	<programme channel="CHC家庭影院" start="20260716000000 +0800" stop="20260716012200 +0800">
 		<title lang="zh">由https://epg.136605.xyz提供节目单服务</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20260716012200 +0800" stop="20260716012500 +0800">
+	<programme channel="CHC家庭影院" start="20260716012200 +0800" stop="20260716025900 +0800">
 		<title lang="zh">家庭 导视</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20260716012500 +0800" stop="20260716025900 +0800">
-		<title lang="zh">倩女幽魂</title>
 	</programme>
 	<programme channel="CHC家庭影院" start="20260716025900 +0800" stop="20260716030000 +0800">
 		<title lang="zh">家庭 导视</title>
@@ -7656,11 +7638,8 @@
 	<programme channel="CHC家庭影院" start="20260716063500 +0800" stop="20260716080800 +0800">
 		<title lang="zh">天堂旅行团</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20260716080800 +0800" stop="20260716081000 +0800">
+	<programme channel="CHC家庭影院" start="20260716080800 +0800" stop="20260716094600 +0800">
 		<title lang="zh">家庭 导视</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20260716081000 +0800" stop="20260716094600 +0800">
-		<title lang="zh">射雕英雄传之九阴白骨爪</title>
 	</programme>
 	<programme channel="CHC家庭影院" start="20260716094600 +0800" stop="20260716095000 +0800">
 		<title lang="zh">家庭 导视</title>

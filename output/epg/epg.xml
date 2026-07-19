@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260718225827 +0800">
+<tv date="20260719112235 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7020,12 +7020,6 @@
 	<programme channel="华视新闻" start="20260719000000 +0800" stop="20260719000001 +0800">
 		<title lang="zh">由https://epg.136605.xyz提供节目单服务</title>
 	</programme>
-	<programme channel="华视新闻" start="20260719000001 +0800" stop="20260719000000 +0800">
-		<title lang="zh">华视夜间新闻</title>
-	</programme>
-	<programme channel="华视新闻" start="20260719000000 +0800" stop="20260719000001 +0800">
-		<title lang="zh">由https://epg.136605.xyz提供节目单服务</title>
-	</programme>
 	<programme channel="华视新闻" start="20260719000001 +0800" stop="20260719010000 +0800">
 		<title lang="zh">华视2400夜间新闻</title>
 	</programme>
@@ -7098,12 +7092,6 @@
 	<channel id="TVBS新闻">
 		<display-name lang="zh">TVBS新闻</display-name>
 	</channel>
-	<programme channel="TVBS新闻" start="20260719000000 +0800" stop="20260719000001 +0800">
-		<title lang="zh">由https://epg.136605.xyz提供节目单服务</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20260719000001 +0800" stop="20260719000000 +0800">
-		<title lang="zh">新闻夜视界</title>
-	</programme>
 	<programme channel="TVBS新闻" start="20260719000000 +0800" stop="20260719000001 +0800">
 		<title lang="zh">由https://epg.136605.xyz提供节目单服务</title>
 	</programme>
@@ -7182,12 +7170,6 @@
 	<channel id="中视新闻">
 		<display-name lang="zh">中视新闻</display-name>
 	</channel>
-	<programme channel="中视新闻" start="20260719000000 +0800" stop="20260719000001 +0800">
-		<title lang="zh">由https://epg.136605.xyz提供节目单服务</title>
-	</programme>
-	<programme channel="中视新闻" start="20260719000001 +0800" stop="20260719000000 +0800">
-		<title lang="zh">即时新闻现场(普)</title>
-	</programme>
 	<programme channel="中视新闻" start="20260719000000 +0800" stop="20260719000001 +0800">
 		<title lang="zh">由https://epg.136605.xyz提供节目单服务</title>
 	</programme>
@@ -7371,11 +7353,8 @@
 	<programme channel="CHC家庭影院" start="20260719001000 +0800" stop="20260719014300 +0800">
 		<title lang="zh">在西伯利亚森林中</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20260719014300 +0800" stop="20260719014500 +0800">
+	<programme channel="CHC家庭影院" start="20260719014300 +0800" stop="20260719034200 +0800">
 		<title lang="zh">家庭 导视</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20260719014500 +0800" stop="20260719034200 +0800">
-		<title lang="zh">射雕英雄传</title>
 	</programme>
 	<programme channel="CHC家庭影院" start="20260719034200 +0800" stop="20260719034500 +0800">
 		<title lang="zh">家庭 导视</title>

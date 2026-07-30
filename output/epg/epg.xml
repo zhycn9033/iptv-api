@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260729231221 +0800">
+<tv date="20260730120524 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7338,10 +7338,10 @@
 	<channel id="北京新闻">
 		<display-name lang="zh">北京新闻</display-name>
 	</channel>
-	<programme channel="北京新闻" start="20260730000000 +0800" stop="20260730000001 +0800">
+	<programme channel="北京新闻" start="20260730000000 +0800" stop="20260730000800 +0800">
 		<title lang="zh">由https://epg.136605.xyz提供节目单服务</title>
 	</programme>
-	<programme channel="北京新闻" start="20260730000001 +0800" stop="20260730005000 +0800">
+	<programme channel="北京新闻" start="20260730000800 +0800" stop="20260730005000 +0800">
 		<title lang="zh">红绿灯</title>
 	</programme>
 	<programme channel="北京新闻" start="20260730005000 +0800" stop="20260730012000 +0800">
@@ -7431,10 +7431,10 @@
 	<channel id="北京影视">
 		<display-name lang="zh">北京影视</display-name>
 	</channel>
-	<programme channel="北京影视" start="20260730000000 +0800" stop="20260730000001 +0800">
+	<programme channel="北京影视" start="20260730000000 +0800" stop="20260730000300 +0800">
 		<title lang="zh">由https://epg.136605.xyz提供节目单服务</title>
 	</programme>
-	<programme channel="北京影视" start="20260730000001 +0800" stop="20260730012300 +0800">
+	<programme channel="北京影视" start="20260730000300 +0800" stop="20260730012300 +0800">
 		<title lang="zh">BTV聚精彩</title>
 	</programme>
 	<programme channel="北京影视" start="20260730012300 +0800" stop="20260730020800 +0800">
@@ -7716,10 +7716,10 @@
 	<channel id="北京体育休闲">
 		<display-name lang="zh">北京体育休闲</display-name>
 	</channel>
-	<programme channel="北京体育休闲" start="20260730000000 +0800" stop="20260730000001 +0800">
+	<programme channel="北京体育休闲" start="20260730000000 +0800" stop="20260730002800 +0800">
 		<title lang="zh">由https://epg.136605.xyz提供节目单服务</title>
 	</programme>
-	<programme channel="北京体育休闲" start="20260730000001 +0800" stop="20260730011800 +0800">
+	<programme channel="北京体育休闲" start="20260730002800 +0800" stop="20260730011800 +0800">
 		<title lang="zh">重播: 第三调解室</title>
 	</programme>
 	<programme channel="北京体育休闲" start="20260730011800 +0800" stop="20260730020300 +0800">

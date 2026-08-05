@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260804231422 +0800">
+<tv date="20260805121140 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -6894,582 +6894,6 @@
 	<programme channel="北京卫视4K" start="20260805233700 +0800" stop="20260806000000 +0800">
 		<title lang="zh">4K里的中国</title>
 	</programme>
-	<channel id="香港卫视">
-		<display-name lang="zh">香港卫视</display-name>
-	</channel>
-	<programme channel="香港卫视" start="20260805000000 +0800" stop="20260805000500 +0800">
-		<title lang="zh">由https://epg.136605.xyz提供节目单服务</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805000500 +0800" stop="20260805003000 +0800">
-		<title lang="zh">香江唱皖</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805001000 +0800" stop="20260805004000 +0800">
-		<title lang="zh">映像锡林郭勒</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805003000 +0800" stop="20260805005800 +0800">
-		<title lang="zh">映像锡林郭勒</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805004000 +0800" stop="20260805011000 +0800">
-		<title lang="zh">时尚汇</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805005800 +0800" stop="20260805010400 +0800">
-		<title lang="zh">早安中国</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805010400 +0800" stop="20260805013000 +0800">
-		<title lang="zh">守心人</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805011000 +0800" stop="20260805014400 +0800">
-		<title lang="zh">文化超声</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805013000 +0800" stop="20260805015800 +0800">
-		<title lang="zh">东边西边</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805014400 +0800" stop="20260805020900 +0800">
-		<title lang="zh">香江唱皖</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805015800 +0800" stop="20260805020400 +0800">
-		<title lang="zh">早安中国</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805020400 +0800" stop="20260805023000 +0800">
-		<title lang="zh">时尚汇</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805020900 +0800" stop="20260805024000 +0800">
-		<title lang="zh">香港故事</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805023000 +0800" stop="20260805025600 +0800">
-		<title lang="zh">流行音乐盛典</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805024000 +0800" stop="20260805030000 +0800">
-		<title lang="zh">港视大直播</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805025600 +0800" stop="20260805030700 +0800">
-		<title lang="zh">直击中国</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805030000 +0800" stop="20260805031400 +0800">
-		<title lang="zh">印象重庆</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805030700 +0800" stop="20260805035500 +0800">
-		<title lang="zh">电视剧</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805031400 +0800" stop="20260805034500 +0800">
-		<title lang="zh">映像锡林郭勒</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805034500 +0800" stop="20260805041200 +0800">
-		<title lang="zh">守心人</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805035500 +0800" stop="20260805042400 +0800">
-		<title lang="zh">高朋满座</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805041200 +0800" stop="20260805043000 +0800">
-		<title lang="zh">那点财经事</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805042400 +0800" stop="20260805043000 +0800">
-		<title lang="zh">三奇企业宣传片</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805043000 +0800" stop="20260805044700 +0800">
-		<title lang="zh">港视午新闻</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805043000 +0800" stop="20260805050000 +0800">
-		<title lang="zh">高朋满座</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805044700 +0800" stop="20260805051500 +0800">
-		<title lang="zh">时尚汇</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805050000 +0800" stop="20260805052500 +0800">
-		<title lang="zh">香江唱皖</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805051500 +0800" stop="20260805054500 +0800">
-		<title lang="zh">香港精神</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805052500 +0800" stop="20260805055500 +0800">
-		<title lang="zh">健康加油站</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805054500 +0800" stop="20260805061000 +0800">
-		<title lang="zh">香江唱皖</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805055500 +0800" stop="20260805062500 +0800">
-		<title lang="zh">香港故事</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805061000 +0800" stop="20260805062500 +0800">
-		<title lang="zh">印象重庆</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805062500 +0800" stop="20260805064500 +0800">
-		<title lang="zh">午新闻</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805062500 +0800" stop="20260805065500 +0800">
-		<title lang="zh">东边西边</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805064500 +0800" stop="20260805071500 +0800">
-		<title lang="zh">东边西边</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805065500 +0800" stop="20260805071500 +0800">
-		<title lang="zh">港视大直播</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805071500 +0800" stop="20260805080600 +0800">
-		<title lang="zh">电视剧</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805071500 +0800" stop="20260805072700 +0800">
-		<title lang="zh">印象重庆</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805072700 +0800" stop="20260805073300 +0800">
-		<title lang="zh">早安中国</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805073300 +0800" stop="20260805075800 +0800">
-		<title lang="zh">时尚汇</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805075800 +0800" stop="20260805080500 +0800">
-		<title lang="zh">早安中国</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805080500 +0800" stop="20260805083000 +0800">
-		<title lang="zh">香江唱皖</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805080600 +0800" stop="20260805083900 +0800">
-		<title lang="zh">文化超声</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805083000 +0800" stop="20260805085800 +0800">
-		<title lang="zh">映像锡林郭勒</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805083900 +0800" stop="20260805090700 +0800">
-		<title lang="zh">高朋满座</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805085800 +0800" stop="20260805090400 +0800">
-		<title lang="zh">早安中国</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805090400 +0800" stop="20260805093000 +0800">
-		<title lang="zh">守心人</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805090700 +0800" stop="20260805092500 +0800">
-		<title lang="zh">直击中国</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805092500 +0800" stop="20260805095100 +0800">
-		<title lang="zh">流行音乐盛典</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805093000 +0800" stop="20260805095800 +0800">
-		<title lang="zh">东边西边</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805095100 +0800" stop="20260805102000 +0800">
-		<title lang="zh">香港故事</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805095800 +0800" stop="20260805100400 +0800">
-		<title lang="zh">早安中国</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805100400 +0800" stop="20260805103000 +0800">
-		<title lang="zh">时尚汇</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805102000 +0800" stop="20260805104500 +0800">
-		<title lang="zh">动画天地</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805103000 +0800" stop="20260805105600 +0800">
-		<title lang="zh">流行音乐盛典</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805104500 +0800" stop="20260805110000 +0800">
-		<title lang="zh">印象重庆</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805105600 +0800" stop="20260805110700 +0800">
-		<title lang="zh">直击中国</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805110000 +0800" stop="20260805111600 +0800">
-		<title lang="zh">港视大直播</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805110700 +0800" stop="20260805115500 +0800">
-		<title lang="zh">电视剧</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805111600 +0800" stop="20260805113700 +0800">
-		<title lang="zh">香江唱皖</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805113700 +0800" stop="20260805120300 +0800">
-		<title lang="zh">守心人</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805115500 +0800" stop="20260805122400 +0800">
-		<title lang="zh">高朋满座</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805120300 +0800" stop="20260805123000 +0800">
-		<title lang="zh">香港精神</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805122400 +0800" stop="20260805123000 +0800">
-		<title lang="zh">三奇企业宣传片</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805123000 +0800" stop="20260805130000 +0800">
-		<title lang="zh">东边西边</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805123000 +0800" stop="20260805124700 +0800">
-		<title lang="zh">港视午新闻</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805124700 +0800" stop="20260805131500 +0800">
-		<title lang="zh">时尚汇</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805130000 +0800" stop="20260805133000 +0800">
-		<title lang="zh">映像锡林郭勒</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805131500 +0800" stop="20260805134500 +0800">
-		<title lang="zh">香港精神</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805133000 +0800" stop="20260805140000 +0800">
-		<title lang="zh">香港故事</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805134500 +0800" stop="20260805141000 +0800">
-		<title lang="zh">香江唱皖</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805140000 +0800" stop="20260805145100 +0800">
-		<title lang="zh">电视剧</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805141000 +0800" stop="20260805142500 +0800">
-		<title lang="zh">印象重庆</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805142500 +0800" stop="20260805144500 +0800">
-		<title lang="zh">午新闻</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805144500 +0800" stop="20260805151500 +0800">
-		<title lang="zh">东边西边</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805145100 +0800" stop="20260805152100 +0800">
-		<title lang="zh">独爱东南</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805151500 +0800" stop="20260805160600 +0800">
-		<title lang="zh">电视剧</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805152100 +0800" stop="20260805155000 +0800">
-		<title lang="zh">东边西边</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805155000 +0800" stop="20260805161000 +0800">
-		<title lang="zh">港视大直播</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805160600 +0800" stop="20260805163900 +0800">
-		<title lang="zh">文化超声</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805161000 +0800" stop="20260805164000 +0800">
-		<title lang="zh">映像波特兰</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805163900 +0800" stop="20260805170700 +0800">
-		<title lang="zh">高朋满座</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805164000 +0800" stop="20260805171000 +0800">
-		<title lang="zh">时尚汇</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805170700 +0800" stop="20260805172500 +0800">
-		<title lang="zh">直击中国</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805171000 +0800" stop="20260805174000 +0800">
-		<title lang="zh">独爱东南</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805172500 +0800" stop="20260805175100 +0800">
-		<title lang="zh">流行音乐盛典</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805174000 +0800" stop="20260805181000 +0800">
-		<title lang="zh">香港精神</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805175100 +0800" stop="20260805182000 +0800">
-		<title lang="zh">香港故事</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805181000 +0800" stop="20260805184000 +0800">
-		<title lang="zh">香港故事</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805182000 +0800" stop="20260805184500 +0800">
-		<title lang="zh">动画天地</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805184000 +0800" stop="20260805190000 +0800">
-		<title lang="zh">港视大直播</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805184500 +0800" stop="20260805190000 +0800">
-		<title lang="zh">印象重庆</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805190000 +0800" stop="20260805191400 +0800">
-		<title lang="zh">印象重庆</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805190000 +0800" stop="20260805191600 +0800">
-		<title lang="zh">港视大直播</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805191400 +0800" stop="20260805194500 +0800">
-		<title lang="zh">东边西边</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805191600 +0800" stop="20260805193700 +0800">
-		<title lang="zh">香江唱皖</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805193700 +0800" stop="20260805200300 +0800">
-		<title lang="zh">守心人</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805194500 +0800" stop="20260805201200 +0800">
-		<title lang="zh">守心人</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805200300 +0800" stop="20260805203000 +0800">
-		<title lang="zh">香港精神</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805201200 +0800" stop="20260805203000 +0800">
-		<title lang="zh">那点财经事</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805203000 +0800" stop="20260805210000 +0800">
-		<title lang="zh">香港故事</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805210000 +0800" stop="20260805212500 +0800">
-		<title lang="zh">香江唱皖</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805210000 +0800" stop="20260805213000 +0800">
-		<title lang="zh">映像锡林郭勒</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805212500 +0800" stop="20260805215500 +0800">
-		<title lang="zh">高朋?座</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805213000 +0800" stop="20260805220000 +0800">
-		<title lang="zh">香港故事</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805215500 +0800" stop="20260805222500 +0800">
-		<title lang="zh">文化超声</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805220000 +0800" stop="20260805225100 +0800">
-		<title lang="zh">电视剧</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805222500 +0800" stop="20260805225500 +0800">
-		<title lang="zh">东边西边</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805225100 +0800" stop="20260805232100 +0800">
-		<title lang="zh">独爱东南</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805225500 +0800" stop="20260805231000 +0800">
-		<title lang="zh">港视大直播</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805231000 +0800" stop="20260805232000 +0800">
-		<title lang="zh">早安中国</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805232000 +0800" stop="20260805233300 +0800">
-		<title lang="zh">印象重庆</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805232100 +0800" stop="20260805235000 +0800">
-		<title lang="zh">东边西边</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805233300 +0800" stop="20260806000000 +0800">
-		<title lang="zh">时尚汇</title>
-	</programme>
-	<programme channel="香港卫视" start="20260805235000 +0800" stop="20260806000000 +0800">
-		<title lang="zh">港视大直播</title>
-	</programme>
-	<programme channel="香港卫视" start="20260806000000 +0800" stop="20260806000001 +0800">
-		<title lang="zh">由https://epg.136605.xyz提供节目单服务</title>
-	</programme>
-	<programme channel="香港卫视" start="20260806000001 +0800" stop="20260806001000 +0800">
-		<title lang="zh">港视大直播</title>
-	</programme>
-	<channel id="华视新闻">
-		<display-name lang="zh">华视新闻</display-name>
-	</channel>
-	<programme channel="华视新闻" start="20260805000000 +0800" stop="20260805000001 +0800">
-		<title lang="zh">由https://epg.136605.xyz提供节目单服务</title>
-	</programme>
-	<programme channel="华视新闻" start="20260805000001 +0800" stop="20260805010000 +0800">
-		<title lang="zh">华视2400夜间新闻</title>
-	</programme>
-	<programme channel="华视新闻" start="20260805010000 +0800" stop="20260805020000 +0800">
-		<title lang="zh">World News 9</title>
-	</programme>
-	<programme channel="华视新闻" start="20260805020000 +0800" stop="20260805030000 +0800">
-		<title lang="zh">华视2400夜间新闻</title>
-	</programme>
-	<programme channel="华视新闻" start="20260805030000 +0800" stop="20260805040000 +0800">
-		<title lang="zh">World News 9</title>
-	</programme>
-	<programme channel="华视新闻" start="20260805040000 +0800" stop="20260805050000 +0800">
-		<title lang="zh">华视2400夜间新闻</title>
-	</programme>
-	<programme channel="华视新闻" start="20260805050000 +0800" stop="20260805060000 +0800">
-		<title lang="zh">World News 9</title>
-	</programme>
-	<programme channel="华视新闻" start="20260805060000 +0800" stop="20260805070000 +0800">
-		<title lang="zh">华视2400夜间新闻</title>
-	</programme>
-	<programme channel="华视新闻" start="20260805070000 +0800" stop="20260805080000 +0800">
-		<title lang="zh">GOOD Morning台湾</title>
-	</programme>
-	<programme channel="华视新闻" start="20260805080000 +0800" stop="20260805090000 +0800">
-		<title lang="zh">GOOD Morning台湾</title>
-	</programme>
-	<programme channel="华视新闻" start="20260805090000 +0800" stop="20260805100000 +0800">
-		<title lang="zh">华视0900整点新闻</title>
-	</programme>
-	<programme channel="华视新闻" start="20260805100000 +0800" stop="20260805110000 +0800">
-		<title lang="zh">华视1000新闻抢先报</title>
-	</programme>
-	<programme channel="华视新闻" start="20260805110000 +0800" stop="20260805115800 +0800">
-		<title lang="zh">华视1100新闻抢先报</title>
-	</programme>
-	<programme channel="华视新闻" start="20260805115800 +0800" stop="20260805130000 +0800">
-		<title lang="zh">华视午间新闻</title>
-	</programme>
-	<programme channel="华视新闻" start="20260805130000 +0800" stop="20260805140000 +0800">
-		<title lang="zh">华视1300午间新闻</title>
-	</programme>
-	<programme channel="华视新闻" start="20260805140000 +0800" stop="20260805150000 +0800">
-		<title lang="zh">华视1400整点新闻</title>
-	</programme>
-	<programme channel="华视新闻" start="20260805150000 +0800" stop="20260805160000 +0800">
-		<title lang="zh">华视1500整点新闻</title>
-	</programme>
-	<programme channel="华视新闻" start="20260805160000 +0800" stop="20260805165300 +0800">
-		<title lang="zh">华视在地新闻</title>
-	</programme>
-	<programme channel="华视新闻" start="20260805165300 +0800" stop="20260805200000 +0800">
-		<title lang="zh">华视新闻晚报</title>
-	</programme>
-	<programme channel="华视新闻" start="20260805200000 +0800" stop="20260805210000 +0800">
-		<title lang="zh">华视2000整点新闻</title>
-	</programme>
-	<programme channel="华视新闻" start="20260805210000 +0800" stop="20260805220000 +0800">
-		<title lang="zh">World News 9</title>
-	</programme>
-	<programme channel="华视新闻" start="20260805220000 +0800" stop="20260805230000 +0800">
-		<title lang="zh">52政经点</title>
-	</programme>
-	<programme channel="华视新闻" start="20260805230000 +0800" stop="20260805235500 +0800">
-		<title lang="zh">华视夜间新闻</title>
-	</programme>
-	<programme channel="华视新闻" start="20260805235500 +0800" stop="20260805235959 +0800">
-		<title lang="zh">华视2400夜间新闻</title>
-	</programme>
-	<channel id="TVBS新闻">
-		<display-name lang="zh">TVBS新闻</display-name>
-	</channel>
-	<programme channel="TVBS新闻" start="20260805000000 +0800" stop="20260805000001 +0800">
-		<title lang="zh">由https://epg.136605.xyz提供节目单服务</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20260805000001 +0800" stop="20260805010000 +0800">
-		<title lang="zh">新闻夜视界</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20260805010000 +0800" stop="20260805020000 +0800">
-		<title lang="zh">十点不一样(重)</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20260805020000 +0800" stop="20260805040000 +0800">
-		<title lang="zh">新闻夜视界(重)</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20260805040000 +0800" stop="20260805050000 +0800">
-		<title lang="zh">九点热话题(重)</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20260805050000 +0800" stop="20260805060000 +0800">
-		<title lang="zh">十点不一样(重)</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20260805060000 +0800" stop="20260805090000 +0800">
-		<title lang="zh">早安台湾</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20260805090000 +0800" stop="20260805100000 +0800">
-		<title lang="zh">上午9点新闻</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20260805100000 +0800" stop="20260805110000 +0800">
-		<title lang="zh">上午10点新闻</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20260805110000 +0800" stop="20260805120000 +0800">
-		<title lang="zh">上午11点新闻</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20260805120000 +0800" stop="20260805140000 +0800">
-		<title lang="zh">午间12.13新闻</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20260805140000 +0800" stop="20260805150000 +0800">
-		<title lang="zh">1400说新闻</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20260805150000 +0800" stop="20260805160000 +0800">
-		<title lang="zh">1500整点新闻</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20260805160000 +0800" stop="20260805170000 +0800">
-		<title lang="zh">16整点新闻</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20260805170000 +0800" stop="20260805180000 +0800">
-		<title lang="zh">17整点新闻</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20260805180000 +0800" stop="20260805200000 +0800">
-		<title lang="zh">晩间6 7点新闻</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20260805200000 +0800" stop="20260805210000 +0800">
-		<title lang="zh">最前线新闻</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20260805210000 +0800" stop="20260805220000 +0800">
-		<title lang="zh">九点热话题</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20260805220000 +0800" stop="20260805230000 +0800">
-		<title lang="zh">十点不一样</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20260805230000 +0800" stop="20260805235959 +0800">
-		<title lang="zh">新闻夜视界</title>
-	</programme>
-	<channel id="中视新闻">
-		<display-name lang="zh">中视新闻</display-name>
-	</channel>
-	<programme channel="中视新闻" start="20260805000000 +0800" stop="20260805000001 +0800">
-		<title lang="zh">由https://epg.136605.xyz提供节目单服务</title>
-	</programme>
-	<programme channel="中视新闻" start="20260805000001 +0800" stop="20260805000000 +0800">
-		<title lang="zh">中视新闻全球报导(普)</title>
-	</programme>
-	<programme channel="中视新闻" start="20260805000000 +0800" stop="20260805000001 +0800">
-		<title lang="zh">由https://epg.136605.xyz提供节目单服务</title>
-	</programme>
-	<programme channel="中视新闻" start="20260805000001 +0800" stop="20260805010000 +0800">
-		<title lang="zh">即时新闻现场(普)</title>
-	</programme>
-	<programme channel="中视新闻" start="20260805010000 +0800" stop="20260805020000 +0800">
-		<title lang="zh">新庶民大头家(普)</title>
-	</programme>
-	<programme channel="中视新闻" start="20260805020000 +0800" stop="20260805030000 +0800">
-		<title lang="zh">新庶民大头家(普)</title>
-	</programme>
-	<programme channel="中视新闻" start="20260805030000 +0800" stop="20260805040000 +0800">
-		<title lang="zh">古今揭密大惊奇(普)</title>
-	</programme>
-	<programme channel="中视新闻" start="20260805040000 +0800" stop="20260805050000 +0800">
-		<title lang="zh">即时新闻现场(普)</title>
-	</programme>
-	<programme channel="中视新闻" start="20260805050000 +0800" stop="20260805060000 +0800">
-		<title lang="zh">古今揭密大惊奇(普)</title>
-	</programme>
-	<programme channel="中视新闻" start="20260805060000 +0800" stop="20260805070000 +0800">
-		<title lang="zh">中视新闻全球报导(普)</title>
-	</programme>
-	<programme channel="中视新闻" start="20260805070000 +0800" stop="20260805080000 +0800">
-		<title lang="zh">中视早安新闻(普)</title>
-	</programme>
-	<programme channel="中视新闻" start="20260805080000 +0800" stop="20260805090000 +0800">
-		<title lang="zh">整点新闻(普)</title>
-	</programme>
-	<programme channel="中视新闻" start="20260805090000 +0800" stop="20260805100000 +0800">
-		<title lang="zh">即时新闻现场(普)</title>
-	</programme>
-	<programme channel="中视新闻" start="20260805100000 +0800" stop="20260805110000 +0800">
-		<title lang="zh">新庶民大头家(普)</title>
-	</programme>
-	<programme channel="中视新闻" start="20260805110000 +0800" stop="20260805115800 +0800">
-		<title lang="zh">新庶民大头家(普)</title>
-	</programme>
-	<programme channel="中视新闻" start="20260805115800 +0800" stop="20260805130000 +0800">
-		<title lang="zh">中视午间新闻(普)</title>
-	</programme>
-	<programme channel="中视新闻" start="20260805130000 +0800" stop="20260805140000 +0800">
-		<title lang="zh">即时新闻现场(普)</title>
-	</programme>
-	<programme channel="中视新闻" start="20260805140000 +0800" stop="20260805150000 +0800">
-		<title lang="zh">即时新闻现场(普)</title>
-	</programme>
-	<programme channel="中视新闻" start="20260805150000 +0800" stop="20260805160000 +0800">
-		<title lang="zh">古今揭密大惊奇(普)</title>
-	</programme>
-	<programme channel="中视新闻" start="20260805160000 +0800" stop="20260805170000 +0800">
-		<title lang="zh">新庶民大头家(普)</title>
-	</programme>
-	<programme channel="中视新闻" start="20260805170000 +0800" stop="20260805180000 +0800">
-		<title lang="zh">新庶民大头家(普)</title>
-	</programme>
-	<programme channel="中视新闻" start="20260805180000 +0800" stop="20260805185800 +0800">
-		<title lang="zh">中视新闻全球报导6点抢先报(普)</title>
-	</programme>
-	<programme channel="中视新闻" start="20260805185800 +0800" stop="20260805200000 +0800">
-		<title lang="zh">中视新闻全球报导(普)</title>
-	</programme>
-	<programme channel="中视新闻" start="20260805200000 +0800" stop="20260805210000 +0800">
-		<title lang="zh">新庶民大头家(普)</title>
-	</programme>
-	<programme channel="中视新闻" start="20260805210000 +0800" stop="20260805220000 +0800">
-		<title lang="zh">新庶民大头家(普)</title>
-	</programme>
-	<programme channel="中视新闻" start="20260805220000 +0800" stop="20260805230000 +0800">
-		<title lang="zh">即时新闻现场(普)</title>
-	</programme>
-	<programme channel="中视新闻" start="20260805230000 +0800" stop="20260805235959 +0800">
-		<title lang="zh">中视新闻全球报导(普)</title>
-	</programme>
 	<channel id="CHC动作电影">
 		<display-name lang="zh">CHC动作电影</display-name>
 	</channel>
@@ -7605,11 +7029,8 @@
 	<programme channel="CHC家庭影院" start="20260805082500 +0800" stop="20260805100700 +0800">
 		<title lang="zh">奇迹·笨小孩</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20260805100700 +0800" stop="20260805101000 +0800">
+	<programme channel="CHC家庭影院" start="20260805100700 +0800" stop="20260805113300 +0800">
 		<title lang="zh">家庭 导视</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20260805101000 +0800" stop="20260805113300 +0800">
-		<title lang="zh">武松</title>
 	</programme>
 	<programme channel="CHC家庭影院" start="20260805113300 +0800" stop="20260805113500 +0800">
 		<title lang="zh">家庭 导视</title>
@@ -12039,6 +11460,402 @@
 	<programme channel="CHC高清电影" start="20260805233400 +0800" stop="20260805235900 +0800">
 		<title lang="zh">小马鞭</title>
 	</programme>
+	<channel id="TVBS新闻">
+		<display-name lang="zh">TVBS新闻</display-name>
+	</channel>
+	<programme channel="TVBS新闻" start="20260801000000 +0800" stop="20260801010000 +0800">
+		<title lang="zh">新闻夜视界</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260801010000 +0800" stop="20260801020000 +0800">
+		<title lang="zh">十点不一样</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260801020000 +0800" stop="20260801040000 +0800">
+		<title lang="zh">新闻夜视界</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260801040000 +0800" stop="20260801050000 +0800">
+		<title lang="zh">九点热话题</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260801050000 +0800" stop="20260801060000 +0800">
+		<title lang="zh">十点不一样</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260801060000 +0800" stop="20260801090000 +0800">
+		<title lang="zh">早安台湾</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260801090000 +0800" stop="20260801100000 +0800">
+		<title lang="zh">上午9点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260801100000 +0800" stop="20260801110000 +0800">
+		<title lang="zh">上午10点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260801110000 +0800" stop="20260801120000 +0800">
+		<title lang="zh">上午11点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260801120000 +0800" stop="20260801140000 +0800">
+		<title lang="zh">午间1213新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260801140000 +0800" stop="20260801150000 +0800">
+		<title lang="zh">说新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260801150000 +0800" stop="20260801160000 +0800">
+		<title lang="zh">1500整点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260801160000 +0800" stop="20260801170000 +0800">
+		<title lang="zh">16整点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260801170000 +0800" stop="20260801180000 +0800">
+		<title lang="zh">17整点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260801180000 +0800" stop="20260801200000 +0800">
+		<title lang="zh">晚间67点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260801200000 +0800" stop="20260801210000 +0800">
+		<title lang="zh">晚间8点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260801210000 +0800" stop="20260801220000 +0800">
+		<title lang="zh">九点热话题</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260801220000 +0800" stop="20260801230000 +0800">
+		<title lang="zh">十点不一样</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260801230000 +0800" stop="20260801235900 +0800">
+		<title lang="zh">新闻夜视界</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260802000000 +0800" stop="20260802010000 +0800">
+		<title lang="zh">新闻夜视界</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260802010000 +0800" stop="20260802020000 +0800">
+		<title lang="zh">十点不一样</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260802020000 +0800" stop="20260802040000 +0800">
+		<title lang="zh">新闻夜视界</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260802040000 +0800" stop="20260802050000 +0800">
+		<title lang="zh">九点热话题</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260802050000 +0800" stop="20260802060000 +0800">
+		<title lang="zh">十点不一样</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260802060000 +0800" stop="20260802090000 +0800">
+		<title lang="zh">早安台湾</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260802090000 +0800" stop="20260802100000 +0800">
+		<title lang="zh">上午9点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260802100000 +0800" stop="20260802110000 +0800">
+		<title lang="zh">上午10点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260802110000 +0800" stop="20260802120000 +0800">
+		<title lang="zh">上午11点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260802120000 +0800" stop="20260802140000 +0800">
+		<title lang="zh">午间1213新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260802140000 +0800" stop="20260802150000 +0800">
+		<title lang="zh">说新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260802150000 +0800" stop="20260802160000 +0800">
+		<title lang="zh">1500整点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260802160000 +0800" stop="20260802170000 +0800">
+		<title lang="zh">16整点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260802170000 +0800" stop="20260802180000 +0800">
+		<title lang="zh">17整点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260802180000 +0800" stop="20260802200000 +0800">
+		<title lang="zh">晚间67点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260802200000 +0800" stop="20260802210000 +0800">
+		<title lang="zh">世界翻转中</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260802210000 +0800" stop="20260802220000 +0800">
+		<title lang="zh">九点热话题</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260802220000 +0800" stop="20260802230000 +0800">
+		<title lang="zh">一步一脚印发现新台湾</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260802230000 +0800" stop="20260802235900 +0800">
+		<title lang="zh">新闻夜视界</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260803000000 +0800" stop="20260803010000 +0800">
+		<title lang="zh">新闻夜视界</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260803010000 +0800" stop="20260803020000 +0800">
+		<title lang="zh">世界翻转中</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260803020000 +0800" stop="20260803040000 +0800">
+		<title lang="zh">新闻夜视界</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260803040000 +0800" stop="20260803050000 +0800">
+		<title lang="zh">一步一脚印发现新台湾</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260803050000 +0800" stop="20260803060000 +0800">
+		<title lang="zh">九点热话题</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260803060000 +0800" stop="20260803090000 +0800">
+		<title lang="zh">早安台湾</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260803090000 +0800" stop="20260803100000 +0800">
+		<title lang="zh">上午9点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260803100000 +0800" stop="20260803110000 +0800">
+		<title lang="zh">上午10点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260803110000 +0800" stop="20260803120000 +0800">
+		<title lang="zh">上午11点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260803120000 +0800" stop="20260803140000 +0800">
+		<title lang="zh">午间1213新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260803140000 +0800" stop="20260803150000 +0800">
+		<title lang="zh">说新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260803150000 +0800" stop="20260803160000 +0800">
+		<title lang="zh">1500整点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260803160000 +0800" stop="20260803170000 +0800">
+		<title lang="zh">16整点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260803170000 +0800" stop="20260803180000 +0800">
+		<title lang="zh">17整点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260803180000 +0800" stop="20260803200000 +0800">
+		<title lang="zh">晚间67点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260803200000 +0800" stop="20260803210000 +0800">
+		<title lang="zh">最前线新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260803210000 +0800" stop="20260803220000 +0800">
+		<title lang="zh">九点热话题</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260803220000 +0800" stop="20260803230000 +0800">
+		<title lang="zh">十点不一样</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260803230000 +0800" stop="20260803235900 +0800">
+		<title lang="zh">新闻夜视界</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260804000000 +0800" stop="20260804010000 +0800">
+		<title lang="zh">新闻夜视界</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260804010000 +0800" stop="20260804020000 +0800">
+		<title lang="zh">十点不一样</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260804020000 +0800" stop="20260804040000 +0800">
+		<title lang="zh">新闻夜视界</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260804040000 +0800" stop="20260804050000 +0800">
+		<title lang="zh">九点热话题</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260804050000 +0800" stop="20260804060000 +0800">
+		<title lang="zh">十点不一样</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260804060000 +0800" stop="20260804090000 +0800">
+		<title lang="zh">早安台湾</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260804090000 +0800" stop="20260804100000 +0800">
+		<title lang="zh">上午9点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260804100000 +0800" stop="20260804110000 +0800">
+		<title lang="zh">上午10点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260804110000 +0800" stop="20260804120000 +0800">
+		<title lang="zh">上午11点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260804120000 +0800" stop="20260804140000 +0800">
+		<title lang="zh">午间1213新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260804140000 +0800" stop="20260804150000 +0800">
+		<title lang="zh">说新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260804150000 +0800" stop="20260804160000 +0800">
+		<title lang="zh">1500整点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260804160000 +0800" stop="20260804170000 +0800">
+		<title lang="zh">16整点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260804170000 +0800" stop="20260804180000 +0800">
+		<title lang="zh">17整点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260804180000 +0800" stop="20260804200000 +0800">
+		<title lang="zh">晚间67点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260804200000 +0800" stop="20260804210000 +0800">
+		<title lang="zh">最前线新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260804210000 +0800" stop="20260804220000 +0800">
+		<title lang="zh">九点热话题</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260804220000 +0800" stop="20260804230000 +0800">
+		<title lang="zh">十点不一样</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260804230000 +0800" stop="20260804235900 +0800">
+		<title lang="zh">新闻夜视界</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260805000000 +0800" stop="20260805010000 +0800">
+		<title lang="zh">新闻夜视界</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260805010000 +0800" stop="20260805020000 +0800">
+		<title lang="zh">十点不一样</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260805020000 +0800" stop="20260805040000 +0800">
+		<title lang="zh">新闻夜视界</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260805040000 +0800" stop="20260805050000 +0800">
+		<title lang="zh">九点热话题</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260805050000 +0800" stop="20260805060000 +0800">
+		<title lang="zh">十点不一样</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260805060000 +0800" stop="20260805090000 +0800">
+		<title lang="zh">早安台湾</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260805090000 +0800" stop="20260805100000 +0800">
+		<title lang="zh">上午9点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260805100000 +0800" stop="20260805110000 +0800">
+		<title lang="zh">上午10点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260805110000 +0800" stop="20260805120000 +0800">
+		<title lang="zh">上午11点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260805120000 +0800" stop="20260805140000 +0800">
+		<title lang="zh">午间1213新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260805140000 +0800" stop="20260805150000 +0800">
+		<title lang="zh">说新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260805150000 +0800" stop="20260805160000 +0800">
+		<title lang="zh">1500整点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260805160000 +0800" stop="20260805170000 +0800">
+		<title lang="zh">16整点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260805170000 +0800" stop="20260805180000 +0800">
+		<title lang="zh">17整点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260805180000 +0800" stop="20260805200000 +0800">
+		<title lang="zh">晚间67点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260805200000 +0800" stop="20260805210000 +0800">
+		<title lang="zh">最前线新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260805210000 +0800" stop="20260805220000 +0800">
+		<title lang="zh">九点热话题</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260805220000 +0800" stop="20260805230000 +0800">
+		<title lang="zh">十点不一样</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260805230000 +0800" stop="20260805235900 +0800">
+		<title lang="zh">新闻夜视界</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260806010000 +0800" stop="20260806020000 +0800">
+		<title lang="zh">十点不一样(重)</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260806020000 +0800" stop="20260806040000 +0800">
+		<title lang="zh">新闻夜视界(重)</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260806040000 +0800" stop="20260806050000 +0800">
+		<title lang="zh">九点热话题(重)</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260806050000 +0800" stop="20260806060000 +0800">
+		<title lang="zh">十点不一样(重)</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260806060000 +0800" stop="20260806090000 +0800">
+		<title lang="zh">早安台湾</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260806090000 +0800" stop="20260806100000 +0800">
+		<title lang="zh">上午9点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260806100000 +0800" stop="20260806110000 +0800">
+		<title lang="zh">上午10点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260806110000 +0800" stop="20260806120000 +0800">
+		<title lang="zh">上午11点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260806120000 +0800" stop="20260806140000 +0800">
+		<title lang="zh">午间12.13新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260806140000 +0800" stop="20260806150000 +0800">
+		<title lang="zh">1400说新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260806150000 +0800" stop="20260806160000 +0800">
+		<title lang="zh">1500整点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260806160000 +0800" stop="20260806170000 +0800">
+		<title lang="zh">16整点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260806170000 +0800" stop="20260806180000 +0800">
+		<title lang="zh">17整点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260806180000 +0800" stop="20260806200000 +0800">
+		<title lang="zh">晩间6 7点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260806200000 +0800" stop="20260806210000 +0800">
+		<title lang="zh">最前线新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260806210000 +0800" stop="20260806220000 +0800">
+		<title lang="zh">九点热话题</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260806220000 +0800" stop="20260806230000 +0800">
+		<title lang="zh">十点不一样</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260806230000 +0800" stop="20260807010000 +0800">
+		<title lang="zh">新闻夜视界</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260807010000 +0800" stop="20260807020000 +0800">
+		<title lang="zh">十点不一样(重)</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260807020000 +0800" stop="20260807040000 +0800">
+		<title lang="zh">新闻夜视界(重)</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260807040000 +0800" stop="20260807050000 +0800">
+		<title lang="zh">九点热话题(重)</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260807050000 +0800" stop="20260807060000 +0800">
+		<title lang="zh">十点不一样(重)</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260807060000 +0800" stop="20260807090000 +0800">
+		<title lang="zh">早安台湾</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260807090000 +0800" stop="20260807100000 +0800">
+		<title lang="zh">上午9点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260807100000 +0800" stop="20260807110000 +0800">
+		<title lang="zh">上午10点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260807110000 +0800" stop="20260807120000 +0800">
+		<title lang="zh">上午11点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260807120000 +0800" stop="20260807140000 +0800">
+		<title lang="zh">午间12.13新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260807140000 +0800" stop="20260807150000 +0800">
+		<title lang="zh">1400说新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260807150000 +0800" stop="20260807160000 +0800">
+		<title lang="zh">1500整点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260807160000 +0800" stop="20260807170000 +0800">
+		<title lang="zh">16整点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260807170000 +0800" stop="20260807180000 +0800">
+		<title lang="zh">17整点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260807180000 +0800" stop="20260807200000 +0800">
+		<title lang="zh">晩间6 7点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260807200000 +0800" stop="20260807210000 +0800">
+		<title lang="zh">最前线新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260807210000 +0800" stop="20260807220000 +0800">
+		<title lang="zh">九点热话题</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260807220000 +0800" stop="20260807230000 +0800">
+		<title lang="zh">十点不一样</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20260807230000 +0800" stop="20260808000000 +0800">
+		<title lang="zh">新闻夜视界</title>
+	</programme>
 	<channel id="东森新闻">
 		<display-name lang="zh">东森新闻</display-name>
 	</channel>
@@ -12341,5 +12158,1826 @@
 	</programme>
 	<programme channel="东森新闻" start="20260805230000 +0800" stop="20260805235900 +0800">
 		<title lang="zh">关键时刻</title>
+	</programme>
+	<channel id="中视新闻">
+		<display-name lang="zh">中视新闻</display-name>
+	</channel>
+	<programme channel="中视新闻" start="20260801000000 +0800" stop="20260801010000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260801010000 +0800" stop="20260801020000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260801020000 +0800" stop="20260801030000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260801030000 +0800" stop="20260801040000 +0800">
+		<title lang="zh">中视新闻全球报导(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260801040000 +0800" stop="20260801050000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260801050000 +0800" stop="20260801060000 +0800">
+		<title lang="zh">中视新闻全球报导6点抢先报(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260801060000 +0800" stop="20260801070000 +0800">
+		<title lang="zh">中视新闻全球报导(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260801070000 +0800" stop="20260801080000 +0800">
+		<title lang="zh">中视早安新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260801080000 +0800" stop="20260801090000 +0800">
+		<title lang="zh">整点新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260801090000 +0800" stop="20260801100000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260801100000 +0800" stop="20260801110000 +0800">
+		<title lang="zh">60分钟(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260801110000 +0800" stop="20260801115800 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260801115800 +0800" stop="20260801130000 +0800">
+		<title lang="zh">中视午间新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260801130000 +0800" stop="20260801140000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260801140000 +0800" stop="20260801150000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260801150000 +0800" stop="20260801160000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260801160000 +0800" stop="20260801170000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260801170000 +0800" stop="20260801180000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260801180000 +0800" stop="20260801185700 +0800">
+		<title lang="zh">中视新闻全球报导6点抢先报(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260801185700 +0800" stop="20260801200000 +0800">
+		<title lang="zh">中视新闻全球报导(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260801200000 +0800" stop="20260801210000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260801210000 +0800" stop="20260801220000 +0800">
+		<title lang="zh">整点新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260801220000 +0800" stop="20260801230000 +0800">
+		<title lang="zh">60分钟(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260801230000 +0800" stop="20260802000000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260802000000 +0800" stop="20260802010000 +0800">
+		<title lang="zh">2100整点新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260802010000 +0800" stop="20260802020000 +0800">
+		<title lang="zh">中视新闻全球报导6点抢先报(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260802020000 +0800" stop="20260802030000 +0800">
+		<title lang="zh">中视新闻全球报导(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260802030000 +0800" stop="20260802040000 +0800">
+		<title lang="zh">中视新闻全球报导6点抢先报(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260802040000 +0800" stop="20260802050000 +0800">
+		<title lang="zh">2100整点新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260802050000 +0800" stop="20260802060000 +0800">
+		<title lang="zh">中视新闻全球报导6点抢先报(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260802060000 +0800" stop="20260802070000 +0800">
+		<title lang="zh">中视新闻全球报导(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260802070000 +0800" stop="20260802080000 +0800">
+		<title lang="zh">中视早安新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260802080000 +0800" stop="20260802090000 +0800">
+		<title lang="zh">整点新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260802090000 +0800" stop="20260802100000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260802100000 +0800" stop="20260802110000 +0800">
+		<title lang="zh">60分钟(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260802110000 +0800" stop="20260802115800 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260802115800 +0800" stop="20260802130000 +0800">
+		<title lang="zh">中视午间新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260802130000 +0800" stop="20260802140000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260802140000 +0800" stop="20260802150000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260802150000 +0800" stop="20260802160000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260802160000 +0800" stop="20260802170000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260802170000 +0800" stop="20260802180000 +0800">
+		<title lang="zh">60分钟(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260802180000 +0800" stop="20260802185700 +0800">
+		<title lang="zh">中视新闻全球报导6点抢先报(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260802185700 +0800" stop="20260802200000 +0800">
+		<title lang="zh">中视新闻全球报导(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260802200000 +0800" stop="20260802210000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260802210000 +0800" stop="20260802220000 +0800">
+		<title lang="zh">整点新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260802220000 +0800" stop="20260802230000 +0800">
+		<title lang="zh">中视新闻全球报导(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260802230000 +0800" stop="20260803000000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260803000000 +0800" stop="20260803010000 +0800">
+		<title lang="zh">2100整点新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260803010000 +0800" stop="20260803020000 +0800">
+		<title lang="zh">中视新闻全球报导6点抢先报(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260803020000 +0800" stop="20260803030000 +0800">
+		<title lang="zh">中视新闻全球报导(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260803030000 +0800" stop="20260803040000 +0800">
+		<title lang="zh">世界大搜秘(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260803040000 +0800" stop="20260803050000 +0800">
+		<title lang="zh">2100整点新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260803050000 +0800" stop="20260803060000 +0800">
+		<title lang="zh">世界大搜秘(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260803060000 +0800" stop="20260803070000 +0800">
+		<title lang="zh">中视新闻全球报导(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260803070000 +0800" stop="20260803080000 +0800">
+		<title lang="zh">中视早安新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260803080000 +0800" stop="20260803090000 +0800">
+		<title lang="zh">整点新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260803090000 +0800" stop="20260803100000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260803100000 +0800" stop="20260803110000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260803110000 +0800" stop="20260803115800 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260803115800 +0800" stop="20260803130000 +0800">
+		<title lang="zh">中视午间新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260803130000 +0800" stop="20260803140000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260803140000 +0800" stop="20260803150000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260803150000 +0800" stop="20260803160000 +0800">
+		<title lang="zh">古今揭密大惊奇(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260803160000 +0800" stop="20260803170000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260803170000 +0800" stop="20260803180000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260803180000 +0800" stop="20260803185800 +0800">
+		<title lang="zh">中视新闻全球报导6点抢先报(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260803185800 +0800" stop="20260803200000 +0800">
+		<title lang="zh">中视新闻全球报导(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260803200000 +0800" stop="20260803210000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260803210000 +0800" stop="20260803220000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260803220000 +0800" stop="20260803230000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260803230000 +0800" stop="20260804000000 +0800">
+		<title lang="zh">中视新闻全球报导(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260804000000 +0800" stop="20260804010000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260804010000 +0800" stop="20260804020000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260804020000 +0800" stop="20260804030000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260804030000 +0800" stop="20260804040000 +0800">
+		<title lang="zh">古今揭密大惊奇(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260804040000 +0800" stop="20260804050000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260804050000 +0800" stop="20260804060000 +0800">
+		<title lang="zh">古今揭密大惊奇(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260804060000 +0800" stop="20260804070000 +0800">
+		<title lang="zh">中视新闻全球报导(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260804070000 +0800" stop="20260804080000 +0800">
+		<title lang="zh">中视早安新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260804080000 +0800" stop="20260804090000 +0800">
+		<title lang="zh">整点新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260804090000 +0800" stop="20260804100000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260804100000 +0800" stop="20260804110000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260804110000 +0800" stop="20260804115800 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260804115800 +0800" stop="20260804130000 +0800">
+		<title lang="zh">中视午间新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260804130000 +0800" stop="20260804140000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260804140000 +0800" stop="20260804150000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260804150000 +0800" stop="20260804160000 +0800">
+		<title lang="zh">古今揭密大惊奇(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260804160000 +0800" stop="20260804170000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260804170000 +0800" stop="20260804180000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260804180000 +0800" stop="20260804185800 +0800">
+		<title lang="zh">中视新闻全球报导6点抢先报(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260804185800 +0800" stop="20260804200000 +0800">
+		<title lang="zh">中视新闻全球报导(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260804200000 +0800" stop="20260804210000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260804210000 +0800" stop="20260804220000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260804220000 +0800" stop="20260804230000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260804230000 +0800" stop="20260805000000 +0800">
+		<title lang="zh">中视新闻全球报导(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260805000000 +0800" stop="20260805010000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260805010000 +0800" stop="20260805020000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260805020000 +0800" stop="20260805030000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260805030000 +0800" stop="20260805040000 +0800">
+		<title lang="zh">古今揭密大惊奇(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260805040000 +0800" stop="20260805050000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260805050000 +0800" stop="20260805060000 +0800">
+		<title lang="zh">古今揭密大惊奇(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260805060000 +0800" stop="20260805070000 +0800">
+		<title lang="zh">中视新闻全球报导(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260805070000 +0800" stop="20260805080000 +0800">
+		<title lang="zh">中视早安新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260805080000 +0800" stop="20260805090000 +0800">
+		<title lang="zh">整点新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260805090000 +0800" stop="20260805100000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260805100000 +0800" stop="20260805110000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260805110000 +0800" stop="20260805115800 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260805115800 +0800" stop="20260805130000 +0800">
+		<title lang="zh">中视午间新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260805130000 +0800" stop="20260805140000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260805140000 +0800" stop="20260805150000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260805150000 +0800" stop="20260805160000 +0800">
+		<title lang="zh">古今揭密大惊奇(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260805160000 +0800" stop="20260805170000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260805170000 +0800" stop="20260805180000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260805180000 +0800" stop="20260805185800 +0800">
+		<title lang="zh">中视新闻全球报导6点抢先报(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260805185800 +0800" stop="20260805200000 +0800">
+		<title lang="zh">中视新闻全球报导(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260805200000 +0800" stop="20260805210000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260805210000 +0800" stop="20260805220000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260805220000 +0800" stop="20260805230000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260805230000 +0800" stop="20260806000000 +0800">
+		<title lang="zh">中视新闻全球报导(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260806000000 +0800" stop="20260806010000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260806010000 +0800" stop="20260806020000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260806020000 +0800" stop="20260806030000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260806030000 +0800" stop="20260806040000 +0800">
+		<title lang="zh">古今揭密大惊奇(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260806040000 +0800" stop="20260806050000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260806050000 +0800" stop="20260806060000 +0800">
+		<title lang="zh">古今揭密大惊奇(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260806060000 +0800" stop="20260806070000 +0800">
+		<title lang="zh">中视新闻全球报导(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260806070000 +0800" stop="20260806080000 +0800">
+		<title lang="zh">中视早安新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260806080000 +0800" stop="20260806090000 +0800">
+		<title lang="zh">整点新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260806090000 +0800" stop="20260806100000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260806100000 +0800" stop="20260806110000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260806110000 +0800" stop="20260806115800 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260806115800 +0800" stop="20260806130000 +0800">
+		<title lang="zh">中视午间新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260806130000 +0800" stop="20260806140000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260806140000 +0800" stop="20260806150000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260806150000 +0800" stop="20260806160000 +0800">
+		<title lang="zh">科技新视界(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260806160000 +0800" stop="20260806170000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260806170000 +0800" stop="20260806180000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260806180000 +0800" stop="20260806185800 +0800">
+		<title lang="zh">中视新闻全球报导6点抢先报(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260806185800 +0800" stop="20260806200000 +0800">
+		<title lang="zh">中视新闻全球报导(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260806200000 +0800" stop="20260806210000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260806210000 +0800" stop="20260806220000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260806220000 +0800" stop="20260806230000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260806230000 +0800" stop="20260807000000 +0800">
+		<title lang="zh">中视新闻全球报导(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260807000000 +0800" stop="20260807010000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260807010000 +0800" stop="20260807020000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260807020000 +0800" stop="20260807030000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260807030000 +0800" stop="20260807040000 +0800">
+		<title lang="zh">科技新视界(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260807040000 +0800" stop="20260807050000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260807050000 +0800" stop="20260807060000 +0800">
+		<title lang="zh">科技新视界(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260807060000 +0800" stop="20260807070000 +0800">
+		<title lang="zh">中视新闻全球报导(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260807070000 +0800" stop="20260807080000 +0800">
+		<title lang="zh">中视早安新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260807080000 +0800" stop="20260807090000 +0800">
+		<title lang="zh">整点新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260807090000 +0800" stop="20260807100000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260807100000 +0800" stop="20260807110000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260807110000 +0800" stop="20260807115800 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260807115800 +0800" stop="20260807130000 +0800">
+		<title lang="zh">中视午间新闻(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260807130000 +0800" stop="20260807140000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260807140000 +0800" stop="20260807150000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260807150000 +0800" stop="20260807160000 +0800">
+		<title lang="zh">科技新视界(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260807160000 +0800" stop="20260807170000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260807170000 +0800" stop="20260807180000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260807180000 +0800" stop="20260807185800 +0800">
+		<title lang="zh">中视新闻全球报导6点抢先报(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260807185800 +0800" stop="20260807200000 +0800">
+		<title lang="zh">中视新闻全球报导(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260807200000 +0800" stop="20260807210000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260807210000 +0800" stop="20260807220000 +0800">
+		<title lang="zh">新庶民大头家(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260807220000 +0800" stop="20260807230000 +0800">
+		<title lang="zh">即时新闻现场(普)</title>
+	</programme>
+	<programme channel="中视新闻" start="20260807230000 +0800" stop="20260808000000 +0800">
+		<title lang="zh">中视新闻全球报导(普)</title>
+	</programme>
+	<channel id="华视新闻">
+		<display-name lang="zh">华视新闻</display-name>
+	</channel>
+	<programme channel="华视新闻" start="20260801010000 +0800" stop="20260801020000 +0800">
+		<title lang="zh">World News 9</title>
+	</programme>
+	<programme channel="华视新闻" start="20260801020000 +0800" stop="20260801030000 +0800">
+		<title lang="zh">华视2400夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260801030000 +0800" stop="20260801040000 +0800">
+		<title lang="zh">World News 9</title>
+	</programme>
+	<programme channel="华视新闻" start="20260801040000 +0800" stop="20260801050000 +0800">
+		<title lang="zh">华视2400夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260801050000 +0800" stop="20260801060000 +0800">
+		<title lang="zh">World News 9</title>
+	</programme>
+	<programme channel="华视新闻" start="20260801060000 +0800" stop="20260801070000 +0800">
+		<title lang="zh">华视2400夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260801070000 +0800" stop="20260801080000 +0800">
+		<title lang="zh">GOOD Morning台湾</title>
+	</programme>
+	<programme channel="华视新闻" start="20260801080000 +0800" stop="20260801090000 +0800">
+		<title lang="zh">GOOD Morning台湾</title>
+	</programme>
+	<programme channel="华视新闻" start="20260801090000 +0800" stop="20260801100000 +0800">
+		<title lang="zh">华视0900整点新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260801100000 +0800" stop="20260801110000 +0800">
+		<title lang="zh">华视1000新闻抢先报</title>
+	</programme>
+	<programme channel="华视新闻" start="20260801110000 +0800" stop="20260801115700 +0800">
+		<title lang="zh">华视1100新闻抢先报</title>
+	</programme>
+	<programme channel="华视新闻" start="20260801115700 +0800" stop="20260801130000 +0800">
+		<title lang="zh">华视午间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260801130000 +0800" stop="20260801140000 +0800">
+		<title lang="zh">华视1300午间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260801140000 +0800" stop="20260801150000 +0800">
+		<title lang="zh">华视1400整点新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260801150000 +0800" stop="20260801160000 +0800">
+		<title lang="zh">三国演议</title>
+	</programme>
+	<programme channel="华视新闻" start="20260801160000 +0800" stop="20260801170000 +0800">
+		<title lang="zh">华视1600整点新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260801170000 +0800" stop="20260801190000 +0800">
+		<title lang="zh">华视新闻晚报</title>
+	</programme>
+	<programme channel="华视新闻" start="20260801190000 +0800" stop="20260801200000 +0800">
+		<title lang="zh">华视晚间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260801200000 +0800" stop="20260801210000 +0800">
+		<title lang="zh">华视新闻杂志</title>
+	</programme>
+	<programme channel="华视新闻" start="20260801210000 +0800" stop="20260801220000 +0800">
+		<title lang="zh">国际线，出发！</title>
+	</programme>
+	<programme channel="华视新闻" start="20260801220000 +0800" stop="20260801223000 +0800">
+		<title lang="zh">华视2200夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260801223000 +0800" stop="20260801230000 +0800">
+		<title lang="zh">52动起来</title>
+	</programme>
+	<programme channel="华视新闻" start="20260801230000 +0800" stop="20260802000000 +0800">
+		<title lang="zh">华视夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260802000000 +0800" stop="20260802010000 +0800">
+		<title lang="zh">华视2400夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260802010000 +0800" stop="20260802020000 +0800">
+		<title lang="zh">国际线，出发！</title>
+	</programme>
+	<programme channel="华视新闻" start="20260802020000 +0800" stop="20260802030000 +0800">
+		<title lang="zh">华视2400夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260802030000 +0800" stop="20260802040000 +0800">
+		<title lang="zh">当和平被摧毁</title>
+	</programme>
+	<programme channel="华视新闻" start="20260802040000 +0800" stop="20260802050000 +0800">
+		<title lang="zh">华视2400夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260802050000 +0800" stop="20260802060000 +0800">
+		<title lang="zh">国际线，出发！</title>
+	</programme>
+	<programme channel="华视新闻" start="20260802060000 +0800" stop="20260802070000 +0800">
+		<title lang="zh">华视2400夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260802070000 +0800" stop="20260802080000 +0800">
+		<title lang="zh">GOOD Morning台湾</title>
+	</programme>
+	<programme channel="华视新闻" start="20260802080000 +0800" stop="20260802090000 +0800">
+		<title lang="zh">GOOD Morning台湾</title>
+	</programme>
+	<programme channel="华视新闻" start="20260802090000 +0800" stop="20260802100000 +0800">
+		<title lang="zh">华视0900整点新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260802100000 +0800" stop="20260802110000 +0800">
+		<title lang="zh">华视1000新闻抢先报</title>
+	</programme>
+	<programme channel="华视新闻" start="20260802110000 +0800" stop="20260802115900 +0800">
+		<title lang="zh">华视1100新闻抢先报</title>
+	</programme>
+	<programme channel="华视新闻" start="20260802115900 +0800" stop="20260802125500 +0800">
+		<title lang="zh">华视午间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260802125500 +0800" stop="20260802140000 +0800">
+		<title lang="zh">华视1300午间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260802140000 +0800" stop="20260802150000 +0800">
+		<title lang="zh">华视1400整点新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260802150000 +0800" stop="20260802160000 +0800">
+		<title lang="zh">三国演议</title>
+	</programme>
+	<programme channel="华视新闻" start="20260802160000 +0800" stop="20260802170000 +0800">
+		<title lang="zh">华视1600整点新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260802170000 +0800" stop="20260802190000 +0800">
+		<title lang="zh">华视新闻晚报</title>
+	</programme>
+	<programme channel="华视新闻" start="20260802190000 +0800" stop="20260802200000 +0800">
+		<title lang="zh">华视晚间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260802200000 +0800" stop="20260802210000 +0800">
+		<title lang="zh">新闻高峰会</title>
+	</programme>
+	<programme channel="华视新闻" start="20260802210000 +0800" stop="20260802220000 +0800">
+		<title lang="zh">国际线，出发！</title>
+	</programme>
+	<programme channel="华视新闻" start="20260802220000 +0800" stop="20260802230000 +0800">
+		<title lang="zh">华视2200夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260802230000 +0800" stop="20260803000000 +0800">
+		<title lang="zh">华视夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260803000000 +0800" stop="20260803010000 +0800">
+		<title lang="zh">华视2400夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260803010000 +0800" stop="20260803020000 +0800">
+		<title lang="zh">国际线，出发！</title>
+	</programme>
+	<programme channel="华视新闻" start="20260803020000 +0800" stop="20260803030000 +0800">
+		<title lang="zh">华视2400夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260803030000 +0800" stop="20260803040000 +0800">
+		<title lang="zh">新闻高峰会</title>
+	</programme>
+	<programme channel="华视新闻" start="20260803040000 +0800" stop="20260803050000 +0800">
+		<title lang="zh">华视2400夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260803050000 +0800" stop="20260803060000 +0800">
+		<title lang="zh">国际线，出发！</title>
+	</programme>
+	<programme channel="华视新闻" start="20260803060000 +0800" stop="20260803070000 +0800">
+		<title lang="zh">华视2400夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260803070000 +0800" stop="20260803080000 +0800">
+		<title lang="zh">GOOD Morning台湾</title>
+	</programme>
+	<programme channel="华视新闻" start="20260803080000 +0800" stop="20260803090000 +0800">
+		<title lang="zh">GOOD Morning台湾</title>
+	</programme>
+	<programme channel="华视新闻" start="20260803090000 +0800" stop="20260803100000 +0800">
+		<title lang="zh">华视0900整点新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260803100000 +0800" stop="20260803110000 +0800">
+		<title lang="zh">华视1000新闻抢先报</title>
+	</programme>
+	<programme channel="华视新闻" start="20260803110000 +0800" stop="20260803115800 +0800">
+		<title lang="zh">华视1100新闻抢先报</title>
+	</programme>
+	<programme channel="华视新闻" start="20260803115800 +0800" stop="20260803130000 +0800">
+		<title lang="zh">华视午间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260803130000 +0800" stop="20260803140000 +0800">
+		<title lang="zh">华视1300午间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260803140000 +0800" stop="20260803150000 +0800">
+		<title lang="zh">华视1400整点新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260803150000 +0800" stop="20260803160000 +0800">
+		<title lang="zh">华视1500整点新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260803160000 +0800" stop="20260803165300 +0800">
+		<title lang="zh">华视在地新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260803165300 +0800" stop="20260803200000 +0800">
+		<title lang="zh">华视新闻晚报</title>
+	</programme>
+	<programme channel="华视新闻" start="20260803200000 +0800" stop="20260803210000 +0800">
+		<title lang="zh">华视2000整点新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260803210000 +0800" stop="20260803220000 +0800">
+		<title lang="zh">World News 9</title>
+	</programme>
+	<programme channel="华视新闻" start="20260803220000 +0800" stop="20260803230000 +0800">
+		<title lang="zh">52政经点</title>
+	</programme>
+	<programme channel="华视新闻" start="20260803230000 +0800" stop="20260803235500 +0800">
+		<title lang="zh">华视夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260803235500 +0800" stop="20260804000000 +0800">
+		<title lang="zh">华视2400夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260804010000 +0800" stop="20260804020000 +0800">
+		<title lang="zh">World News 9</title>
+	</programme>
+	<programme channel="华视新闻" start="20260804020000 +0800" stop="20260804030000 +0800">
+		<title lang="zh">华视2400夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260804030000 +0800" stop="20260804040000 +0800">
+		<title lang="zh">World News 9</title>
+	</programme>
+	<programme channel="华视新闻" start="20260804040000 +0800" stop="20260804050000 +0800">
+		<title lang="zh">华视2400夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260804050000 +0800" stop="20260804060000 +0800">
+		<title lang="zh">World News 9</title>
+	</programme>
+	<programme channel="华视新闻" start="20260804060000 +0800" stop="20260804070000 +0800">
+		<title lang="zh">华视2400夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260804070000 +0800" stop="20260804080000 +0800">
+		<title lang="zh">GOOD Morning台湾</title>
+	</programme>
+	<programme channel="华视新闻" start="20260804080000 +0800" stop="20260804090000 +0800">
+		<title lang="zh">GOOD Morning台湾</title>
+	</programme>
+	<programme channel="华视新闻" start="20260804090000 +0800" stop="20260804100000 +0800">
+		<title lang="zh">华视0900整点新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260804100000 +0800" stop="20260804110000 +0800">
+		<title lang="zh">华视1000新闻抢先报</title>
+	</programme>
+	<programme channel="华视新闻" start="20260804110000 +0800" stop="20260804115800 +0800">
+		<title lang="zh">华视1100新闻抢先报</title>
+	</programme>
+	<programme channel="华视新闻" start="20260804115800 +0800" stop="20260804130000 +0800">
+		<title lang="zh">华视午间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260804130000 +0800" stop="20260804140000 +0800">
+		<title lang="zh">华视1300午间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260804140000 +0800" stop="20260804150000 +0800">
+		<title lang="zh">华视1400整点新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260804150000 +0800" stop="20260804160000 +0800">
+		<title lang="zh">华视1500整点新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260804160000 +0800" stop="20260804165300 +0800">
+		<title lang="zh">华视在地新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260804165300 +0800" stop="20260804200000 +0800">
+		<title lang="zh">华视新闻晚报</title>
+	</programme>
+	<programme channel="华视新闻" start="20260804200000 +0800" stop="20260804210000 +0800">
+		<title lang="zh">华视2000整点新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260804210000 +0800" stop="20260804220000 +0800">
+		<title lang="zh">World News 9</title>
+	</programme>
+	<programme channel="华视新闻" start="20260804220000 +0800" stop="20260804230000 +0800">
+		<title lang="zh">52政经点</title>
+	</programme>
+	<programme channel="华视新闻" start="20260804230000 +0800" stop="20260804235500 +0800">
+		<title lang="zh">华视夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260804235500 +0800" stop="20260805000000 +0800">
+		<title lang="zh">华视2400夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260805010000 +0800" stop="20260805020000 +0800">
+		<title lang="zh">World News 9</title>
+	</programme>
+	<programme channel="华视新闻" start="20260805020000 +0800" stop="20260805030000 +0800">
+		<title lang="zh">华视2400夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260805030000 +0800" stop="20260805040000 +0800">
+		<title lang="zh">World News 9</title>
+	</programme>
+	<programme channel="华视新闻" start="20260805040000 +0800" stop="20260805050000 +0800">
+		<title lang="zh">华视2400夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260805050000 +0800" stop="20260805060000 +0800">
+		<title lang="zh">World News 9</title>
+	</programme>
+	<programme channel="华视新闻" start="20260805060000 +0800" stop="20260805070000 +0800">
+		<title lang="zh">华视2400夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260805070000 +0800" stop="20260805080000 +0800">
+		<title lang="zh">GOOD Morning台湾</title>
+	</programme>
+	<programme channel="华视新闻" start="20260805080000 +0800" stop="20260805090000 +0800">
+		<title lang="zh">GOOD Morning台湾</title>
+	</programme>
+	<programme channel="华视新闻" start="20260805090000 +0800" stop="20260805100000 +0800">
+		<title lang="zh">华视0900整点新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260805100000 +0800" stop="20260805110000 +0800">
+		<title lang="zh">华视1000新闻抢先报</title>
+	</programme>
+	<programme channel="华视新闻" start="20260805110000 +0800" stop="20260805115800 +0800">
+		<title lang="zh">华视1100新闻抢先报</title>
+	</programme>
+	<programme channel="华视新闻" start="20260805115800 +0800" stop="20260805130000 +0800">
+		<title lang="zh">华视午间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260805130000 +0800" stop="20260805140000 +0800">
+		<title lang="zh">华视1300午间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260805140000 +0800" stop="20260805150000 +0800">
+		<title lang="zh">华视1400整点新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260805150000 +0800" stop="20260805160000 +0800">
+		<title lang="zh">华视1500整点新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260805160000 +0800" stop="20260805165300 +0800">
+		<title lang="zh">华视在地新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260805165300 +0800" stop="20260805200000 +0800">
+		<title lang="zh">华视新闻晚报</title>
+	</programme>
+	<programme channel="华视新闻" start="20260805200000 +0800" stop="20260805210000 +0800">
+		<title lang="zh">华视2000整点新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260805210000 +0800" stop="20260805220000 +0800">
+		<title lang="zh">World News 9</title>
+	</programme>
+	<programme channel="华视新闻" start="20260805220000 +0800" stop="20260805230000 +0800">
+		<title lang="zh">52政经点</title>
+	</programme>
+	<programme channel="华视新闻" start="20260805230000 +0800" stop="20260805235500 +0800">
+		<title lang="zh">华视夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260805235500 +0800" stop="20260806010000 +0800">
+		<title lang="zh">华视2400夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260806010000 +0800" stop="20260806020000 +0800">
+		<title lang="zh">World News 9</title>
+	</programme>
+	<programme channel="华视新闻" start="20260806020000 +0800" stop="20260806030000 +0800">
+		<title lang="zh">华视2400夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260806030000 +0800" stop="20260806040000 +0800">
+		<title lang="zh">World News 9</title>
+	</programme>
+	<programme channel="华视新闻" start="20260806040000 +0800" stop="20260806050000 +0800">
+		<title lang="zh">华视2400夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260806050000 +0800" stop="20260806060000 +0800">
+		<title lang="zh">World News 9</title>
+	</programme>
+	<programme channel="华视新闻" start="20260806060000 +0800" stop="20260806070000 +0800">
+		<title lang="zh">华视2400夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260806070000 +0800" stop="20260806080000 +0800">
+		<title lang="zh">GOOD Morning台湾</title>
+	</programme>
+	<programme channel="华视新闻" start="20260806080000 +0800" stop="20260806090000 +0800">
+		<title lang="zh">GOOD Morning台湾</title>
+	</programme>
+	<programme channel="华视新闻" start="20260806090000 +0800" stop="20260806100000 +0800">
+		<title lang="zh">华视0900整点新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260806100000 +0800" stop="20260806110000 +0800">
+		<title lang="zh">华视1000新闻抢先报</title>
+	</programme>
+	<programme channel="华视新闻" start="20260806110000 +0800" stop="20260806115800 +0800">
+		<title lang="zh">华视1100新闻抢先报</title>
+	</programme>
+	<programme channel="华视新闻" start="20260806115800 +0800" stop="20260806130000 +0800">
+		<title lang="zh">华视午间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260806130000 +0800" stop="20260806140000 +0800">
+		<title lang="zh">华视1300午间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260806140000 +0800" stop="20260806150000 +0800">
+		<title lang="zh">华视1400整点新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260806150000 +0800" stop="20260806160000 +0800">
+		<title lang="zh">华视1500整点新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260806160000 +0800" stop="20260806165300 +0800">
+		<title lang="zh">华视在地新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260806165300 +0800" stop="20260806200000 +0800">
+		<title lang="zh">华视新闻晚报</title>
+	</programme>
+	<programme channel="华视新闻" start="20260806200000 +0800" stop="20260806210000 +0800">
+		<title lang="zh">华视2000整点新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260806210000 +0800" stop="20260806220000 +0800">
+		<title lang="zh">World News 9</title>
+	</programme>
+	<programme channel="华视新闻" start="20260806220000 +0800" stop="20260806230000 +0800">
+		<title lang="zh">52政经点</title>
+	</programme>
+	<programme channel="华视新闻" start="20260806230000 +0800" stop="20260806235500 +0800">
+		<title lang="zh">华视夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260806235500 +0800" stop="20260807010000 +0800">
+		<title lang="zh">华视2400夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260807010000 +0800" stop="20260807020000 +0800">
+		<title lang="zh">World News 9</title>
+	</programme>
+	<programme channel="华视新闻" start="20260807020000 +0800" stop="20260807030000 +0800">
+		<title lang="zh">华视2400夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260807030000 +0800" stop="20260807040000 +0800">
+		<title lang="zh">World News 9</title>
+	</programme>
+	<programme channel="华视新闻" start="20260807040000 +0800" stop="20260807050000 +0800">
+		<title lang="zh">华视2400夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260807050000 +0800" stop="20260807060000 +0800">
+		<title lang="zh">World News 9</title>
+	</programme>
+	<programme channel="华视新闻" start="20260807060000 +0800" stop="20260807070000 +0800">
+		<title lang="zh">华视2400夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260807070000 +0800" stop="20260807080000 +0800">
+		<title lang="zh">GOOD Morning台湾</title>
+	</programme>
+	<programme channel="华视新闻" start="20260807080000 +0800" stop="20260807090000 +0800">
+		<title lang="zh">GOOD Morning台湾</title>
+	</programme>
+	<programme channel="华视新闻" start="20260807090000 +0800" stop="20260807100000 +0800">
+		<title lang="zh">华视0900整点新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260807100000 +0800" stop="20260807110000 +0800">
+		<title lang="zh">华视1000新闻抢先报</title>
+	</programme>
+	<programme channel="华视新闻" start="20260807110000 +0800" stop="20260807115800 +0800">
+		<title lang="zh">华视1100新闻抢先报</title>
+	</programme>
+	<programme channel="华视新闻" start="20260807115800 +0800" stop="20260807130000 +0800">
+		<title lang="zh">华视午间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260807130000 +0800" stop="20260807140000 +0800">
+		<title lang="zh">华视1300午间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260807140000 +0800" stop="20260807150000 +0800">
+		<title lang="zh">华视1400整点新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260807150000 +0800" stop="20260807160000 +0800">
+		<title lang="zh">华视1500整点新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260807160000 +0800" stop="20260807165300 +0800">
+		<title lang="zh">华视在地新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260807165300 +0800" stop="20260807200000 +0800">
+		<title lang="zh">华视新闻晚报</title>
+	</programme>
+	<programme channel="华视新闻" start="20260807200000 +0800" stop="20260807210000 +0800">
+		<title lang="zh">华视2000整点新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260807210000 +0800" stop="20260807220000 +0800">
+		<title lang="zh">World News 9</title>
+	</programme>
+	<programme channel="华视新闻" start="20260807220000 +0800" stop="20260807230000 +0800">
+		<title lang="zh">52政经点</title>
+	</programme>
+	<programme channel="华视新闻" start="20260807230000 +0800" stop="20260807235500 +0800">
+		<title lang="zh">华视夜间新闻</title>
+	</programme>
+	<programme channel="华视新闻" start="20260807235500 +0800" stop="20260808000000 +0800">
+		<title lang="zh">华视2400夜间新闻</title>
+	</programme>
+	<channel id="香港卫视">
+		<display-name lang="zh">香港卫视</display-name>
+	</channel>
+	<programme channel="香港卫视" start="20260801000000 +0800" stop="20260801001000 +0800">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801001000 +0800" stop="20260801010000 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801010000 +0800" stop="20260801015000 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801015000 +0800" stop="20260801024000 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801024000 +0800" stop="20260801033000 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801033000 +0800" stop="20260801042000 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801042000 +0800" stop="20260801044000 +0800">
+		<title lang="zh">港视大直播</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801044000 +0800" stop="20260801045400 +0800">
+		<title lang="zh">印象重庆</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801045400 +0800" stop="20260801052400 +0800">
+		<title lang="zh">守心人</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801052400 +0800" stop="20260801055500 +0800">
+		<title lang="zh">高朋座</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801055500 +0800" stop="20260801062500 +0800">
+		<title lang="zh">香港故事</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801062500 +0800" stop="20260801065500 +0800">
+		<title lang="zh">东边西边</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801065500 +0800" stop="20260801071500 +0800">
+		<title lang="zh">港视大直播</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801071500 +0800" stop="20260801072800 +0800">
+		<title lang="zh">印象重庆</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801072800 +0800" stop="20260801073300 +0800">
+		<title lang="zh">早安中国</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801073300 +0800" stop="20260801080000 +0800">
+		<title lang="zh">时尚汇</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801080000 +0800" stop="20260801080100 +0800">
+		<title lang="zh">瀚宇广告</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801080100 +0800" stop="20260801080700 +0800">
+		<title lang="zh">早安中国</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801080700 +0800" stop="20260801083200 +0800">
+		<title lang="zh">独爱东南</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801083200 +0800" stop="20260801090000 +0800">
+		<title lang="zh">香港精神</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801090000 +0800" stop="20260801090600 +0800">
+		<title lang="zh">早安中国</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801090600 +0800" stop="20260801093200 +0800">
+		<title lang="zh">守心人</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801093200 +0800" stop="20260801100000 +0800">
+		<title lang="zh">健康加油站</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801100000 +0800" stop="20260801100600 +0800">
+		<title lang="zh">早安中国</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801100600 +0800" stop="20260801103500 +0800">
+		<title lang="zh">东边西边</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801103500 +0800" stop="20260801110500 +0800">
+		<title lang="zh">文化超声</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801110500 +0800" stop="20260801113400 +0800">
+		<title lang="zh">高朋座</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801113400 +0800" stop="20260801115500 +0800">
+		<title lang="zh">香江唱皖</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801115500 +0800" stop="20260801122400 +0800">
+		<title lang="zh">映像波特兰</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801122400 +0800" stop="20260801123000 +0800">
+		<title lang="zh">三奇企业宣传片</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801123000 +0800" stop="20260801124700 +0800">
+		<title lang="zh">港视午新闻</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801124700 +0800" stop="20260801131300 +0800">
+		<title lang="zh">时尚汇</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801131300 +0800" stop="20260801134200 +0800">
+		<title lang="zh">香港精神</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801134200 +0800" stop="20260801141200 +0800">
+		<title lang="zh">香港故事</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801141200 +0800" stop="20260801142500 +0800">
+		<title lang="zh">印象重庆</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801142500 +0800" stop="20260801144500 +0800">
+		<title lang="zh">午新闻</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801144500 +0800" stop="20260801153100 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801153100 +0800" stop="20260801161800 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801161800 +0800" stop="20260801170500 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801170500 +0800" stop="20260801172800 +0800">
+		<title lang="zh">动画天地</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801172800 +0800" stop="20260801175100 +0800">
+		<title lang="zh">动画天地</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801175100 +0800" stop="20260801181400 +0800">
+		<title lang="zh">动画天地</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801181400 +0800" stop="20260801183700 +0800">
+		<title lang="zh">动画天地</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801183700 +0800" stop="20260801190000 +0800">
+		<title lang="zh">动画天地</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801190000 +0800" stop="20260801191800 +0800">
+		<title lang="zh">港视大直播</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801191800 +0800" stop="20260801193000 +0800">
+		<title lang="zh">印象重庆</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801193000 +0800" stop="20260801200000 +0800">
+		<title lang="zh">美丽中华行</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801200000 +0800" stop="20260801203000 +0800">
+		<title lang="zh">守心人</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801203000 +0800" stop="20260801205000 +0800">
+		<title lang="zh">西望成都</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801205000 +0800" stop="20260801211800 +0800">
+		<title lang="zh">香港故事</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801211800 +0800" stop="20260801213000 +0800">
+		<title lang="zh">印象重庆</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801213000 +0800" stop="20260801220100 +0800">
+		<title lang="zh">讲述者</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801220100 +0800" stop="20260801223000 +0800">
+		<title lang="zh">健康加油站</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801223000 +0800" stop="20260801230000 +0800">
+		<title lang="zh">独爱东南</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801230000 +0800" stop="20260801232000 +0800">
+		<title lang="zh">亚洲青年说</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801232000 +0800" stop="20260801235400 +0800">
+		<title lang="zh">香港故事</title>
+	</programme>
+	<programme channel="香港卫视" start="20260801235400 +0800" stop="20260801235900 +0800">
+		<title lang="zh">港视大直播</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802000000 +0800" stop="20260802001000 +0800">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802001000 +0800" stop="20260802010000 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802010000 +0800" stop="20260802015000 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802015000 +0800" stop="20260802024000 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802024000 +0800" stop="20260802033000 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802033000 +0800" stop="20260802042000 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802042000 +0800" stop="20260802043600 +0800">
+		<title lang="zh">港视大直播</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802043600 +0800" stop="20260802045200 +0800">
+		<title lang="zh">那点财经事</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802045200 +0800" stop="20260802052100 +0800">
+		<title lang="zh">映像</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802052100 +0800" stop="20260802054700 +0800">
+		<title lang="zh">守心人</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802054700 +0800" stop="20260802061300 +0800">
+		<title lang="zh">独爱东南</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802061300 +0800" stop="20260802063400 +0800">
+		<title lang="zh">西望成都02</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802063400 +0800" stop="20260802065500 +0800">
+		<title lang="zh">香江唱皖</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802065500 +0800" stop="20260802071500 +0800">
+		<title lang="zh">港视大直播</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802071500 +0800" stop="20260802072200 +0800">
+		<title lang="zh">早安中国</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802072200 +0800" stop="20260802075000 +0800">
+		<title lang="zh">守心人</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802075000 +0800" stop="20260802080000 +0800">
+		<title lang="zh">印象重庆02</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802080000 +0800" stop="20260802080900 +0800">
+		<title lang="zh">早安中国</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802080900 +0800" stop="20260802084000 +0800">
+		<title lang="zh">高朋满座</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802084000 +0800" stop="20260802085600 +0800">
+		<title lang="zh">亚洲青年说</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802085600 +0800" stop="20260802090100 +0800">
+		<title lang="zh">早安中国</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802090100 +0800" stop="20260802093100 +0800">
+		<title lang="zh">健康加油站</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802093100 +0800" stop="20260802095800 +0800">
+		<title lang="zh">香港精神03</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802095800 +0800" stop="20260802100500 +0800">
+		<title lang="zh">早安中国</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802100500 +0800" stop="20260802103500 +0800">
+		<title lang="zh">香港故事</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802103500 +0800" stop="20260802110500 +0800">
+		<title lang="zh">文化超声03</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802110500 +0800" stop="20260802113500 +0800">
+		<title lang="zh">美丽中华行</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802113500 +0800" stop="20260802120200 +0800">
+		<title lang="zh">时尚汇04</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802120200 +0800" stop="20260802122400 +0800">
+		<title lang="zh">香江唱皖</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802122400 +0800" stop="20260802123000 +0800">
+		<title lang="zh">三奇企业宣传片</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802123000 +0800" stop="20260802124700 +0800">
+		<title lang="zh">港视午新闻02</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802124700 +0800" stop="20260802131300 +0800">
+		<title lang="zh">独爱东南</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802131300 +0800" stop="20260802134300 +0800">
+		<title lang="zh">文化超声03</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802134300 +0800" stop="20260802141200 +0800">
+		<title lang="zh">香港故事</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802141200 +0800" stop="20260802142500 +0800">
+		<title lang="zh">印象重庆02</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802142500 +0800" stop="20260802144500 +0800">
+		<title lang="zh">午新闻</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802144500 +0800" stop="20260802153200 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802153200 +0800" stop="20260802161800 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802161800 +0800" stop="20260802170500 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802170500 +0800" stop="20260802172800 +0800">
+		<title lang="zh">动画天地</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802172800 +0800" stop="20260802175100 +0800">
+		<title lang="zh">动画天地</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802175100 +0800" stop="20260802181400 +0800">
+		<title lang="zh">动画天地</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802181400 +0800" stop="20260802183700 +0800">
+		<title lang="zh">动画天地</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802183700 +0800" stop="20260802190000 +0800">
+		<title lang="zh">动画天地</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802190000 +0800" stop="20260802191700 +0800">
+		<title lang="zh">港视大直播</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802191700 +0800" stop="20260802194500 +0800">
+		<title lang="zh">独爱东南</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802194500 +0800" stop="20260802195300 +0800">
+		<title lang="zh">非凡讲述02</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802195300 +0800" stop="20260802200500 +0800">
+		<title lang="zh">印象重庆02</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802200500 +0800" stop="20260802203500 +0800">
+		<title lang="zh">健康加油站</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802203500 +0800" stop="20260802205900 +0800">
+		<title lang="zh">西望成都02</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802205900 +0800" stop="20260802213000 +0800">
+		<title lang="zh">香港故事</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802213000 +0800" stop="20260802220000 +0800">
+		<title lang="zh">高朋满座</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802220000 +0800" stop="20260802223000 +0800">
+		<title lang="zh">映像</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802223000 +0800" stop="20260802224500 +0800">
+		<title lang="zh">亚洲青年说</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802224500 +0800" stop="20260802232000 +0800">
+		<title lang="zh">讲述者</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802232000 +0800" stop="20260802234900 +0800">
+		<title lang="zh">香港精神03</title>
+	</programme>
+	<programme channel="香港卫视" start="20260802234900 +0800" stop="20260802235900 +0800">
+		<title lang="zh">港视大直播</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803000000 +0800" stop="20260803041500 +0800">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803041500 +0800" stop="20260803044500 +0800">
+		<title lang="zh">香港故事</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803044500 +0800" stop="20260803051500 +0800">
+		<title lang="zh">守心人</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803051500 +0800" stop="20260803054500 +0800">
+		<title lang="zh">高朋满座</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803054500 +0800" stop="20260803061500 +0800">
+		<title lang="zh">健康加油站</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803061500 +0800" stop="20260803064500 +0800">
+		<title lang="zh">时尚汇</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803064500 +0800" stop="20260803070300 +0800">
+		<title lang="zh">港视大直播</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803070300 +0800" stop="20260803070900 +0800">
+		<title lang="zh">早安中国</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803070900 +0800" stop="20260803073800 +0800">
+		<title lang="zh">香港故事</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803073800 +0800" stop="20260803075800 +0800">
+		<title lang="zh">香江唱皖</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803075800 +0800" stop="20260803080500 +0800">
+		<title lang="zh">早安中国</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803080500 +0800" stop="20260803083100 +0800">
+		<title lang="zh">独爱东南</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803083100 +0800" stop="20260803085900 +0800">
+		<title lang="zh">映像锡林郭勒</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803085900 +0800" stop="20260803090500 +0800">
+		<title lang="zh">早安中国</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803090500 +0800" stop="20260803093100 +0800">
+		<title lang="zh">守心人</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803093100 +0800" stop="20260803095900 +0800">
+		<title lang="zh">香港故事</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803095900 +0800" stop="20260803100500 +0800">
+		<title lang="zh">早安中国</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803100500 +0800" stop="20260803101600 +0800">
+		<title lang="zh">非凡讲述</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803101600 +0800" stop="20260803103700 +0800">
+		<title lang="zh">西望成都</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803103700 +0800" stop="20260803110700 +0800">
+		<title lang="zh">文化超声</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803110700 +0800" stop="20260803115500 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803115500 +0800" stop="20260803122400 +0800">
+		<title lang="zh">映像锡林郭勒</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803122400 +0800" stop="20260803124700 +0800">
+		<title lang="zh">三奇企业宣传片</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803124700 +0800" stop="20260803130700 +0800">
+		<title lang="zh">西望成都</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803130700 +0800" stop="20260803132900 +0800">
+		<title lang="zh">香江唱皖</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803132900 +0800" stop="20260803135700 +0800">
+		<title lang="zh">香港精神</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803135700 +0800" stop="20260803142500 +0800">
+		<title lang="zh">独爱东南</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803142500 +0800" stop="20260803144500 +0800">
+		<title lang="zh">午新闻</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803144500 +0800" stop="20260803151500 +0800">
+		<title lang="zh">健康加油站</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803151500 +0800" stop="20260803160500 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803160500 +0800" stop="20260803163500 +0800">
+		<title lang="zh">美丽中华行</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803163500 +0800" stop="20260803165700 +0800">
+		<title lang="zh">西望成都</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803165700 +0800" stop="20260803172200 +0800">
+		<title lang="zh">香江唱皖</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803172200 +0800" stop="20260803175000 +0800">
+		<title lang="zh">守心人</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803175000 +0800" stop="20260803182000 +0800">
+		<title lang="zh">时尚汇</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803182000 +0800" stop="20260803184500 +0800">
+		<title lang="zh">动画天地</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803184500 +0800" stop="20260803190000 +0800">
+		<title lang="zh">印象重庆</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803190000 +0800" stop="20260803192000 +0800">
+		<title lang="zh">港视大直播</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803192000 +0800" stop="20260803193000 +0800">
+		<title lang="zh">非凡讲述</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803193000 +0800" stop="20260803200000 +0800">
+		<title lang="zh">香港精神</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803200000 +0800" stop="20260803203000 +0800">
+		<title lang="zh">映像锡林郭勒</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803203000 +0800" stop="20260803210000 +0800">
+		<title lang="zh">东边西边</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803210000 +0800" stop="20260803213200 +0800">
+		<title lang="zh">讲述者</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803213200 +0800" stop="20260803220100 +0800">
+		<title lang="zh">香港故事</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803220100 +0800" stop="20260803224900 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803224900 +0800" stop="20260803232000 +0800">
+		<title lang="zh">文化超声</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803232000 +0800" stop="20260803235000 +0800">
+		<title lang="zh">东边西边</title>
+	</programme>
+	<programme channel="香港卫视" start="20260803235000 +0800" stop="20260803235900 +0800">
+		<title lang="zh">港视大直播</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804000000 +0800" stop="20260804001000 +0800">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804001000 +0800" stop="20260804003900 +0800">
+		<title lang="zh">映像锡林郭勒</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804003900 +0800" stop="20260804010900 +0800">
+		<title lang="zh">时尚汇</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804010900 +0800" stop="20260804014300 +0800">
+		<title lang="zh">文化超声</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804014300 +0800" stop="20260804020800 +0800">
+		<title lang="zh">香江唱皖</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804020800 +0800" stop="20260804023900 +0800">
+		<title lang="zh">香港故事</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804023900 +0800" stop="20260804030000 +0800">
+		<title lang="zh">港视大直播</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804030000 +0800" stop="20260804031400 +0800">
+		<title lang="zh">印象重庆</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804031400 +0800" stop="20260804034500 +0800">
+		<title lang="zh">映像锡林郭勒</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804034500 +0800" stop="20260804041200 +0800">
+		<title lang="zh">守心人</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804041200 +0800" stop="20260804043000 +0800">
+		<title lang="zh">那点财经事</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804043000 +0800" stop="20260804050000 +0800">
+		<title lang="zh">高朋满座</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804050000 +0800" stop="20260804052500 +0800">
+		<title lang="zh">香江唱皖</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804052500 +0800" stop="20260804055500 +0800">
+		<title lang="zh">健康加油站</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804055500 +0800" stop="20260804062500 +0800">
+		<title lang="zh">香港故事</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804062500 +0800" stop="20260804065500 +0800">
+		<title lang="zh">东边西边</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804065500 +0800" stop="20260804071500 +0800">
+		<title lang="zh">港视大直播</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804071500 +0800" stop="20260804072700 +0800">
+		<title lang="zh">印象重庆</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804072700 +0800" stop="20260804073300 +0800">
+		<title lang="zh">早安中国</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804073300 +0800" stop="20260804075800 +0800">
+		<title lang="zh">时尚汇</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804075800 +0800" stop="20260804080500 +0800">
+		<title lang="zh">早安中国</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804080500 +0800" stop="20260804083000 +0800">
+		<title lang="zh">香江唱皖</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804083000 +0800" stop="20260804085800 +0800">
+		<title lang="zh">映像锡林郭勒</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804085800 +0800" stop="20260804090400 +0800">
+		<title lang="zh">早安中国</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804090400 +0800" stop="20260804093000 +0800">
+		<title lang="zh">守心人</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804093000 +0800" stop="20260804095800 +0800">
+		<title lang="zh">东边西边</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804095800 +0800" stop="20260804100400 +0800">
+		<title lang="zh">早安中国</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804100400 +0800" stop="20260804103000 +0800">
+		<title lang="zh">时尚汇</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804103000 +0800" stop="20260804105600 +0800">
+		<title lang="zh">独爱东南</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804105600 +0800" stop="20260804110700 +0800">
+		<title lang="zh">印象重庆</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804110700 +0800" stop="20260804115500 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804115500 +0800" stop="20260804123000 +0800">
+		<title lang="zh">高朋满座</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804123000 +0800" stop="20260804124700 +0800">
+		<title lang="zh">港视午新闻</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804124700 +0800" stop="20260804131500 +0800">
+		<title lang="zh">时尚汇</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804131500 +0800" stop="20260804134500 +0800">
+		<title lang="zh">香港精神</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804134500 +0800" stop="20260804141000 +0800">
+		<title lang="zh">香江唱皖</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804141000 +0800" stop="20260804142500 +0800">
+		<title lang="zh">印象重庆</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804142500 +0800" stop="20260804144500 +0800">
+		<title lang="zh">午新闻</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804144500 +0800" stop="20260804151500 +0800">
+		<title lang="zh">东边西边</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804151500 +0800" stop="20260804160600 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804160600 +0800" stop="20260804163900 +0800">
+		<title lang="zh">文化超声</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804163900 +0800" stop="20260804171000 +0800">
+		<title lang="zh">高朋满座</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804171000 +0800" stop="20260804172500 +0800">
+		<title lang="zh">印象重庆</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804172500 +0800" stop="20260804175500 +0800">
+		<title lang="zh">时尚汇</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804175500 +0800" stop="20260804182000 +0800">
+		<title lang="zh">香江唱皖</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804182000 +0800" stop="20260804184200 +0800">
+		<title lang="zh">动画天地</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804184200 +0800" stop="20260804191700 +0800">
+		<title lang="zh">财富解码</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804191700 +0800" stop="20260804193000 +0800">
+		<title lang="zh">直击中国</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804193000 +0800" stop="20260804200000 +0800">
+		<title lang="zh">独爱东南</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804200000 +0800" stop="20260804203000 +0800">
+		<title lang="zh">香港精神</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804203000 +0800" stop="20260804210000 +0800">
+		<title lang="zh">东边西边</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804210000 +0800" stop="20260804213000 +0800">
+		<title lang="zh">映像锡林郭勒</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804213000 +0800" stop="20260804220000 +0800">
+		<title lang="zh">流行音乐盛典</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804220000 +0800" stop="20260804223600 +0800">
+		<title lang="zh">美丽中华行</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804223600 +0800" stop="20260804230600 +0800">
+		<title lang="zh">独爱东南</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804230600 +0800" stop="20260804233800 +0800">
+		<title lang="zh">东边西边</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804233800 +0800" stop="20260804235000 +0800">
+		<title lang="zh">印象重庆</title>
+	</programme>
+	<programme channel="香港卫视" start="20260804235000 +0800" stop="20260804235900 +0800">
+		<title lang="zh">港视大直播</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805000000 +0800" stop="20260805001000 +0800">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805001000 +0800" stop="20260805004000 +0800">
+		<title lang="zh">映像锡林郭勒</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805004000 +0800" stop="20260805011000 +0800">
+		<title lang="zh">时尚汇</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805011000 +0800" stop="20260805014400 +0800">
+		<title lang="zh">文化超声</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805014400 +0800" stop="20260805020900 +0800">
+		<title lang="zh">香江唱皖</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805020900 +0800" stop="20260805024000 +0800">
+		<title lang="zh">香港故事</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805024000 +0800" stop="20260805030000 +0800">
+		<title lang="zh">港视大直播</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805030000 +0800" stop="20260805031400 +0800">
+		<title lang="zh">印象重庆</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805031400 +0800" stop="20260805034500 +0800">
+		<title lang="zh">映像锡林郭勒</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805034500 +0800" stop="20260805041200 +0800">
+		<title lang="zh">守心人</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805041200 +0800" stop="20260805043000 +0800">
+		<title lang="zh">那点财经事</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805043000 +0800" stop="20260805050000 +0800">
+		<title lang="zh">高朋满座</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805050000 +0800" stop="20260805052500 +0800">
+		<title lang="zh">香江唱皖</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805052500 +0800" stop="20260805055500 +0800">
+		<title lang="zh">健康加油站</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805055500 +0800" stop="20260805062500 +0800">
+		<title lang="zh">香港故事</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805062500 +0800" stop="20260805065500 +0800">
+		<title lang="zh">东边西边</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805065500 +0800" stop="20260805071500 +0800">
+		<title lang="zh">港视大直播</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805071500 +0800" stop="20260805072700 +0800">
+		<title lang="zh">印象重庆</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805072700 +0800" stop="20260805073300 +0800">
+		<title lang="zh">早安中国</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805073300 +0800" stop="20260805075800 +0800">
+		<title lang="zh">时尚汇</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805075800 +0800" stop="20260805080500 +0800">
+		<title lang="zh">早安中国</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805080500 +0800" stop="20260805083000 +0800">
+		<title lang="zh">香江唱皖</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805083000 +0800" stop="20260805085800 +0800">
+		<title lang="zh">映像锡林郭勒</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805085800 +0800" stop="20260805090400 +0800">
+		<title lang="zh">早安中国</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805090400 +0800" stop="20260805093000 +0800">
+		<title lang="zh">守心人</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805093000 +0800" stop="20260805095800 +0800">
+		<title lang="zh">东边西边</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805095800 +0800" stop="20260805100400 +0800">
+		<title lang="zh">早安中国</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805100400 +0800" stop="20260805103000 +0800">
+		<title lang="zh">时尚汇</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805103000 +0800" stop="20260805105600 +0800">
+		<title lang="zh">流行音乐盛典</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805105600 +0800" stop="20260805110700 +0800">
+		<title lang="zh">直击中国</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805110700 +0800" stop="20260805115500 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805115500 +0800" stop="20260805122400 +0800">
+		<title lang="zh">高朋满座</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805122400 +0800" stop="20260805123000 +0800">
+		<title lang="zh">三奇企业宣传片</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805123000 +0800" stop="20260805124700 +0800">
+		<title lang="zh">港视午新闻</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805124700 +0800" stop="20260805131500 +0800">
+		<title lang="zh">时尚汇</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805131500 +0800" stop="20260805134500 +0800">
+		<title lang="zh">香港精神</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805134500 +0800" stop="20260805141000 +0800">
+		<title lang="zh">香江唱皖</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805141000 +0800" stop="20260805142500 +0800">
+		<title lang="zh">印象重庆</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805142500 +0800" stop="20260805144500 +0800">
+		<title lang="zh">午新闻</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805144500 +0800" stop="20260805151500 +0800">
+		<title lang="zh">东边西边</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805151500 +0800" stop="20260805160600 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805160600 +0800" stop="20260805163900 +0800">
+		<title lang="zh">文化超声</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805163900 +0800" stop="20260805170700 +0800">
+		<title lang="zh">高朋满座</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805170700 +0800" stop="20260805172500 +0800">
+		<title lang="zh">直击中国</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805172500 +0800" stop="20260805175100 +0800">
+		<title lang="zh">流行音乐盛典</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805175100 +0800" stop="20260805182000 +0800">
+		<title lang="zh">香港故事</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805182000 +0800" stop="20260805184500 +0800">
+		<title lang="zh">动画天地</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805184500 +0800" stop="20260805190000 +0800">
+		<title lang="zh">印象重庆</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805190000 +0800" stop="20260805191600 +0800">
+		<title lang="zh">港视大直播</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805191600 +0800" stop="20260805193700 +0800">
+		<title lang="zh">香江唱皖</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805193700 +0800" stop="20260805200300 +0800">
+		<title lang="zh">守心人</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805200300 +0800" stop="20260805203000 +0800">
+		<title lang="zh">香港精神</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805203000 +0800" stop="20260805210000 +0800">
+		<title lang="zh">东边西边</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805210000 +0800" stop="20260805213000 +0800">
+		<title lang="zh">映像锡林郭勒</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805213000 +0800" stop="20260805220000 +0800">
+		<title lang="zh">香港故事</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805220000 +0800" stop="20260805225100 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805225100 +0800" stop="20260805232100 +0800">
+		<title lang="zh">独爱东南</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805232100 +0800" stop="20260805235000 +0800">
+		<title lang="zh">东边西边</title>
+	</programme>
+	<programme channel="香港卫视" start="20260805235000 +0800" stop="20260805235900 +0800">
+		<title lang="zh">港视大直播</title>
 	</programme>
 </tv>

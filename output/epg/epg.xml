@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260807224613 +0800">
+<tv date="20260808104326 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -6942,11 +6942,8 @@
 	<programme channel="CHC动作电影" start="20260808085500 +0800" stop="20260808101100 +0800">
 		<title lang="zh">妖手摧花</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20260808101100 +0800" stop="20260808101500 +0800">
+	<programme channel="CHC动作电影" start="20260808101100 +0800" stop="20260808114800 +0800">
 		<title lang="zh">动作 导视</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20260808101500 +0800" stop="20260808114800 +0800">
-		<title lang="zh">射雕英雄传第三集</title>
 	</programme>
 	<programme channel="CHC动作电影" start="20260808114800 +0800" stop="20260808115000 +0800">
 		<title lang="zh">动作 导视</title>
@@ -7020,11 +7017,8 @@
 	<programme channel="CHC家庭影院" start="20260808024000 +0800" stop="20260808041900 +0800">
 		<title lang="zh">疯狂的石头</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20260808041900 +0800" stop="20260808042000 +0800">
+	<programme channel="CHC家庭影院" start="20260808041900 +0800" stop="20260808055400 +0800">
 		<title lang="zh">家庭 导视</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20260808042000 +0800" stop="20260808055400 +0800">
-		<title lang="zh">新不了情</title>
 	</programme>
 	<programme channel="CHC家庭影院" start="20260808055400 +0800" stop="20260808055500 +0800">
 		<title lang="zh">家庭 导视</title>
@@ -7398,10 +7392,10 @@
 	<channel id="北京财经">
 		<display-name lang="zh">北京财经</display-name>
 	</channel>
-	<programme channel="北京财经" start="20260808000000 +0800" stop="20260808000001 +0800">
+	<programme channel="北京财经" start="20260808000000 +0800" stop="20260808054500 +0800">
 		<title lang="zh">由https://epg.136605.xyz提供节目单服务</title>
 	</programme>
-	<programme channel="北京财经" start="20260808000001 +0800" stop="20260808060800 +0800">
+	<programme channel="北京财经" start="20260808054500 +0800" stop="20260808060800 +0800">
 		<title lang="zh">播前乐</title>
 	</programme>
 	<programme channel="北京财经" start="20260808060800 +0800" stop="20260808065000 +0800">

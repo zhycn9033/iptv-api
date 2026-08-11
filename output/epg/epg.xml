@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260810224220 +0800">
+<tv date="20260811105649 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7188,11 +7188,8 @@
 	<channel id="华视新闻">
 		<display-name lang="zh">华视新闻</display-name>
 	</channel>
-	<programme channel="华视新闻" start="20260811000000 +0800" stop="20260811000001 +0800">
+	<programme channel="华视新闻" start="20260811000000 +0800" stop="20260811010000 +0800">
 		<title lang="zh">由https://epg.136605.xyz提供节目单服务</title>
-	</programme>
-	<programme channel="华视新闻" start="20260811000001 +0800" stop="20260811010000 +0800">
-		<title lang="zh">华视2400夜间新闻</title>
 	</programme>
 	<programme channel="华视新闻" start="20260811010000 +0800" stop="20260811020000 +0800">
 		<title lang="zh">World News 9</title>
@@ -7263,11 +7260,8 @@
 	<channel id="TVBS新闻">
 		<display-name lang="zh">TVBS新闻</display-name>
 	</channel>
-	<programme channel="TVBS新闻" start="20260811000000 +0800" stop="20260811000001 +0800">
+	<programme channel="TVBS新闻" start="20260811000000 +0800" stop="20260811010000 +0800">
 		<title lang="zh">由https://epg.136605.xyz提供节目单服务</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20260811000001 +0800" stop="20260811010000 +0800">
-		<title lang="zh">新闻夜视界</title>
 	</programme>
 	<programme channel="TVBS新闻" start="20260811010000 +0800" stop="20260811020000 +0800">
 		<title lang="zh">十点不一样(重)</title>
@@ -7422,17 +7416,8 @@
 	<programme channel="CHC动作电影" start="20260811051600 +0800" stop="20260811052000 +0800">
 		<title lang="zh">动作 导视</title>
 	</programme>
-	<programme channel="CHC动作电影" start="20260811052000 +0800" stop="20260811070000 +0800">
+	<programme channel="CHC动作电影" start="20260811052000 +0800" stop="20260811100000 +0800">
 		<title lang="zh">大侦探皮卡丘</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20260811070000 +0800" stop="20260811082400 +0800">
-		<title lang="zh">南少林永春拳之突破重围等</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20260811082400 +0800" stop="20260811082500 +0800">
-		<title lang="zh">动作 导视</title>
-	</programme>
-	<programme channel="CHC动作电影" start="20260811082500 +0800" stop="20260811100000 +0800">
-		<title lang="zh">陆小凤传奇之剑神一笑</title>
 	</programme>
 	<programme channel="CHC动作电影" start="20260811100000 +0800" stop="20260811100500 +0800">
 		<title lang="zh">动作 导视</title>
@@ -7512,11 +7497,8 @@
 	<programme channel="CHC家庭影院" start="20260811064000 +0800" stop="20260811082400 +0800">
 		<title lang="zh">妈妈!</title>
 	</programme>
-	<programme channel="CHC家庭影院" start="20260811082400 +0800" stop="20260811082500 +0800">
+	<programme channel="CHC家庭影院" start="20260811082400 +0800" stop="20260811101000 +0800">
 		<title lang="zh">家庭 导视</title>
-	</programme>
-	<programme channel="CHC家庭影院" start="20260811082500 +0800" stop="20260811101000 +0800">
-		<title lang="zh">八月</title>
 	</programme>
 	<programme channel="CHC家庭影院" start="20260811101000 +0800" stop="20260811112500 +0800">
 		<title lang="zh">闪闪小超人</title>

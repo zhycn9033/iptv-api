@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/zhycn9033/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="斗地主" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗地主.png" group-title="🕘️更新时间",2026-09-11 22:06:50
+#EXTINF:-1 tvg-name="斗地主" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗地主.png" group-title="🕘️更新时间",2026-09-12 07:56:26
 https://www.goodiptv.club/douyu/488743
 #EXTINF:-1 tvg-name="斗地主" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/斗地主.png" group-title="棋牌",斗地主
 https://www.goodiptv.club/douyu/488743
@@ -535,8 +535,6 @@ http://220.167.170.252:4000/rtp/239.120.1.111:8254
 http://220.167.170.252:4000/rtp/239.120.1.110:8250
 #EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视4K.png" group-title="北京",北京卫视4K
 http://60.4.28.19:8077/rtp/239.253.92.220:6229
-#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视4K.png" group-title="北京",北京卫视4K
-http://115.171.216.32:4000/udp/225.1.8.120:8002
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京体育休闲.png" group-title="北京",北京体育休闲
 http://bmc.it7888.cn:8888/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京体育休闲.png" group-title="北京",北京体育休闲
@@ -1463,10 +1461,6 @@ http://27.154.99.234:3386/rtp/239.61.3.16:9616
 http://171.119.206.200:6000/rtp/226.0.2.93:8004
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC高清电影.png" group-title="轮播",CHC高清电影
 http://171.119.206.204:6000/rtp/226.0.2.93:8004
-#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC高清电影.png" group-title="轮播",CHC高清电影
-http://171.119.206.161:6000/rtp/226.0.2.93:8004
-#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC高清电影.png" group-title="轮播",CHC高清电影
-http://171.119.206.163:6000/rtp/226.0.2.93:8004
 #EXTINF:-1 tvg-name="孤独的美食家" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/孤独的美食家.png" group-title="轮播",孤独的美食家
 http://www.goodiptv.club/douyu/260322
 #EXTINF:-1 tvg-name="孤独的美食家" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/孤独的美食家.png" group-title="轮播",孤独的美食家
